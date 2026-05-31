@@ -1,0 +1,1 @@
+Can shoot needles out of his skin as a weapon
