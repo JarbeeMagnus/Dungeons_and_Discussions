@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1778706576239,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1778706564584,
+          "path": "Characters/Periwinkle.md",
+          "title": "Peri"
+        },
+        {
+          "type": "file",
+          "ctime": 1778706587906,
+          "path": "Characters/Orevana Brix.md",
+          "title": "Orevana"
+        },
+        {
+          "type": "file",
+          "ctime": 1778706599366,
+          "path": "Characters/Michael Landon.md",
+          "title": "Michael"
+        },
+        {
+          "type": "file",
+          "ctime": 1778706609308,
+          "path": "Characters/Mara Underhill.md",
+          "title": "Mara"
+        },
+        {
+          "type": "file",
+          "ctime": 1778706619974,
+          "path": "Characters/Hollia Butterfield.md",
+          "title": "Hollia"
+        }
+      ],
+      "title": "The Party"
+    }
+  ]
+}

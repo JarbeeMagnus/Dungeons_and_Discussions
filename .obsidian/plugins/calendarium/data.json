@@ -1,0 +1,1933 @@
+{
+  "autoParse": true,
+  "calendars": [
+    {
+      "name": "Thunder Junction Calendar",
+      "description": "The calendar used in Thunder Junction",
+      "id": "ID_6be80a7be979",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Moonday",
+            "id": "ID_0aa849482828"
+          },
+          {
+            "type": "day",
+            "name": "Trailsday",
+            "id": "ID_a83929dbcb4b"
+          },
+          {
+            "type": "day",
+            "name": "Wranglersday",
+            "id": "ID_89fb78cac8e9"
+          },
+          {
+            "type": "day",
+            "name": "Thunderdy",
+            "id": "ID_5bfbeafa7a1a"
+          },
+          {
+            "type": "day",
+            "name": "Frontierum",
+            "id": "ID_4a8abb89b8db"
+          },
+          {
+            "type": "day",
+            "name": "Starspur",
+            "id": "ID_488a9869d818"
+          },
+          {
+            "type": "day",
+            "name": "Sunderglow",
+            "id": "ID_3999f9f98bc8"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Sagebrush",
+            "length": 28,
+            "id": "ID_3beb0a98db1a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Longhorn",
+            "length": 28,
+            "id": "ID_09fa0a99781a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Dustwind",
+            "length": 28,
+            "id": "ID_58d8ebcb783b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Coyotehowl",
+            "length": 28,
+            "id": "ID_9bfb68d838fb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Rattlercoil",
+            "length": 28,
+            "id": "ID_3988598adbcb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sunfire",
+            "length": 28,
+            "id": "ID_1aaa18c94bda",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Thunderhoof",
+            "length": 28,
+            "id": "ID_5868c888ea2b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Redmesa",
+            "length": 28,
+            "id": "ID_eb8b08bb79a8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Highnoon",
+            "length": 28,
+            "id": "ID_c80a99fb2858",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Buckshot",
+            "length": 28,
+            "id": "ID_fbb9683af98a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Embertrail",
+            "length": 28,
+            "id": "ID_ea68ab9a89da",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Winterberry",
+            "length": 28,
+            "id": "ID_9a2a7b788b49",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2,
+        "years": [],
+        "useCustomYears": false
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_c9b8ebab4ab8",
+            "name": "Hot",
+            "type": "Dated",
+            "color": "#951818",
+            "month": 2,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_bb8bbaf868e8",
+            "name": "Rainy",
+            "type": "Dated",
+            "color": "#1e3d85",
+            "month": 11,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -907010467,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 12,
+        "month": 8,
+        "year": 1069
+      },
+      "events": [],
+      "categories": [
+        {
+          "id": "ID_98c9096b3939",
+          "color": "#6cbcd0",
+          "name": "Events"
+        },
+        {
+          "id": "ID_a8cbc9a83bb8",
+          "color": "#cf6cd0",
+          "name": "Quests"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD of MMMM, YYYY",
+      "hideEra": true
+    },
+    {
+      "name": "Faerun Calendar",
+      "description": "The calendar used by Faerun",
+      "id": "ID_6bf9f8a8a9eb",
+      "showIntercalarySeparately": false,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "First",
+            "id": "ID_fa9b986a085b"
+          },
+          {
+            "type": "day",
+            "name": "Second",
+            "id": "ID_683ab92afac8"
+          },
+          {
+            "type": "day",
+            "name": "Third",
+            "id": "ID_fa7809c90bf8"
+          },
+          {
+            "type": "day",
+            "name": "Fourth",
+            "id": "ID_38783beadb98"
+          },
+          {
+            "type": "day",
+            "name": "Fifth",
+            "id": "ID_4958aa28c89b"
+          },
+          {
+            "type": "day",
+            "name": "Sixth",
+            "id": "ID_5868384b7ac8"
+          },
+          {
+            "type": "day",
+            "name": "Seventh",
+            "id": "ID_b968187aebfb"
+          },
+          {
+            "type": "day",
+            "name": "Eighth",
+            "id": "ID_7b2b68695b29"
+          },
+          {
+            "type": "day",
+            "name": "Ninth",
+            "id": "ID_5a0b39badaea"
+          },
+          {
+            "type": "day",
+            "name": "Tenth",
+            "id": "ID_58886a58f8e9"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Hammer",
+            "length": 30,
+            "id": "ID_781938eb39a8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Alturiak",
+            "length": 30,
+            "id": "ID_0808694a8809",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ches",
+            "length": 30,
+            "id": "ID_eb19baaaeaa8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Tarsakh",
+            "length": 30,
+            "id": "ID_d87b999afbc9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mirtul",
+            "length": 30,
+            "id": "ID_4899d9d88878",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Kythorn",
+            "length": 30,
+            "id": "ID_39499a5a5a28",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Flamerule",
+            "length": 30,
+            "id": "ID_5afa48f9f90a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Eleasias",
+            "length": 30,
+            "id": "ID_3a6849398b4a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Eleint",
+            "length": 30,
+            "id": "ID_a8fa489adac9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Marpenoth",
+            "length": 30,
+            "id": "ID_3bf86899cb2a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Uktar",
+            "length": 30,
+            "id": "ID_ba5b9b59ca49",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Nightal",
+            "length": 30,
+            "id": "ID_1b09490ac959",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "id": "ID_ca5b5a9969a9",
+            "name": "Midwinter",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": true,
+            "timespan": 0,
+            "offset": 0,
+            "type": "leapday",
+            "after": 30,
+            "numbered": false
+          },
+          {
+            "id": "ID_daba0a7b9bcb",
+            "name": "Greengrass",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": true,
+            "timespan": 3,
+            "offset": 0,
+            "type": "leapday",
+            "after": 30,
+            "numbered": false
+          },
+          {
+            "id": "ID_0959e878aa89",
+            "name": "Midsummer",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": true,
+            "timespan": 6,
+            "offset": 0,
+            "type": "leapday",
+            "after": 30,
+            "numbered": false
+          },
+          {
+            "id": "ID_09ea991bf8fb",
+            "name": "The Feast of the Moon",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": true,
+            "timespan": 10,
+            "offset": 0,
+            "type": "leapday",
+            "after": 30,
+            "numbered": false
+          },
+          {
+            "id": "ID_caab48ca09c8",
+            "name": "Shieldmeet",
+            "interval": [
+              {
+                "interval": 4,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": true,
+            "timespan": 6,
+            "offset": 0,
+            "type": "leapday",
+            "after": 30,
+            "numbered": false
+          }
+        ],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_2b0b6a7b7a5b",
+            "name": "Spring",
+            "type": "Dated",
+            "color": "#1fa82f",
+            "month": 2,
+            "day": 19,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_7ab8180bcab9",
+            "name": "Summer",
+            "type": "Dated",
+            "color": "#fdff8a",
+            "month": 5,
+            "day": 20,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_1ad89bb83998",
+            "name": "Fall",
+            "type": "Dated",
+            "color": "#c06e11",
+            "month": 8,
+            "day": 21,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_98f868690a2b",
+            "name": "Winter",
+            "color": "#4ddbff",
+            "type": "Dated",
+            "kind": "None",
+            "month": 11,
+            "day": 20,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1336452489,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 10,
+        "month": 7,
+        "year": 1509
+      },
+      "events": [
+        {
+          "name": "Wintershield",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_dbc91959f81a",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Grand Revel",
+          "description": null,
+          "date": {
+            "month": 1,
+            "day": 14,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_2bba591bf829",
+          "note": null,
+          "category": "ID_383b783b484a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Rhyestertide",
+          "description": null,
+          "date": {
+            "month": 2,
+            "day": 1,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_6868792909a8",
+          "note": null,
+          "category": "ID_383b783b484a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Fey Day",
+          "description": null,
+          "date": {
+            "month": 2,
+            "day": 19,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_8b9a0a1af85b",
+          "note": null,
+          "category": "ID_383b783b484a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Fleetswake",
+          "description": null,
+          "date": {
+            "month": 2,
+            "day": [
+              21,
+              30
+            ],
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_c8eab938fac8",
+          "note": null,
+          "category": "ID_383b783b484a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Waukeentide",
+          "description": null,
+          "date": {
+            "month": 3,
+            "day": [
+              1,
+              10
+            ],
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_7bbac8a9eb78",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Plowing & Running",
+          "description": null,
+          "date": {
+            "month": 4,
+            "day": [
+              6,
+              9
+            ],
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_8b48793a588b",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Trolltide",
+          "description": null,
+          "date": {
+            "month": 5,
+            "day": 1,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_2b4afad98ae8",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Guildhall Day",
+          "description": null,
+          "date": {
+            "month": 5,
+            "day": 14,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_398b58286a59",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Dragondown",
+          "description": null,
+          "date": {
+            "month": 5,
+            "day": 20,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_097b2af84918",
+          "note": null,
+          "category": "ID_383b783b484a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Founder's Day",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": 1,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_8bd8eb59ca7a",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Soryn",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": [
+              3,
+              5
+            ],
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_68ea4b9858e9",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Lliira's Night",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": 7,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_5ad85a99db3a",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Ahghairon's Day",
+          "description": null,
+          "date": {
+            "month": 7,
+            "day": 1,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_e97bea296bf8",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Brightswords",
+          "description": null,
+          "date": {
+            "month": 8,
+            "day": 21,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_e9f9098b8ad8",
+          "note": null,
+          "category": "ID_383b783b484a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Day of Wonders",
+          "description": null,
+          "date": {
+            "month": 9,
+            "day": 3,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_0baa1a3b3b6a",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Stoneshar",
+          "description": null,
+          "date": {
+            "month": 9,
+            "day": 7,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_0a9adb0b2ae9",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Right of Misrule",
+          "description": null,
+          "date": {
+            "month": 9,
+            "day": 10,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_884b695b1b6a",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "God's Day",
+          "description": null,
+          "date": {
+            "month": 9,
+            "day": 15,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_d9ab095ba908",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Liar's Night",
+          "description": null,
+          "date": {
+            "month": 9,
+            "day": 30,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_aa883af9d9a9",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Last Sheaf",
+          "description": null,
+          "date": {
+            "month": 10,
+            "day": 20,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_2b4b0bd8d9da",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Howldowns",
+          "description": null,
+          "date": {
+            "month": 11,
+            "day": 11,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_a8da48ba290a",
+          "note": null,
+          "category": "ID_9b8bb91bca8b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Simiril",
+          "description": null,
+          "date": {
+            "month": 11,
+            "day": 20,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_3b191919bb1a",
+          "note": null,
+          "category": "ID_383b783b484a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_9b8bb91bca8b",
+          "color": "#a9b04f",
+          "name": "Waterdhavian Holidays"
+        },
+        {
+          "id": "ID_383b783b484a",
+          "color": "#23b375",
+          "name": "Universal Holidays"
+        },
+        {
+          "id": "ID_c8f93868d9ca",
+          "color": "#6cbcd0",
+          "name": "Events"
+        },
+        {
+          "id": "ID_f8b8895bb828",
+          "color": "#cf6cd0",
+          "name": "Quests"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD of MMMM, YYYY"
+    },
+    {
+      "name": "Ravnican Calendar",
+      "description": "The calendar used on Ravnica",
+      "id": "ID_191adb79f9ca",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Obzsday",
+            "id": "ID_7bb85b29f9da"
+          },
+          {
+            "type": "day",
+            "name": "Nivsday",
+            "id": "ID_dbd9096b389a"
+          },
+          {
+            "type": "day",
+            "name": "Svogsday",
+            "id": "ID_69a908f96949"
+          },
+          {
+            "type": "day",
+            "name": "Azorsday",
+            "id": "ID_087bcab8d9b9"
+          },
+          {
+            "type": "day",
+            "name": "Raksday",
+            "id": "ID_6a8b4bc95838"
+          },
+          {
+            "type": "day",
+            "name": "Razisday",
+            "id": "ID_db2999eaeb9a"
+          },
+          {
+            "type": "day",
+            "name": "Matsday",
+            "id": "ID_4889fa1bfb3a"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Seleszeni",
+            "length": 31,
+            "id": "ID_083b3a798939",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Dhazo",
+            "length": 30,
+            "id": "ID_fba9f92bcbd8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Prahz",
+            "length": 31,
+            "id": "ID_687be8089a68",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mokosh",
+            "length": 30,
+            "id": "ID_0bb9284a4b2b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Paujal",
+            "length": 31,
+            "id": "ID_4b9bca78d9e9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Cizarm",
+            "length": 31,
+            "id": "ID_7949aa294b88",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Tevnember",
+            "length": 30,
+            "id": "ID_599a182a3bca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Golgar",
+            "length": 31,
+            "id": "ID_a9489969ea0b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Quaegar",
+            "length": 30,
+            "id": "ID_299a9b897a4b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Xivaskir",
+            "length": 31,
+            "id": "ID_4a484bfb2b89",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Griev",
+            "length": 31,
+            "id": "ID_983bf87a38d9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Zuun",
+            "length": 28,
+            "id": "ID_cb3b89eb6a6a",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -1312538733,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 13,
+        "month": 0,
+        "year": 9987
+      },
+      "events": [
+        {
+          "name": "Guildpact Celebration",
+          "description": null,
+          "date": {
+            "month": 11,
+            "day": 28,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_998ae86b484a",
+          "note": null,
+          "category": "ID_88b97b798ae8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Party Arrives on Ravnica",
+          "description": null,
+          "date": {
+            "day": 18,
+            "month": 6,
+            "year": 9986
+          },
+          "id": "ID_6a4929fa0808",
+          "note": null,
+          "category": "ID_891afa9ba9da",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Operation Heal Donwec",
+          "description": null,
+          "date": {
+            "day": 31,
+            "month": 8,
+            "year": 9986
+          },
+          "id": "ID_886be9facb7a",
+          "note": null,
+          "category": "ID_891afa9ba9da",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Opatrovatel'ka Dies",
+          "description": null,
+          "date": {
+            "day": 31,
+            "month": 8,
+            "year": 9986
+          },
+          "id": "ID_4acbb83bfaaa",
+          "note": null,
+          "category": "ID_891afa9ba9da",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Kill Ljudo Jr.",
+          "description": null,
+          "date": {
+            "day": 31,
+            "month": 8,
+            "year": 9986
+          },
+          "id": "ID_eb0bdb493bc9",
+          "note": null,
+          "category": "ID_39b8e8380878",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_88b97b798ae8",
+          "color": "#808080",
+          "name": "Holiday"
+        },
+        {
+          "id": "ID_891afa9ba9da",
+          "color": "#6cbcd0",
+          "name": "Event"
+        },
+        {
+          "id": "ID_39b8e8380878",
+          "color": "#cf6cd0",
+          "name": "Quest"
+        },
+        {
+          "id": "ID_59da19ba098b",
+          "color": "#6ddb90",
+          "name": "orange"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events-ravnica",
+      "dateFormat": "MMMM DD, YYYY"
+    },
+    {
+      "name": "Recaps",
+      "description": "A calendar for the real world.",
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": false,
+        "incrementDay": true,
+        "displayMoons": true,
+        "firstWeekDay": 1,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_19ea684b4a08"
+          },
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_2928b90ab949"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_0ad9a8f9e95b"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_195a4b290bc9"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_abe8c89b0999"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_2b5b8a79fa4a"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_1a78cb79c8cb"
+          }
+        ],
+        "months": [
+          {
+            "name": "January",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_e9997a780b3a"
+          },
+          {
+            "name": "February",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b8c9ebeb0b89"
+          },
+          {
+            "name": "March",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b83bda2b9be8"
+          },
+          {
+            "name": "April",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_29baea7b28ab"
+          },
+          {
+            "name": "May",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_6a3899fad909"
+          },
+          {
+            "name": "June",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_384aeb1afa8a"
+          },
+          {
+            "name": "July",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_48b8cba87b8a"
+          },
+          {
+            "name": "August",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_fa0b1a6bab8a"
+          },
+          {
+            "name": "September",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da880b8af849"
+          },
+          {
+            "name": "October",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_babba8186968"
+          },
+          {
+            "name": "November",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da582bfaf9b9"
+          },
+          {
+            "name": "December",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_ba1bab4a3a28"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29.530588853,
+            "offset": 9.24953,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_a9ab186b1819"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 400
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 100
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              }
+            ],
+            "offset": 0,
+            "timespan": 1,
+            "intercalary": false,
+            "id": "ID_b91ad86a887a"
+          }
+        ],
+        "eras": [
+          {
+            "name": "Before Christ",
+            "format": "{{era_name}}",
+            "id": "ID_9a2978c92baa",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "name": "Anno Domini",
+            "format": "{{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "id": "ID_a8db38899a2b",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          }
+        ],
+        "offset": 0,
+        "padDays": 2,
+        "padMonths": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "STANDARD_WINTER",
+            "name": "Winter",
+            "color": "#ADD8E6",
+            "kind": "Winter",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "STANDARD_SPRING",
+            "name": "Spring",
+            "kind": "Spring",
+            "color": "#90EE90",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "STANDARD_SUMMER",
+            "name": "Summer",
+            "kind": "Summer",
+            "color": "#FFFF00",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "STANDARD_AUTUMN",
+            "name": "Autumn",
+            "kind": "Autumn",
+            "color": "#DAA520",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": -12.5,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 25,
+        "month": 4,
+        "year": 2026
+      },
+      "events": [
+        {
+          "name": "Summer Solstice",
+          "description": "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
+          "id": "824599",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
+          "id": "824600",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "The equinox marks the day and the night is equally as long.",
+          "id": "824601",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "The equinox marks the day and the night is equally as long.",
+          "id": "824602",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Christmas",
+          "description": "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
+          "id": "824603",
+          "note": null,
+          "date": {
+            "day": 25,
+            "month": 11,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "type": "Recurring",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Paschal Full Moon",
+          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+          "id": "824604",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Easter",
+          "description": "Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.",
+          "id": "824605",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Easter Monday",
+          "description": "The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.",
+          "id": "824606",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Good Friday",
+          "description": "Good Friday is the Friday preceding Easter. It comemmorates the crucifixion of Christ according to the Bible.",
+          "id": "824607",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Pentecost",
+          "description": "Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible.",
+          "id": "824608",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "christian-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "New Year's Day",
+          "description": "New Year's Day marks the date of a new year on the Gregorian Calendar. It dates when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.",
+          "id": "824609",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": [
+              null,
+              null
+            ],
+            "month": 0
+          },
+          "type": "Recurring",
+          "category": "secular-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Valentine's Day",
+          "description": "Valentine's day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
+          "id": "824610",
+          "note": null,
+          "date": {
+            "day": 14,
+            "year": [
+              null,
+              null
+            ],
+            "month": 1
+          },
+          "type": "Recurring",
+          "category": "secular-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Halloween",
+          "description": "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
+          "id": "824611",
+          "note": null,
+          "date": {
+            "day": 31,
+            "year": [
+              null,
+              null
+            ],
+            "month": 9
+          },
+          "type": "Recurring",
+          "category": "secular-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Introduction of the Gregorian Calendar",
+          "description": "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
+          "id": "824614",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 15,
+            "year": 1582,
+            "month": 9
+          },
+          "category": "historical-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        }
+      ],
+      "id": "ID_aa590baaabe8",
+      "categories": [
+        {
+          "name": "Natural Events",
+          "id": "natural-events",
+          "color": "#2E7D32"
+        },
+        {
+          "name": "Christian Holidays",
+          "id": "christian-holidays",
+          "color": "#9b2c2c"
+        },
+        {
+          "name": "Secular Holidays",
+          "id": "secular-holidays",
+          "color": "#0D47A1"
+        },
+        {
+          "name": "Historical Events",
+          "id": "historical-events",
+          "color": "#455A64"
+        },
+        {
+          "name": "Miscellaneous Events",
+          "id": "miscellaneous-events",
+          "color": "#0288D1"
+        }
+      ],
+      "dateFormat": "YYYY-MM-DD"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_191adb79f9ca",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": "aat-inline-event",
+  "paths": []
+}
