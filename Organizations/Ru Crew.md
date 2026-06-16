@@ -3,7 +3,7 @@ note_type: "Organization"
 aliases:
   - "crew"
 ---
----
+----
 ![[The_Ru.jpg | banner]]
 
 >[!column|2 no-title]
@@ -24,19 +24,20 @@ aliases:
 >> - [[Marge]]
 >> - [[Jilly Everproud|Jilly]]
 >> - [[Rakcha ☠︎︎]]
->> - [[Belia Bushtail]]
 >> - Techrohet ☠︎
 >> - Tandy ☠︎
 >> - [[Ellegorin Omavius|Ellegorin]]
->> - [[Befallor]] (*previously*)
->> - [[Delandri]] (*previously*)
 >> - [[Kiro Goldengleam|Kiro]]
->> - [[Martine]]
+>> - [[Martine Dawnstrider]]
 >> - [[Jemzer]]
----
+>> # Past Members
+>> - [[Befallor]]
+>> - [[Delandri]]
+>> - [[Belia Bushtail]]
+----
 All of our crew!
 
----
+----
 
 ## Appears in
 ```dataview
@@ -45,9 +46,10 @@ WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
 
----
+----
 ## Events Involving the Ru Crew
 - **Griev 24, 9986** - Reconnect with The Ru Crew!
 - **Griev 27, 9986** - Helped Tandy's Ghost Pass On
----
-#### Open Tasks
+----
+
+- [ ] Add "NPC added to crew" dates
