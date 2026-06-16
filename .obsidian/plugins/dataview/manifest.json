@@ -1,11 +1,12 @@
 {
-  "id": "dataview",
-  "name": "Dataview",
-  "version": "0.5.68",
-  "minAppVersion": "0.13.11",
-  "description": "Complex data views for the data-obsessed.",
-  "author": "Michael Brenan <blacksmithgu@gmail.com>",
-  "authorUrl": "https://github.com/blacksmithgu",
-  "helpUrl": "https://blacksmithgu.github.io/obsidian-dataview/",
-  "isDesktopOnly": false
+	"id": "breadcrumbs",
+	"name": "Breadcrumbs",
+	"version": "4.4.4",
+	"minAppVersion": "1.0.0",
+	"description": "Add structured hierarchies to your notes",
+	"author": "SkepticMystic",
+	"authorUrl": "https://github.com/SkepticMystic/breadcrumbs",
+	"fundingUrl": "https://github.com/SkepticMystic/breadcrumbs#donations",
+	"helpUrl": "https://publish.obsidian.md/breadcrumbs-docs",
+	"isDesktopOnly": false
 }
