@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 140
 ---
----
+----
 ![[140.jpg|sban]]
 
 >[!column|2 no-title]
@@ -31,7 +31,7 @@ recap_number: 140
 ## Summary
 We successfully enter the Operations & Logistics Tower under the ruse of being plumbers/investigating a "strange white substance" and claim to need access into the heavily-guarded Requiem Gate. We discover that the Commander of this project is none other than Donwec's cousin, Yunaska. She allows us into the "Project Requiem Site" and we find dozens of people digging what appears to be a large hole. Mara suspects it is related something she's seen before called a "soul dump hole". On our way back to the Logistics Tower, we learn that Grizzut has been caught sneaking in one of the MC towers. We take a long time wrapping up and are allowed to sleep in the tower.
 
----
+----
 
 ## Detailed Notes
 - The Requiem Gate is the most fortified gate we’ve encountered and doesn’t seem to have any statues and adornments that we can see from a kilometer away
@@ -79,5 +79,5 @@ We successfully enter the Operations & Logistics Tower under the ruse of being p
 	- Notably, there are no windows or balconies that we can see
 	- We take a long rest and WAKE UP LEVEL 13!!!!!
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

@@ -3,7 +3,7 @@ note_type: "Recap"
 recap_number: 119
 
 ---
----
+----
 ![[119.webp|sban]]
 
 >[!column|2 no-title]
@@ -32,7 +32,7 @@ recap_number: 119
 ## Summary
 We did some downtime activities, including getting info on Morla and coming up with a believable backstory for Orevana's noble impersonation. We attend the Fashion Show and learn of Ljudo Jr's drug addiction and incestual relationship with his sister. When Morla impersonates Michael, he gates her out of the building along with 2 people that were next to her - she sprouted wings but the others fell to their deaths. We are not being held within the building by the Boros Legion as they investigate the murder of the 2 people.
 
----
+----
 
 ## Detailed Notes
 **Downtime activities:**  
@@ -62,5 +62,5 @@ Calls the Second District home - Small, reclusive cartel family struggling with 
 Marek Kartashov (fake grandfather and head of the Kartashov family)  
 Vaneska Kartashov (fake mother) - only child, had several children of her own (not sure how many, but more than 5 or 6, Madam Gajic believes)
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]] || [[Kullic]]

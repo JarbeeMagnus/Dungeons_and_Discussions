@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 149
 ---
----
+----
 ![[149.jpg|sban]]
 
 >[!column|2 no-title]
@@ -30,7 +30,7 @@ recap_number: 149
 ## Summary
 After the fight, we take a look around. Orevana discovers the priest we fought was actually a vampire - and he was still alive! She and Hollia quickly kill him while Mara and Peri continue looking down the hallway into other rooms. We don't find a manual for operating the contraption that is holding the djinn, but we do manage to open a magically locked door that leads to the teleportation circle. Unfortunately, it's been rendered unusable from a large crack running through it. Michael and Orevana manage to start freeing the djinn by fiddling with the control panel. We free the djinn and do NOT let Grizzut take it captive. As it flies into the air, a giant black tower appears and starts firing lasers at the djinn. We take to the air (in various ways) and enter a fight with a bunch of Orzhov soldiers and mages. Peri uses reverse gravity to keep us suspended during the fight and Hollia teleported herself back to The Ru by using Word of Recall.
 
----
+----
 
 ## Detailed Notes
 - Grizzut wanders around taking stock of the room with its gadgets and gizmos
@@ -62,5 +62,5 @@ After the fight, we take a look around. Orevana discovers the priest we fought w
 	- Peri used reverse gravity and he, Mara, and Belia are floating at the top of it
 	- Michael is a dragon
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

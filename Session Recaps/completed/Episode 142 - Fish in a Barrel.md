@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 142
 ---
----
+----
 ![[142.webp|sban]]
 
 >[!column|2 no-title]
@@ -37,7 +37,7 @@ recap_number: 142
 ## Summary
 We split the party to gather as much information from within the Operations & Logistics Tower as possible. Mara and Belia go into the library and find various maps, schematics, and records related to Project Requiem and the domes where the djinn are being held. Peri and Michael work together on another fly-spy mission following Yunaska into the teleportation room. They learn that there are 4 portals leading out of the Logistics Tower and believe three go to the various MC domes (the forth is a mystery). They also see Yunaska return from a portal with a Guild Mage discussing a "surprise at dinner tomorrow". Hollia decodes the pocketbook Mara stole previously and gets a bunch of statistics about Project Requiem. Orevana and Donwec share a moment when he thanks her for helping him. Once we all reconvene, we scry on Grizzut and see he's being held in a room, unconscious, and the room brickwork matches the Logistics Tower - the group quickly finds him but we are interrupted by Yunaska and the Guild Mage.
 
----
+----
 
 ## Detailed Notes
 - We go into the lunchroom and Mara takes out the notebook she palmed previously
@@ -107,5 +107,5 @@ We split the party to gather as much information from within the Operations & Lo
 	- Yunaska and the mage explain they want to REALLY surprise Ljudo and explains we need to go to another building. We will leave in the morning. Carodejnik advises we sleep on the 10th floor tonight
 	- Yunaska says she can open a magical door for the group to sleep tonight that has a bucket for when we need to use the bathroom.. “The timing is crucial” regarding where we sleep tonight. Michael notices her run her fingers across a keyring and he tells Mara about it (NOTE: future stealing!)
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

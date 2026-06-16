@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 132
 ---
----
+----
 ![[132.webp|sban]]
 
 >[!column|2 no-title]
@@ -33,7 +33,7 @@ recap_number: 132
 ## Summary
 We pack up the ship to embark on a journey into the storm to the next tower when suddenly Grizzut gets a message from ARP. Apparently, Rakdos Cultists ambushed them (Jothor is dead) and he is hiding nearby at a mana storage tank facility. We fly out with the lightning rods to protect the ship - and charge a battery Grizzut says we need at the next tower. After going through a lightning storm, we encounter some flying snakes (Peri talked them out of bothering us), Kartashov mining troughs, and a town that we think had been flattened by some kind of worm. Grizzut gets another message from ARP that he had been found by someone. We go in ARP's direction and come across a Simic laboratory called "Yimmugo" that is run by a Vedalkan biomancer. While discussing Orevana's arm, she agrees to let him replace it on the condition that Hollia stays with her. While waiting, the rest of the party doesn't get any interesting information about the facility.
 
----
+----
 
 ## Detailed Notes
 After a long rest, the party prepares to depart in the morning. The winds are between 40-50mph. We decide to fly below the storm (5-6k ft) (sky-eaters, no ability to get bearings) but higher than the tree canopy to try to evade any spider tendrils. We plan to fly dead reckoning (straight line) as we finish preparing for departure. Peri and Hollia figure out how they will be communicating during the flight since he will be on deck deflecting lightning. Jilly and Donwec load the ship with cargo. Orevana talks to Donwec about how he’s been acting and he is evasive about it. She assures him that Ljudo will die no matter what happens and they both leave the conversation there. He goes off to rejoin Jilly in loading the ship. Mara goes to talk to Marge. She offers the ability to drop Marge off wherever she wants once we’re off planet, but Marge would have to cut the pessimism until then. Marge seems receptive to this deal. Grizzut dictates some of the items that ARP needs at the next Tower - including a battery that he wants to charge with the lightning from the storm.  
@@ -62,5 +62,5 @@ Tamelk tells us that there are 78 aquatic research subjects in this facility and
   
 Orevana asks if he is an active Biomancer and he in turn asks about her arm - she did not successfully hide it. He takes a look at her arm and remarks at how advanced it was. Orevana asks about changing the color to be more discreet and he said that he can swap out the entire thing to something she would like better. Orevana decides to let him operate - as long as Hollia is with her at all times. Tamelk asks to keep her previous arm as payment for his services, which she agrees. Michael, Mara, and Belia go to into the living area to wait. ARP laments about missing his body so Mara steps in to pretend to eat for him (it was very wholesome). Peri checks in with ARP and asks about one of his students named “Psy”. ARP confirmed that Psy and other students disappeared (“*a successful experiment!*”) and he can’t disclose any more information on the subject. Peri said Psy was a friend of his. Peri also asks ARP if his dagger (or something else) could be imbued with magic (he previously had a staff that was broken saving a bunch of people). ARP said he could help with that back in his lab after all of this is over, “*provided we live!*” In the meantime, Mara does some snooping around the living quarters. She tries looking for a secret door at the bookshelf, but doesn’t find one. She doesn’t end up finding anything notable. Michael reads a book about green and blue mana. After a few hours, Orevana and Hollia rejoin the group with Orevana sporting an almost-flesh colored electric tentacle arm replacement.
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 128
 ---
----
+----
 ![[128.jpg|sban]]
 
 >[!column|2 no-title]
@@ -37,7 +37,7 @@ recap_number: 128
 ## Summary
 We meet the survivors of The Ru and Kullic is spontaneously pulled away by Nivmizzit for an urgent task. Grizzut explains he was tasked with finding us and getting into the eye of the storm. After learning about what happened getting to Ravnica, we set out to the crash site of The Ru to fix it up (leaving Donwec with Grizzut). On the way, we find an abandoned power station with a flesh abomination inside that we quickly destroy. Upon finding the spelljammer, we see two Gruul teenagers looting it.
 
----
+----
 
 ## Detailed Notes
 Mara softly hugs Captain Zellahne who explains that she recently broke her leg. Mara asks if everyone survived and Zellahne’s face darkens. She said they lost most of the crew, but she thinks the ship is still intact. Zellahne calls out “Jilly” and a dwarven woman comes downstairs. She says hi excitedly and then runs back upstairs to get the others. Suddenly, Grizzut starts to convulse and a deep voice comes from his open mouth. Nivmizzit talks to Kullic through Grizzut and asks him to join them on another front. Kullic says yes and then immediately disappears after a flash.  
@@ -58,5 +58,5 @@ We leave the powerplant, and continue traveling until we find The Ru completely 
 
 Bellia sees a flicker of light from inside the ship and points it out. Michael, Mara, and Peri all gain the ability to fly (Michael becomes angelic, Mara’s cloak sprouts raven wings, and Peri wild shapes) and rush towards the ship. Bellia runs up branches to get inside. Hollia and Orevana stay outside the ship to watch. Mara and Bellia get to the ship first and find a teenager covered in dirt with a bone circlet. The person ducks and hides when they see Bellia / Mara. After a loud bang, Orevana and Hollia see two tribal teenagers slide down a rope with a satchel full of stuff from inside the ship.
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 120
 ---
----
+----
 ![[120.gif|sban]]
 
 >[!column|2 no-title]
@@ -34,7 +34,7 @@ recap_number: 120
 ## Summary
 After the murder of 2 guilded people, Boros swarm the museum. When going through the "Verity Circle" (Zone of Truth), the team had a few hiccups. Hollia was pulled aside for mentioning her dress was from Faerun, Peri for un-polymorphing from a bee to himself in front of the guards, and Mara for talking about Neogi and Nulviir. Orevana leaves with Dimwec/Donwec holding piggy Michael. Kullic also gets out but slips that "the pig isn't a pig", resulting in a chase scene (Michael is able to get away). Hollia convinces the guards to let her talk to Mara and Peri in the wagon outside and, once close enough, teleports the three of them to the University Library using Word of Recall. We all make it out unscathed!
 
----
+----
 
 ## Detailed Notes
 The entire museum goes on lockdown after Boros discovers the bodies outside. Michael tells the group that he thinks Morla is a succubus before misty stepping into her seat. Red mist covered all exits and side wings so that all guests (except Kullic) were trapped inside. Viadka had a complete breakdown near backstage, insisting that her show “is RUINED”. Orevana and Dimwec successfully console/comfort her after her guards let them through. Mara and Opatrovatel’ka (who we learned carries a dagger) establish that neither like each other. Michael also came with and made the models swoon after unbuttoning his shirt.  
@@ -59,5 +59,5 @@ Hollia slipped out of the building and convinced the guards to let her talk to P
 
 Orevana is unable to convince Opatrovatel’ka to let her come home with Dimwec. She kisses him goodbye (which was awkwardly reciprocated) and manages to get some hair for future scrying. Kullic, Orevana, and Michael reconvene with the rest of the group at the University.
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]] || [[Kullic]]

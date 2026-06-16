@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 123
 ---
----
+----
 ![[123.jpg|sban]]
 
 >[!column|2 no-title]
@@ -37,7 +37,7 @@ recap_number: 123
 ## Summary
 The boys are issued severance notices from Pracovisku Development, so we go to the office to pay fines and for everyone else to officially quit. We check in on Kullic's church and then head to talk to Madam Gajic about getting to the 6th District (travel is currently halted due to Gruul and Rakdos fighting in the area). She sends us to Pivlichino's where we learn about an upcoming Winter Rally - we can hire a pilot after that, since the fastest will be in town for the event. The Rally is in 2 weeks, so we decide we can try to heal Dimwec/Donwec in the meantime. Orevana arranges a date for the following day at a crossbow shop. 
 
----
+----
 
 ## Detailed Notes
 Early the next day, the party hears a knock on the door. Orevana answers to see a flying thrall with a golden mask who hands her an envelope. Michael, Kullic, and Peri are given severance notices due to not going to work last week. The fee was 825 zinos per person with compounded interest per day. They owed 2475 total so far. If not paid by the end of 4 weeks, a contract reaper will arrive to collect the zinos or the person serves in the afterlife. They decide to go pay the fine and, while at the office, Mara, Hollia, and Orevana officially quit.  
@@ -66,5 +66,5 @@ The next morning the team does another seance so Orevana can cast sending again 
   
 The plan is for Peri to summon a fey to charm Opatrovatel’ka to leave. Once alone, Hollia will look over Dimwec to determine what might be wrong with him and, if able, heal him. Then the party will have an ally on the inside that can help them. Dimwic will arrive in 20 minutes, so they don’t have much time to prepare.
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]] || [[Kullic]]

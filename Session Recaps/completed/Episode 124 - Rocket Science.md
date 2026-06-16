@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 124
 ---
----
+----
 ![[124.jpg|sban]]
 
 >[!column|2 no-title]
@@ -42,7 +42,7 @@ recap_number: 124
 ## Summary
 We execute Operation Heal Donwec and were *mostly* successful. Dimwec/Donwec underwent excruciating pain as his scar turned black and blistery. After he fell unconscious, the party managed to get him out of the crossbow shop and to the Selesnya Conclave since Peri had a friend there. She was unable to help us since Donwec is from Orzhov, but luckily he woke up shortly thereafter. He didn't have much information about Project Firmament, but he was able to give us a few details about his father. We bond with him over the next two weeks until the WINTER SMASH RALLY begins! We hear the rules and win the first event - only our team, Do-Drak, and one hobgoblin remained once the first leg was over.
 
----
+----
 
 ## Detailed Notes
 At Geyb’s Crossbow Shop, Dimwec arrives with his 4 guards a few minutes late because they stopped at MushRomold’s and got everyone Mulchie Meals with Roachmilk Shakes. Mara fed piggy Michael her food. Dimwec brought his own crossbow, but was very interested in some of the other crossbows on the wall. Dimwec and Orevana both grab a crossbow to shoot targets at the same time. Orevana hits the dummy in the head and Dimwec’s shot goes wide. He cheers, thinking he hit the head - Orevana does not correct him and celebrates his great hit. The next shots had a similar outcome. They continue taking shots as the rest of the team proceeds with their plan.  
@@ -72,5 +72,5 @@ The guns go off and we pull out in front. The Gruul team is launching missiles a
   
 The Rakdos team included flyers, so they immediately get disqualified. They proceed with causing havoc during the event until a wizard finally bamf’s them out. Other notable events from the fight include Michael’s giant hand summon, Hollia’s wall of daggers, and Peri turning into an elk to retrieve the flag. A giant ice creature appeared when he took the flag that did IMMENSE damage to the team. In the end, only our team, Do-Drak, and one hobgoblin survive to go onto the next event.
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]] || [[Kullic]]

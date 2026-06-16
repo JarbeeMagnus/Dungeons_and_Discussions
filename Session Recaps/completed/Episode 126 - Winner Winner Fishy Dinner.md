@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 126
 ---
----
+----
 ![[126.jpg|sban]]
 
 >[!column|2 no-title]
@@ -39,7 +39,7 @@ recap_number: 126
 ## Summary
 We start off at the after-party of the Winter Smash Rally. The party  gets wasted and Peri convinces Mara to buy us all separate hotel rooms (though Mara cuddles piggy-Michael and Orevana & Donwec share a room). Mara and Michael awake the next morning with a blood and pasta-stained map of the 6th District, courtesy of Morla. While on the journey, Pannikin gives us the run-down of what it's like in the 6th since our map is slightly outdated. The party also discusses possibilities on how to get into the Reclamation Zone since access will be highly restricted. While stopping off in the 8th District to refuel, we decide to check out the cargo hold to see what we're shipping - the contents of one of the VERY locked & glyphed containers included expensive champagne and a secret compartment with drugs, jewels, and Simic-labeled genetic material. We store it all back before Pannikin gets back to the ship.
 
----
+----
 
 ## Detailed Notes
 All other opponents were killed save for Do-Drak (who notably didn’t come to the afterparty. At the party, Pivlic comments that it was the bloodiest Winter Rally he’s ever hosted. Pannikin confirmed with the party that they will be leaving in 2 days. Orevana, after some handsy celebrating with Donwec, attempts to find Hollia someone to hook up with at the party, but she was unsuccessful in finding someone Hollia was interested in. Soon, Donwec looks like he’s going to be sick and Hollia fixed him up before he throws up at the party. Mara starts bringing up Weslyn with Peri so he summons the cute ferret to distract her. The cute ferret charms Mara into paying for the hotel rooms for everyone. Michael was able to cast nondetection on Donwec before everyone retired to their own rooms to sleep all day. Mara cuddled with Michael piggy, Orevana and Donwec shared a room, and all of the others had their own private room thanks to Mara’s generosity.
@@ -58,5 +58,5 @@ Options that the party considers for getting into the reclamation zone: Orevana 
   
 The plan after landing: Kullic will gather info in general, Hollia will find soldiers to ask, someone else should investigate the brothel(s).
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]] || [[Kullic]]

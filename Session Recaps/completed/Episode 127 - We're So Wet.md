@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 127
 ---
----
+----
 ![[127.gif|sban]]
 
 >[!column|2 no-title]
@@ -38,7 +38,7 @@ recap_number: 127
 ## Summary
 Pannikin brings us to Luka where he is given an unexpected delivery of an Orzhov coffin, requiring him to leave immediately. He directs us to an inn and heads off. The party is able to find the inn and stay the night, free of charge. The next day, we get some food at a Selesnya wannabe restaurant and head closer to the Reclamation Zone once Hollia divinates where Ljudo Jr. is. On the 3rd day of travel, Hollia successfully uses Divine Intervention and teleports us into a swamp. We are shortly found by a brain in a robot suit (A.R.P.) and he brings us to a tower nearby where Grizzut Zot Zot is waiting - along with Captain Zellhane!
 
----
+----
 
 ## Detailed Notes
 Pannikin sails us into some clouds, low to the ground. He always referred to his zeppelin as “Bronka”; she seemed happy to be in the rain. The party checks on Donwic to make sure he knows to keep his hood up. Most of the time the past few days, he seemed lost in thought. Pannakin brings us to where he will be dropping off the goods. He asked us to stay on the ship while he completes the drop-off. It's 3-4am when we arrive on the 20th. We descend to a dock as Pannikin uses levers to adjust Bronka into a smooth landing. The dock has large letters indicating: WARD 49 STRATEM 13 NORTH DOCK. A large cyclops loads and unloads boats along the canal. A krovad (bull-like creature) is being loaded in the background. Pannikin cursed under his breath as he notices an Izzet observo-sphere nearby. Mara offers to help and he insists that we stay inside the ship.  
@@ -59,7 +59,7 @@ Back at the table, Clotis brings seven wines, sandwiches, and cookies. The food 
 
 The party is suddenly standing in a dark, murky swamp. There is a tower in the middle distance (~300ft away). Everyone is surprised to be suddenly at their destination. Orevana even throws up. They notice the tower gives off a pulsing energy. Michael and Peri work together to try to find Ljudo Jr. Michael scries Ljudo Jr and sees him doing paperwork in an office. Outside it is clear and sunny. People outside are building buildings. The party is in a location that is currently dark and rainy, so they know he can’t be that close. Peri says Ljudo Jr is about 780 km past the tower. Suddenly, they hear a rhythmic robotic sound coming towards them, followed by a green light. They decide to hide to see what is approaching. They see a large spherical robot that appears to have a brain inside the top walking down the path. The robot pauses and picks a flower using a retractable arm.  
   
-The party decides to follow, but Kullic’s leg gets stuck in the mud and makes a sucking sound. The robot turns and says “*Halt!*” and recognizes Peri and Mara. They say “*Hey, A.R.P.*” and he let us know that he and Grizzut Zot Zot were waiting for us. ARP invites them inside the tower and the party follows him. Orevana makes Donwic invisible and keeps him close-by. ARP types a pattern of runes into the door panel to open it, which Hollia memorizes. ARP tells them to dry off and get comfortable before he goes off and plugs himself in. The robot body opens and the brain comes out on a unicycle. Peri asks for the name of the tower, which ARP explains the tower doesn’t have a name. Hollia decides to name it the “Pulsating Tower”, which delighted ARP. He brings them upstairs to have some food. He explains that Grizzut knew that we were coming. At the top of the stairs, they meet a man. “*Just as the firemind told me you were coming*”. He also says that they’re going to fix Mara’s ship. From around the corner, a woman comes out from the shadows. Mara recognized her as Captain Zellahne.
+The party decides to follow, but Kullic’s leg gets stuck in the mud and makes a sucking sound. The robot turns and says “*Halt!*” and recognizes Peri and Mara. They say “*Hey, A.R.P.*” and he let us know that he and Grizzut Zot Zot were waiting for us. ARP invites them inside the tower and the party follows him. Orevana makes Donwic invisible and keeps him close-by. ARP types a pattern of runes into the door panel to open it, which Hollia memorizes. ARP tells them to dry off and get comfortable before he goes off and plugs himself in. The robot body opens and the brain comes out on a unicycle. Peri asks for the name of the tower, which ARP explains the tower doesn’t have a name. Hollia decides to name it the “Pulsating Tower”, which delighted ARP. He brings them upstairs to have some food. He explains that Grizzut knew that we were coming. At the top of the stairs, they meet a man. “*Just as the firemind told me you were coming*”. He also says that they’re going to fix Mara’s ship. From around the corner, a woman comes out from the shadows. Mara recognized her as Captain Zellhane.
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]] || [[Kullic]]

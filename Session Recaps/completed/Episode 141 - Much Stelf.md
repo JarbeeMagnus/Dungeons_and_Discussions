@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 141
 ---
----
+----
 ![[141.png|sban]]
 
 >[!column|2 no-title]
@@ -31,7 +31,7 @@ recap_number: 141
 ## Summary
 We awake the next morning to a frantic Hollia scribbling glyphs in her underwear. She and Orevana speak privately in the bathroom about Hollia being able to fix her tentacle arm. On our way back, we find Mara speaking to a living statue who is informing us to write-up a full report on the "white substance" investigation, to which Hollia complies. When heading into the staircase to go upstairs and gather more information on Project Firmament, Michael pushes Jeff down the tube and the chicken is COMPLETELY vaporized. On our way up, we notice runes and consoles on the 9th floor that appear to be teleportation magic, according to Hollia. After insisting on talking with Yunaska, she recognizes Donwec and we convince her we are obfuscators accompanying Donwec. She seems to believe us and reveals she's trying to get promoted within the company and she wants us to remain in the building for the next 2 days while she determines the best way to use us in "mutually beneficial arrangements".
 
----
+----
 
 ## Detailed Notes
 - We get ready for bed
@@ -80,5 +80,5 @@ We awake the next morning to a frantic Hollia scribbling glyphs in her underwear
 - We take Donwec down to the cafeteria, one of the few rooms Yunaska “will allow” us to be in
 - Michael hears ARP in his head asking about Grizzut. Michael responds and says we’ll save Grizzut in the next 3 days - the rest of the party does not hear this conversation
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

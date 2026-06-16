@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 144
 ---
----
+----
 ![[144.jpg|sban]]
 
 >[!column|2 no-title]
@@ -35,7 +35,7 @@ recap_number: 144
 ## Summary
 The team gathers intel from Vianka, Yunaska's dead body, and Carodejnik. We learn that Vianka was imprisoned in the stained glass mirror 20 years ago by her husband. From Yunaska, we learn that she and Carodejnik were planning on murdering Vianka and framing us for it. We also find out she wasn't allowed to have much information. From Carodejnik, we learn that the only people that meet with the Neogi are Ljudo Jr, Ljudo Sr, and the High Guild Mage (Countess Malenka). Also, the Golgari Lich Okdaz is aware of what Project Firmament is. After we get information from Carodejnik, Michael stabs him and puts him in the stained glass mirror, releasing Vianka again. We plan to interrogate Ljudo Jr, who is indisposed in his room. On the way, we have a tough fight with a guard.
 
----
+----
 
 ## Detailed Notes
 - The team discusses what we will do next. Carodejnik is tied up and gagged after he confirms for us that others know how to work the stained glass window
@@ -93,5 +93,5 @@ The team gathers intel from Vianka, Yunaska's dead body, and Carodejnik. We lear
 	- Donwec has Weal for the next hour 
 - We had a fight with a high-level knight at the T shaped hallway, it was quite hard but we're okay. RIP Jeff
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

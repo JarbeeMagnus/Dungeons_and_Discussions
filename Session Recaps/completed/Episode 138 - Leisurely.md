@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 138
 ---
----
+----
 ![[138.gif|sban]]
 
 >[!column|2 no-title]
@@ -29,7 +29,7 @@ recap_number: 138
 ## Summary
 We roam around the Leisure Zone and note various bars and locations - including a bar called Floppy's that supposedly hosts Guildless pit fights in the basement. After unsuccessfully trying to get a map off the Puking Piglet bartender & guards outside, we decide to go to Floppy's to find some Guildless (who have been noticeably absent since we arrived) and learn more about the "blessing ceremony" we heard about. Once inside the bar, we split up to get information - everyone ends up just having fun except Belia who finds an officer with anger management issues that leaves his bag on the ground. We re-group and go downstairs to find the Guildless pit fighting ring where the Guildless continue fighting until they die. We leave before we do something to expose ourselves, but we're all disgusted by the practice. When we go to another, quieter location, we look through the bag Belia stole and find a map! We decide to stay in the Leisure Zone until the next Nadvlada blessing ceremony in 2 days.
 
----
+----
 
 ## Detailed Notes
 - We enter the Leisure Zone. Places we visited/heard about:  
@@ -68,5 +68,5 @@ We roam around the Leisure Zone and note various bars and locations - including 
 - Peri also could dig out a shelf hidey hole for us to slip into at night. We want to find somewhere secluded enough that we can get in and out easily. We check out the back of the Leisure Zone to see if we can find someplace suitable. Peri and Hollia find a tunnel that lets us out of the Leisure Zone so Peri can mold out a space for us  
 - We should prepare the yadda yadda in the Leisure Zone for the 2 days we have until the ceremony
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 129
 ---
----
+----
 ![[129.jpg|sban]]
 
 >[!column|2 no-title]
@@ -29,7 +29,7 @@ recap_number: 129
 ## Summary
 We question the teens that were looting the ship but don't get much information out of them before we were ambushed by undead (some with Simic cytoblasts). After making quick work of them, we look around the ship for anything salvageable. Instead, we find the ghost of Tandy, the previous helmsman, sobbing about "Beatrice" and a ring near his corpse which had been suspended by a tree branch. We find the ring in one of the bags the teenage looters left behind and Mara and Orevana are able to allow Tandy's soul to pass on. We wrap him up to bury later and get to work figuring out how to fix the ship - which will include fixing the broken helm Michael found.
 
----
+----
 
 ## Detailed Notes
 We try to convince the teens to cooperate with us and tell us who they are and where they’re from, but they are trying to escape. Mara uses command to stop the teens and once that wears off, Orevana casts Hold Person on both of them. They are not convinced that we are friends and look scared and do not cooperate with us. Through their whispering, we learn their names are named Braz and Grea. Michael casts Telekenesis in preparation for them running away after Hold Person runs out. The boy (Braz) says that our presence angers “Koroz Burning Gullett” because we are in their hunting grounds.  
@@ -44,5 +44,5 @@ Tandy’s ghost was muttering something about a ring and someone named Beatrice.
   
 Orevana casts Gentle Repose on the body to prevent any further decay, but it’s likely too late since it’s been more than 10 days since he died. Peri and Michael manage to free the body from the helm and Captain Zellahne wraps him using one of the hammocks inside the ship. Belia is muted via a curse from the fight, but the rest of the party has not noticed / been made aware of this. Michael checks out the helm and discovers there is a piece that broke off the chair that has rendered it unusable. Hollia and Orevana both cast detect magic and discover a small tube that is magical in addition to the helm. They realize it’s a vial of magical poison that had been in the kitchen. (NOTE MARGE WAS THE CHEF)
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

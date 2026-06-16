@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 131
 ---
----
+----
 ![[131.jpg|sban]]
 
 >[!column|2 no-title]
@@ -33,7 +33,7 @@ recap_number: 131
 ## Summary
 We fight the tentacles mid-air and, although we "won" the fight, Rakcha dies in a pool of acid. We fly back to the tower where the others are waiting  and discover that Donwec and Jilly bonded while we were gone. We need to fly to the next tower (closer to the magical storm) to finish repairing the ship but there are real storms along the way. Grizzut gives us lightning rods to help prevent lightning damage to the ship but he warns there are likely other creatures in the storms that we should be on the lookout for. He also tells us that the Izzet League wants us to capture six guild mages suspected of working with Pracovisku. As we pack up for the night, Hollia makes The Ru her Word of Recall destination (instead of the University Library).
 
----
+----
 
 ## Detailed Notes
 We find our heros in the midst of a fight with various tentacles that have attached themselves to The Ru. The ship is jerked around, but nobody is thrown overboard. However, Belia jumps off the ship to attack tentacles and Rakcha jumped off after her. Mara fights while flying nearby and tries to save Rakcha as he falls (she does not manage). Belia, Mara, and Rakcha all go below the canopy and see that the tentacles were coming from some giant weird spiders. Rakcha falls into a pool of acid and dies tragically. Michael is able to use Bigby’s Hand to go down and pick up Belia to bring her back to the ship. The party watched over the side of the deck as we finished traveling to the Tower to prevent any further spider attacks.  
@@ -46,5 +46,5 @@ The Ru needs some additional repairs, including fixing the broken window and fix
   
 That night, after dinner, we perform a memorial service to remember those that have fallen, specifically to talk about Rakcha. Jilly is brought peace by this. Hollia whispers words to The Ru in the night - she makes it her word of recall. We board up the broken window on The Ru and do the remaining small fixes (the holes that the tendril spiders made) so we can get through the storm. Peri is able to deduce what direction we need to go using Zellhane’s compass and sextant. Hollia’s zombie turns to dust before we go to bed and she sweeps it up and dumps it overboard. Tomorrow we start our big journey to the center of the storm.
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

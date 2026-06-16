@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 146
 ---
----
+----
 ![[146.png|sban]]
 
 >[!column|2 no-title]
@@ -29,7 +29,7 @@ recap_number: 146
 ## Summary
 We make our way through Pracovisku Citadel with the intention of entering the North tower to use the teleportation circle that Ljudo Jr's corpse mentioned. On our way, we notice the windows are iced over, doorknobs are frozen shut, and the furniture comes to life and attacks us. After defeating everything, a black-winged angel projects into the room and introduces herself as Marmaroth. She seems to be heavily involved with Project Firmament/Requiem and tells us there are thousands of Pracovisku soldiers waiting for us at the other end of the teleportation circle. We try to get more information out of Viadka or Carodejnik, but they don't know anything else. Hollia realizes the citadel is haunted, so we look for how to fix that so we can leave the building safely. We go upstairs into a church-like room, find a hidden door, and go down a long spiral staircase into what seems to be a basement. There is a trapped door followed by two bowls for tithes - one for blood and one for Zinos. After paying, we enter another chamber lined with skulls that is filled with green gas and see a dark figure up ahead standing next to a sarcophagus.
 
----
+----
 
 ## Detailed Notes
 - We notice a circle of books and candles floating in the living room near the ceiling 
@@ -75,5 +75,5 @@ We make our way through Pracovisku Citadel with the intention of entering the No
 	- Green fog comes out of the skull in the sarcophagus
 	- A figure stands hidden in the fog…
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

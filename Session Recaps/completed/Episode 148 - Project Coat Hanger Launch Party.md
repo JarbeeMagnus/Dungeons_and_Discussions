@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 148
 ---
----
+----
 ![[148.jpg|sban]]
 
 >[!column|2 no-title]
@@ -27,7 +27,7 @@ recap_number: 148
 ## Summary
 We get a run-down of what Grizzut encountered right before he got captured - he gives us a map of the MC tower and indicates we need to trap the djinn in addition to the Guild Mages. When asked for details, he confirms that the djinn will forced into labor at the water stations for the rest of their lives (which we don't approve of). Using Peri's tunneling magic, we make our way from inside the Tailings Storage (just a bunch of rocks?) to just outside the MC entrance. Hollia bluffs us inside where we found a pair of elevator shafts that are powered by air elementals. We take the small elevator up to where we expect to find the djinn. We manage to kill a priest and two wizards, and disconnect two of the three mechanical stations that are keeping the djinn trapped.
 
----
+----
 
 ## Detailed Notes
 - Note: It’s late afternoon
@@ -53,5 +53,5 @@ We get a run-down of what Grizzut encountered right before he got captured - he 
 	- We move to the small elevator and prepare for a fight
 	- The room has two flux chargers attached to some kind of machine with a ball in the middle. We kill a priest and two wizards that joined the fight midway. The third mechanical station has a "gelectrode" attached
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

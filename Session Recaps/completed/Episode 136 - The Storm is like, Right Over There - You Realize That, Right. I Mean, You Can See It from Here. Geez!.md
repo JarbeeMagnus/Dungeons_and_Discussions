@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 136
 ---
----
+----
 ![[136.gif|sban]]
 
 >[!column|2 no-title]
@@ -35,7 +35,7 @@ recap_number: 136
 ## Summary
 After the team brings the remaining prisoners from the caravan to their hometowns to rebuild, we learn from Grizzut more information about the Guild Mages and Djinn and how to capture them. We then decide to approach the storm via the path that the prisoner caravan was taking. At Fallen Angel, we find a large amount of giants, knights, and thrulls dressed in Orzhov colors - they mention there are reinforcements coming tomorrow. We decide to leave them be and continue the recon mission. We find an outpost just inside the storm that appears to be a gated tunnel going into a giant plateau. Peri is sent in to investigate and finds another gate in the tunnel and one at the end, all heavily guarded. On the other side of the tunnel, there are clear skies and what appears to be a mining facility. Peri brings this info back to the party, who had been testing the limits of the anticepters and the harsh storm - they were barely working and we pulled out before we broke the anticepters. We plan to leave The Ru hidden nearby (with Zellhane & Jilly) and try to get into the eye of the storm (the party + Donwec) by joining the reinforcements that we learned about earlier.
 
----
+----
 
 ## Detailed Notes
 - We plan to drop off Grizzut and Belia at the tower, then we will take the remaining folks (~100) to their hometowns to rebuild. 5-6 towns  
@@ -70,5 +70,5 @@ After the team brings the remaining prisoners from the caravan to their hometown
 	- We decide to take Donwec into the storm with us and leave Jilly and Zellhane with the ship  
 	- We will go back and pick up Grizzut so he can accompany us into the base, then we will proceed with the plan: We wait on the side of the road for them to pick us up using deception - we can pretend to be a patrol and say that we need a ride back inside
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 130
 ---
----
+----
 ![[130.gif|sban]]
 
 >[!column|2 no-title]
@@ -28,7 +28,7 @@ recap_number: 130
 ## Summary
 Belia had been cursed by the undead we fought earlier, so Mara uses a Remove Curse scroll to fix that. Orevana uses Speak With Dead to ask Tandy how to fix the helm. We discover that the helm would be able to fix itself with enough arcane energy. Besides the helm, we figure out the rest of the repairs needed to get the ship flying again - re-attach the leg, attach the mast and catapult, and fix some of the holes in the hull. Once that's done we will need to cut the ship down out of the tree it's suspended in. The next day, we journey back to the power station and use the "magic battery" we found yesterday to supercharge the helm - it works! Spirits high, we head back to the crash site and fix the rest of the ship. Hollia attunes to the helm and we take off but were ambushed by tentacles!
 
----
+----
 
 ## Detailed Notes
 Belia writes down that she cannot talk, so Mara brings Belia to Hollia to fix it. Hollia tells her to drink lots of fluids and see her in the morning. Rakcha and Michael go on patrol as the rest of the team takes inventory. Belia finds Jilly's bottle of bottomless coffee. They discover that all of the dried food on the ship seems to have gone bad. The contents of the loot in the teens’ bag include an Elven chain shirt (Orevana takes this) and some healing pots (unclaimed). Mara asks Zellhane about the poison from the galley - Zellhane said that she didn’t think anyone was poisoned. Mara gives Zellhane the poison for save keeping and Orevana tries to determine if Zellhane's intentions were true - she believes her. Mara suddenly realizes she has a bunch of scrolls in her bag of holding, including remove curse. She goes into the cargo to where Belia was rummaging. She uses the remove curse scroll and it fixes Belia’s mute problem.   
@@ -57,5 +57,5 @@ After Hollia attunes to the chair, Peri turns into a beaver and chews the branch
 
 Once detached, Peri turns into a dragon constellation. Hollia is able to pilot the ship and she maneuvers us in the direction of the tower at about 6 miles per hour. Orevana manages not to throw up at the sensation of flying. Michael is on the deck outside. Mara stays in the front room, looking out the eye holes. Peri flies next to the ship, still in dragon constellation form. Peri notices black plumes of smoke coming out of the forest about 7 miles away but the party does not go to investigate. Halfway through the journey, Hollia doubles the speed of the ship causing Peri to need to land on the deck. Shortly after passing the dam, something grabs the ship and pulls it toward the right. Mara immediately jumps out of the open window to see what’s going on and sees a tendril holding onto the ship. As she watches, another tendril shoots out towards the ship. Hollia exclaims “That is NOT the way I want to be penetrated!”
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

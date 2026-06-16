@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 147
 ---
----
+----
 ![[147.jpg|sban]]
 
 >[!column|2 no-title]
@@ -31,7 +31,7 @@ recap_number: 147
 ## Summary
 We defeat the spirit that was underneath Pracovisku Citadel and then investigate how to permanently get rid of it. Orevana uses her ghost tattoo to go down deep into the ground where she found human remains on a velvet pillow. Once blasted into dust, she came back up and we take a long rest. The next morning, we see the house is no longer looking haunted - and there are dozens of guards waiting for us outside. Peri and Michael work together to dimension door us all out without the guards noticing. We then proceed with rescuing Grizzut. Mara had previously stolen the key Yunaska used to open Grizzut's cell, so she gives that to Peri who turns into a fly to retrieve Grizzut. The plan goes without a hitch! We will proceed to the magic domes with Grizzut next time.
 
----
+----
 
 ## Detailed Notes
 - We start the night with immediate initiative - the spirit guy is not interested in discussion 
@@ -62,5 +62,5 @@ We defeat the spirit that was underneath Pracovisku Citadel and then investigate
 	- The plan went off without a hitch!! Also, Peri and Grizzut snuck into Yunaska’s office to get Grizzut’s stuff before they bugged out of the place
 - Next time, we plan to assault one of the Magic Domes. We still need to figure out HOW
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

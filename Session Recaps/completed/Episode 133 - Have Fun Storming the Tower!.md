@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 133
 ---
----
+----
 ![[133.gif|sban]]
 
 >[!column|2 no-title]
@@ -28,7 +28,7 @@ recap_number: 133
 ## Summary
 When we find the tower, we see it's been heavily damaged and ransacked. Grizzut explains that the looters (Rakdos cultists, we assume) took important equipment for the Izzet Guild Mage mission and tasks us to go get the missing parts. We follow tracks away from the tower and find a group of fiends with some Gruul prisoners. After some group invisibility shenanigans, we manage to kill off the fiends, rescue the 5 prisoners, and find 4 of the missing pieces of equipment.
 
----
+----
 
 ## Detailed Notes
 - We spend the night inside the ship at the Simic facility  
@@ -66,5 +66,5 @@ When we find the tower, we see it's been heavily damaged and ransacked. Grizzut 
 	- Prisoners rescued, killed the demon standing guard, “Steal This”, Michael uses hand, Peri uses hypnotic terrain  
 	- The backpack had 4 cascade emitters - we still need to find the rest of the missing equipment
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

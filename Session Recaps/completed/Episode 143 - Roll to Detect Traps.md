@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 143
 ---
----
+----
 ![[143.jpg|sban]]
 
 >[!column|2 no-title]
@@ -36,7 +36,7 @@ recap_number: 143
 ## Summary
 Yunaska and Carodejnik confirm that we've been watched since we entered the Logistics Tower - by Strazca, an eidolon inside a statue. They say their interests align with ours and we strike a deal - we will help them lock Ljudo Jr. in a demi-plane in exchange for Grizzut's freedom (and the potential for them to help defeat the Neogi later). The next day, we meet them to set-up the ambush. Carodejnik teleports us into Pracovisku Citadel and Michael suddenly asks about how the demi-plane works. It's some kind of pocket dimension in a stained glass window. Sensing shenanigans, Michael asks them to demonstrate and Yunaska says the passphrase and disappears after Carodejnik hits his staff on the ground. When it's out turn, Michael interrupts the ritual and we break out in a fight (Yunaska had not been teleported into the mirror but to the mezzanine above us). During the fight, Donwec successfully kills Yunaska. We compel Carodejnik to tell us the truth and he discloses that the artefact is a stained glass window of "life-trapping" - currently there is one prisoner inside the cell inside and it's Donwec's mother.
 
----
+----
 
 ## Detailed Notes
 - The team (minus Orevana) starts trying to go downstairs and Carodejnik uses his staff to stop them and says, “*I will tell you what we need from you*”. Yunaska looks alarmed
@@ -97,5 +97,5 @@ Yunaska and Carodejnik confirm that we've been watched since we entered the Logi
 - Orevana sternly talks to Donwec about him raising his dagger against her in the fight and if he does it again that he’d regret it. He immediately breaks down and she embraces him - ultimately shielding him from the knowledge that his mother is trapped in a pocket dimension (which Orevana also does not hear) 
 - **NOTE**: Donwec didn’t really talk about his mother, but he did choke up when he saw her statue gate at the dig site
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

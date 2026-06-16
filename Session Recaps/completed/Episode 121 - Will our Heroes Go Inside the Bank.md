@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 121
 ---
----
+----
 ![[121.png|sban]]
 
 >[!column|2 no-title]
@@ -35,7 +35,7 @@ recap_number: 121
 ## Summary
 We want to follow Ljudo Jr and Volenco into Vizkopa Bank because we know they'll be talking about Project Firmament. The party spells-up Mara and Peri to follow each of them. Despite entering 2 different ways, Volenco and Ljudo Jr. met inside and had a super secret conversation - too bad Mara and Peri were insects listening in! We reconvene back at the garage to find that Morla made mac and cheese and left a note saying she wanted to "talk business".
 
----
+----
 
 ## Detailed Notes
 Our heroes are all gathered at the University around 10pm and they realize they won’t be able to rest if they are to intercept Jr’s meeting in the morning. Mara admits to have taken Orevana’s clothes after they had all changed into their Fashion Show attire. The team went to Vizkopa Bank to assess the situation and put together a plan. The bank had 3 possible entrances and had a steady flow of carriages going in and out throughout the night. Gargoyles were perched on the bridges and at the doorways as well, so the team decided that quiet and sneaky was the way to go.  
@@ -60,5 +60,5 @@ The party has a few options for getting to District 6: Kullic knows someone name
 
 ![[Vizkopa_Meeting.jpg]]
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]] || [[Kullic]]

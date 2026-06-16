@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 145
 ---
----
+----
 ![[145.jpg|sban]]
 
 >[!column|2 no-title]
@@ -32,7 +32,7 @@ recap_number: 145
 ## Summary
 We find Ljudo Jr whimpering in his bedroom with some kind of glass device installed into his spike/head. While trying to pull it off of him, we end up killing him and releasing some kind of eyeball parasite that had been inside. It runs to Donwec and blinks out of existence with him. Orevana scries on Donwec and sees him get an "intermediary device" installed in some sort of metallic organic room. Mara and Peri find a zombie butler downstairs and he informs them that there are approximately 50 guards outside waiting for us. As the team discusses what to do next, Orevana rips Ljudo's head off and uses Speak with Dead. We learn more about the deal with the Neogi and Hollia successfully removes the rest of the device from the spine of Ljudo's corpse.
 
----
+----
 
 ## Detailed Notes
 - We enter a room in the hallway into Ljudo Jr’s bedroom. We hear whimpering in the room next door (the closet). Peri hears him mumble about having “2 more weeks”
@@ -69,5 +69,5 @@ We find Ljudo Jr whimpering in his bedroom with some kind of glass device instal
 	5. What do the Neogi and Nulviir get out of Project Firmament/Project Requiem? *We provide the Neogi with living bodies, 5,000 per shipment. The Neogi take a cut for themselves. The Nulviir take most, we are given the rest*
 - Hollia finishes removing the intermediary device
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

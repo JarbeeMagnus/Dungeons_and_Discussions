@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 135
 ---
----
+----
 ![[135.jpg|sban]]
 
 >[!column|2 no-title]
@@ -31,7 +31,7 @@ recap_number: 135
 ## Summary
 We find more of the missing equipment and ask the Gruul (and non-Gruul) prisoners if they would like to go back to the tower. Most said no, but some agreed so Hollia and Michael bamf to The Ru to ferry them to the tower. The rest of the party did our best to entertain them while we waited. Unfortunately, we forgot about the commander of the Rakdos Cultists, so we had a HUGE fight with him and he almost destroyed the Pussy Palace. However, we did defeat him - and he had all the rest of the missing equipment we were looking for.
 
----
+----
 
 ## Detailed Notes
 - **Items still missing:** 4 “positronic field entanglers”, 2 “cascade emitters”, and 1 “mana transplonder”.  
@@ -50,5 +50,5 @@ We find more of the missing equipment and ask the Gruul (and non-Gruul) prisoner
 	- Captain Zellhane and Jilly almost die on The Ru  
 - We finished gathering the remaining pieces of equipment for Grizzut
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 137
 ---
----
+----
 ![[137.jpg|sban]]
 
 >[!column|2 no-title]
@@ -34,7 +34,7 @@ recap_number: 137
 ## Summary
 The next day, we successfully flag down the locopede and hitch a ride into Koren by disguising ourselves as Orzhov patrol. Once inside, we strip down and continue as if we are workers (Hollia forges fake paperwork for all of us, complete with a stamp from inside one of the nearby buildings). The area is set-up like a company town, so we just need to blend in. We learn about the rules for workers, like how there is curfew and set schedule that includes some kind of blessing ceremony in one of the cathedrals. Areas of interest we note include Pracovisku Citadel, Nadvlada Cathedral, and the Leisure Zone. We manage to walk around the Pracovisku Worker Housing area and both Orevana and Michael notice there are MANY spirits around. After re-casting Polymorph on Donwec (Slugwec), we head into the Leisure Zone.
 
----
+----
 
 ## Detailed Notes
 - The next day, we try to flag down the locopede as members of the Orzhov patrol 
@@ -101,5 +101,5 @@ The next day, we successfully flag down the locopede and hitch a ride into Koren
 	- At the bottom of the basin, it looks almost like Disneyworld - this is probably the Leisure Zone  
 	- Peri re-applies polymorph on "slugwec" (using his mouth) and we enter the Leisure Zone
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

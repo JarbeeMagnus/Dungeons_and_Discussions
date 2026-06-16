@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 134
 ---
----
+----
 ![[134.jpg|sban]]
 
 >[!column|2 no-title]
@@ -28,7 +28,7 @@ recap_number: 134
 ## Summary
 After sneaking the prisoners away from the Rakdos camp, we learn that there will be a caravan full of prisoners coming through this way and one of them is the Gruul leader's brother, who can summon wurms. We decide to rescue the prisoners. We know there is a caravan checkpoint nearby under a giant angel statue that toppled over, so most of the team head towards the checkpoint to kill any Rakdos cultists while Orevana and Peri make a large hole in the road to cause the caravan to get stuck. Once stuck, Michael snuck inside and then used Arcane Gate to get the prisoners out of the caravan. Mission success! We also found two anticepters for The Ru that provide magical coverage from the storms.
 
----
+----
 
 ## Detailed Notes
 - The party (+prisoners) sneak out of the greenhouse
@@ -69,5 +69,5 @@ After sneaking the prisoners away from the Rakdos camp, we learn that there will
 	- We find another anticepter on the caravan
 - We rescued everyone from inside the caravan - most of which were regular people and not Gruul
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

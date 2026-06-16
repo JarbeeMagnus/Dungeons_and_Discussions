@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 139
 ---
----
+----
 ![[139.jpeg|sban]]
 
 >[!column|2 no-title]
@@ -30,7 +30,7 @@ recap_number: 139
 ## Summary
 The party spends a few days in the Leisure Zone until the Rite of Obligation is set to happen. During the ceremony, we notice that the Orzhov Workers are separated from the Guildless. The Workers have done this multiple times, but the Guildless look sad, weary, and dirty. The ceremony happens and is full of panache - there's a choir and a priest that mentions “The Black Dawn” and “Agyrym's ascension across Ravnica”. After the ceremony, we manage to break off from the Worker group and disguise ourselves as Orzhov guards/Izzet engineers and check out one of the Waste Treatment facilities. With the help of Hollia's forgery skills, we manage to get into Orzhov Garrison North, which is a more secure & guarded area. We plan to proceed deeper into the site to get intel on Pracovisku Citadel and attempt to get into the Operations & Logistics Building under the guise of investigating the pipes.
 
----
+----
 
 ## Detailed Notes
 - The past few days in the Leisure Zone:
@@ -83,5 +83,5 @@ The party spends a few days in the Leisure Zone until the Rite of Obligation is 
 	- The Operations & Logistics area is higher up and overlooking the Utility & Staging Zone. We notice some of the pipes run into the Operations & Logistics - we “found a mysterious white substance that we need to investigate”
 
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 122
 ---
----
+----
 ![[122.jpg|sban]]
 
 >[!column|2 no-title]
@@ -31,7 +31,7 @@ recap_number: 122
 ## Summary
 The team decides to go to Rix Maadi and get information from Morla about why she's following us. We learn she wants to shut away Rakdos in Riverstix and wants to obtain (and probably kill) a baby whose parent used to be in the party. We go home to deliberate and decide to kill her but she doesn't show up. Orevana does a few scryings on Dimwec/Donwec and mostly learns he spends a lot of time at home, alone in his room and that his father appears to have anger issues (lots of yelling in the background).
 
----
+----
 
 ## Detailed Notes
 The team gets ready to go to Rix Maadi to meet with Morla - Orevana, Hollia, and Michael all dress up ahead of time. The circus was looking better than the last time the party was there, but not still 100% after the riots. Kullic easily finds Morla up in the rafters using his Finder’s Goggles. Peri shouts up to her “*Hey, hot stuff - we’re back for round two!*” A chain came down and all but Hollia climbed up.  
@@ -52,5 +52,5 @@ Michael waited all night, but Morla never shows up. The next morning, they spell
   
 Defeated and unsure what to do next, they do another seance to allow Orevana to scry on Dimwec again. This time, he’s in his bedroom, counting zinos at his desk. A man is yelling nearby and Dimwec rubs his scar in alarm. The yelling becomes a painful voice. The windows outside show a statue of a man with a hedge maze for 300 feet out. They appear to be on the 4th floor. There is an ornate fence at the edge of the property. Other, smaller mansions are nearby. In the distance, she sees Nivix (Izzet). It looks like the building is South of Midori Park somewhere.
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]
