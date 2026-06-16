@@ -17,7 +17,7 @@ aat-event-picture: none
 >> ## Overview
 >> - **Type:** Main Quest
 >> - **Date Issued:** Griev 24, 9986
->> - **Issued in:** [[6th District]], [[Locations/Ravnica]]
+>> - **Issued in:** [[6th District]], [[Ravnica]]
 >> - **Issued by:** [[Grizzut Zot Zot]]
 >> - **Quest Status:** #complete 
 > 

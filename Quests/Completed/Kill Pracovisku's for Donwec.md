@@ -20,7 +20,7 @@ aat-event-picture: none
 >> ## Overview
 >> - **Type:** Character Arc
 >> - **Date Issued:** Xivaskir 31, 9986
->> - **Issued in:** [[10th District]], [[Locations/Ravnica]]
+>> - **Issued in:** [[10th District]], [[Ravnica]]
 >> - **Issued by:** [[Donwec Pracovisku|Donwec]]
 >> - **Quest Status:** #complete
 >

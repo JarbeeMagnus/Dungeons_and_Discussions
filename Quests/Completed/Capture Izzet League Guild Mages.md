@@ -15,7 +15,7 @@ aat-event-picture: none
 >> ## Overview
 >> - **Type:** Side Quest
 >> - **Date Issued:** Griev 30, 9986
->> - **Issued in:** [[6th District]], [[Locations/Ravnica]]
+>> - **Issued in:** [[6th District]], [[Ravnica]]
 >> - **Issued by:** [[Grizzut Zot Zot|Grizzut]]
 >> - **Quest Status:** #complete
 >> # Related

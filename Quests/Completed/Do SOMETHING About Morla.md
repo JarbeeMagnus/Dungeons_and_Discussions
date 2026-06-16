@@ -14,7 +14,7 @@ fc-calendar: Ravnican Calendar
 >> ## Overview
 >> - **Type:** Side Quest
 >> - **Date Issued:** Xivaskir 21, 9986
->> - **Issued in:** [[10th District]], [[Locations/Ravnica]]
+>> - **Issued in:** [[10th District]], [[Ravnica]]
 >> - **Issued by:** [[Gatewatch]]
 >> - **Quest Status:** #abandoned 
 >> # Related
