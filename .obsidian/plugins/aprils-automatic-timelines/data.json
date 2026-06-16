@@ -14,7 +14,7 @@
   "noteInlineEventKey": "aat-inline-event",
   "ignoreLineCommentToken": "aat-ignore-line",
   "applyAdditonalConditionFormatting": false,
-  "lookForCalendariumSpanEvents": true,
+  "lookForCalendariumSpanEvents": false,
   "lookForInlineEventsInNotes": true,
   "lookForTagsForTimeline": false,
   "stylizeDateInline": false,
