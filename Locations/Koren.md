@@ -4,14 +4,14 @@ aliases:
   - "Koren"
   - "Reclamation Zone"
 ---
----
+----
 ![[Pracovisku_Citadel.jpg|sban]]
 
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
 >> - **Type:** City
->> - **Located in:** [[6th District]], [[Locations/Ravnica]]
+>> - **Located in:** [[6th District]], [[Ravnica]]
 >> - **Calendar Used:** Ravnican Calendar
 >> # Organizations
 >>  - [[Pracovisku Development]]
@@ -48,7 +48,7 @@ aliases:
 >> 	- Teleportation circle to Pracovisku Citadel
 >> 	- This is where the Neogi pick-up & drop-off shipments
 
----
+----
 
 This is where Project Firmament is taking place. It's in the eye of a MASSIVE storm that is created by 3 trapped djinns inside the area.
 
@@ -82,7 +82,7 @@ Map is below.
 	- We don’t hear or see any kind of magical spell put over the Guildless
 	- Orevana sees many many Orzhov spirits in the rafters
 
----
+----
 
 ## Appears in
 ```dataview
@@ -90,7 +90,7 @@ LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## NPC's We Have Encountered in Koren
 - [[Ljudo Pracovisku Jr. ☠︎︎|Ljudo Jr.]]
 - Dusana (mousy-looking Orzhov worker)
@@ -103,7 +103,7 @@ SORT recap_number
 - [[Yunaska Pracovisku ☠︎︎|Yunaska]]
 - [[Carodejnik]]
 - [[Marmaroth]]
----
+----
 ## Events in Koren
 - **Zuun 7, 9986** - We Get Inside Koren
 - **Zuun 8, 9986** - Hollia Lets her Hair Down
@@ -126,7 +126,4 @@ SORT recap_number
 
 ![[Project_Firmament_MAP.jpg]]
 
----
-
-
-#### Open Tasks
+----

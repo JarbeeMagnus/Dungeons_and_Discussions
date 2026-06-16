@@ -2,14 +2,14 @@
 note_type: "Location"
 aliases: 
 ---
----
+----
 ![[Ravnica_Sixth_District.jpg|banner p+cct]]
 
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
 >> - **Type:** District
->> - **Located in:** [[Locations/Ravnica]]
+>> - **Located in:** [[Ravnica]]
 >> - **Calendar Used:** Ravnican Calendar
 >> # Organizations
 >>  - [[Pracovisku Development]]
@@ -29,7 +29,7 @@ aliases:
 >> - [[Kill Pracovisku's for Donwec]]
 >> - [[Capture Izzet League Guild Mages]]
 
----
+----
 
 The 6th District is a large swamp located on Ravnica. Something happened 200 years ago that caused acid pools and undead in the area. The story most people accept is that an old Izzet barrier broke down and destroyed the area. 
 
@@ -91,7 +91,7 @@ Many ancient city names remain in use throughout the **Sixth District**. The nam
 **Haazda**
 Guildless law enforcement, similar to Texas Rangers and wild west sheriffs. Not officially affiliated with the **Boros Legion**, but the **Haazda** share information on cases and attempt to work with the **Boros** where possible (the gesture is not officially reciprocated by the **Boros** in the **Sixth**).
 
----
+----
 
 ## Appears in
 ```dataview
@@ -99,7 +99,7 @@ LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## NPC's We Have Encountered in 6th District
 >[!column|3 no-title]
 >>[!blank]
@@ -130,7 +130,7 @@ SORT recap_number
 >> - Danton, Shara's brother that can summon wurms
 
 
----
+----
 ## Events in 6th District
 - **Griev 15, 9986** - Leave for the 6th District
 - **Griev 20, 9986** - Arrive at Luka; Pannikin Goods Trade
@@ -162,7 +162,4 @@ SORT recap_number
 	- Rescue Grizzut
 	- Djinn Fight
 	- Left Koren
----
-
-
-#### Open Tasks
+----

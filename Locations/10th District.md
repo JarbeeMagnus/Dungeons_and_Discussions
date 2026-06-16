@@ -2,17 +2,17 @@
 note_type: "Location"
 aliases:
 ---
----
+----
 ![[Tenth_District.jpg|banner p+tc]]
 
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
 >> - **Type:** District
->> - **Located in:** [[Locations/Ravnica]]
+>> - **Located in:** [[Ravnica]]
 >> - **Calendar Used:** Ravnican Calendar
 >> # Organizations
->>  - (see [[Locations/Ravnica]])
+>>  - (see [[Ravnica]])
 > 
 >>[!infobox]
 >> # Notable Locations
@@ -21,19 +21,19 @@ aliases:
 >> - [[Indigo]]
 >> - Nivix
 >> # Related Quests
->> - (see [[Locations/Ravnica]])
+>> - (see [[Ravnica]])
 
----
+----
 The most populated district in Ravnica.
 
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## NPC's We Have Encountered in 10th District
 - [[Donwec Pracovisku]]
 - [[Opatrovatel’ka ☠︎︎]]
@@ -51,7 +51,7 @@ SORT recap_number
 - [[Pannikin Flystalker]]
 - [[Pivlic]]
 - [[The Emissary|The Emissary]]
----
+----
 ## Events in 10th District
 - **Xivaskir 17, 9986** - Orevana joins the party
 - **Xivaskir 18, 9986** - We Meet Donwec
@@ -65,5 +65,4 @@ SORT recap_number
 - **Griev 13, 9986** - Winter Smash Rally!
 - **Griev 14, 9986** - Received Map of 6th District from Morla
 - **Griev 15, 9986** - Leave for the 6th District
----
-#### Open Tasks
+----
