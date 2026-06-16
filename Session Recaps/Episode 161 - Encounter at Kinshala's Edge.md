@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 161
 ---
----
+----
 ![[161.jpg]]
 
 >[!column|2 no-title]
@@ -23,7 +23,7 @@ recap_number: 161
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - We watch the hammerhead ship fly away for about 10 minutes before jumping back to top-speed
@@ -42,7 +42,7 @@ Quick summary of what happened
 	- Hollia does a massive heal on Zellhane, Jilly, and Ellegorin
 	- Marge did ice magic & somehow knew the blob was vulnerable to ice damage
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Do the summary

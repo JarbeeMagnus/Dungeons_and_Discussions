@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 167
 ---
----
+----
 ![[167.jpg]]
 
 >[!column|2 no-title]
@@ -23,7 +23,7 @@ recap_number: 167
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - We start the session with the party (sans Orevana) appearing on the deck of The Ru
@@ -80,7 +80,7 @@ Faerun Date: Eleasias 8, 1509
 	- Daaa'v says the mushrooms help chill him out and that he’s “left to the place of only water” a few times and came back. He prefers it here
 	- We end the session as we approach the mouth of the cave 
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Do the summary

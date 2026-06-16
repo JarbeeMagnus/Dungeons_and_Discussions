@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 168
 ---
----
+----
 ![[169.gif]]
 
 >[!column|2 no-title]
@@ -23,7 +23,7 @@ recap_number: 168
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - Hollia and Michael chat on the way back to the ship
@@ -90,7 +90,7 @@ Peri hangs out in the lobby of The Voyager Grande and is approached by staff to 
 
 Hollia and Mara are in the wrap room. Hollia comes up behind Mara and slowly removes Mara’s strips and give her a massage. The attendant asks Hollia to stop because only staff can massage guests. Hollia’s eyes flash and she slowly puts Mara’s wraps back on. They are both ready to leave so they rinse off and leave to find Michael. Orevana is asked to leave and Nadiif notices it’s her and not some stranger. He yells and runs out of the bath but he slips and falls. Orevana helps him up (and grabs a clump of mud to try to get a hair). He tries to hit her with a spell but it’s deflected to an attendant (who promptly dies). Orevana then casts hold monster and yells for the guards. They come in quickly and arrest Nadiif. He asks Orevana why she’s here (“to relax”) and she winks and waves at him as he was pulled out of the mud bath area. Mara and Hollia see him on the way out and Mara freaks out. Hollia resurrects the attendant who is scared and starts crying. Orevana comforts her and there’s an announcement that the spa would be temporarily closed. Hollia is shaken and Orevana tries to comfort her too, but Hollia runs out soon after (note: the barbarian orcs from her childhood were covered in mud). Hollia and Mara chat for a bit and Orevana joins them (clean and dressed). The three of them leave the spa and go into the lobby, intending to look for Peri in the stables and Michael in the casino. They find Peri in the lobby with 9 empty soda water glasses near him. They catch up with him and we all exchange information.
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Do the summary

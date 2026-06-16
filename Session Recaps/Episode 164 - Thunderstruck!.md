@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 164
 ---
----
+----
 ![[164.gif]]
 
 >[!column|2 no-title]
@@ -23,7 +23,7 @@ recap_number: 164
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - **RETCON:** Rewind time back to when Mara woke Hollia & destroyed Hollia’s old clothes. Also, Mara drew a glyph on Hollia’s thigh with her tongue (which I forgot to mention last time)  
@@ -79,7 +79,7 @@ Quick summary of what happened
     - $2,200 and 10-14 days to fix from “Horizon Atelier” (owned by Togor) +1day to get the bathtub installed and $900. Armored shutters/steel doors +$1827 for windows +$1604 for doors. 18 days total ($2160) - total price $6500, plus the cost of a bathtub  
     - We’ll go with the Horizon Atelier pricing because we really want the ship improvements
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Do the summary

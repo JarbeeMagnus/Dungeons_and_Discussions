@@ -2,13 +2,13 @@
 note_type: "Recap"
 recap_number: 172
 ---
----
+----
 ![[172.gif|sban]]
 
 >[!column|2 no-title]
 >>[!infobox]
 > > ## NPC's Mentioned
-> > - [[Goth Mommy]]
+> > - [[Doc Adizar]]
 > > - [[Urn Nadiif|Nadiif]]
 > > - [[Tristimar Hawkins|Tristimar]]
 > > - [[Cactus Cowboy]]
@@ -26,7 +26,7 @@ recap_number: 172
 ## Summary
 We pick up the cronies that Michael previously tossed off the Aminatu and continue negotiations with Adizar (aka Goth Mommy). She agrees to take Orevana to Sabaal to ask for ownership of the Aminatu in exchange for her freedom. While inside Zone of Truth, she also discloses that she is the 2nd in command of this "gang" and that she didn't know the contents of the shipment, just that it was coming from Prosperity and Sabaal wanted her to steal it. Michael drives us all back to the garage where Adizar takes Orevana inside the casino. They first try his apartment (2nd floor from the top!), then they go into some kind of art museum, then finally they find him eating sushi at a restaurant. Sabaal is a pretentious fish-man, but Orevana successfully gets on his good side. He agrees to give us ownership of the Aminatu in exchange for "helping him with something". He also mentions a gift he left Hollia at The Ru. We assume Adizar will be punished for failing the job. Meanwhile, the rest of the team chat with Tristimar, Boyle (cactus man), and Nadiif (and how much Mara dislikes him). Orevana returns and we all get a quick drink before separating from Tristimar & Boyle to return to The Ru. The "gift" Sabaal left us turned out to be Mr. Brightspark's head in a box. Hollia, distressed, commits to resurrecting him tomorrow. We all do our own separate acitvities for the day & meet up in the morning for the resurrection.
 
----
+----
 
 ## Detailed Notes
 - Goth Mommy and Nadiif argue back and forth - we find out they’ve known each other for 10 years
@@ -98,7 +98,7 @@ We get a long rest - it’s now **Highnoon 14**
 - We discuss taking the Aminatu vs The Ru & breaking it down if we can
 - Brightspark is resurrected!!!
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Add info at the top (NPC's, location, etc)

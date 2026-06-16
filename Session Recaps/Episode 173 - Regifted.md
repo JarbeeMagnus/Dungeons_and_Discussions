@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 173
 ---
----
+----
 ![[173.jpg|sban]]
 
 >[!column|2 no-title]
@@ -34,7 +34,7 @@ recap_number: 173
 ## Summary
 We start the session with the resurrection of Brightspark
 
----
+----
 
 ## Detailed Notes
 **DATE: Highnoon 14**
@@ -109,7 +109,7 @@ We start the session with the resurrection of Brightspark
 	- The rest of the gang arrives shortly thereafter (it’s now early-afternoon)
 	- We briefly discuss the Sterling-gram and how we’ll go to The Voyager Grande tomorrow morning
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Check top info

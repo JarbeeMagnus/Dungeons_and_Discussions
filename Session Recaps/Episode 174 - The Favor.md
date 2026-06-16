@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 174
 ---
----
+----
 ![[174.jpg]]
 
 >[!column|2 no-title]
@@ -23,7 +23,7 @@ recap_number: 174
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - Hollia takes Orevana down into the hold to make sure Orevana isn't trying to turn herself into a vampirate (Hollia had been awake when Orevana was asking Nadiif questions about the process)
@@ -39,6 +39,8 @@ Quick summary of what happened
 	- Peri asks Michael if he's had sex before. Michael says "totally" and proceeds to tell Peri that he's had a BUNCH of sex and that touching yourself is evil (*note: this is exactly what a virgin teenage boy would say*)
 	- Peri tries to be alone but runs into Jilly. He asks if she wants to have sex with him (still not fully understanding what it is) - she says "sure!" and they do it on the deck of The Ru. Jilly, being an experienced spelljammer is able to stay quiet, but Peri makes a ton of noise, which Mara and Hollia overhear
 	- After hearing Peri have sex & seeing Orevana/Nadiif are alone in Leomund's Tiny Hut, Mara and Hollia also decide to do it ("since everyone else is!"). Hollia's silence concentration kept turning off so the whole ship heard how loud she is
+
+**DATE: Highnoon 15**
 - The next day, we all wake up and chat over coffee. Peri discloses he's finally had sex and now he's OBSESSED with it. Orevana, Mara, and Hollia commend him on asking for consent & says that Michael was incorrect in saying that touching yourself is "evil". You just need to do it privately
 - We go to VOGUE to see what kind of task Sabaal wants us to do
 	- Sabaal arrives 15 minutes late
@@ -65,6 +67,6 @@ Quick summary of what happened
 	- Peri wild shapes to retrieve Felix's boot as we head back to the ship
 - We are suddenly ambushed by a BUNCH of cactus spiders
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]
 #### Open Tasks

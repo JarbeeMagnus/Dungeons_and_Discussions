@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 160
 ---
----
+----
 ![[160.jpg]]
 
 >[!column|2 no-title]
@@ -23,7 +23,7 @@ recap_number: 160
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - We start with Hollia and Mara having an intimate conversation
@@ -82,7 +82,7 @@ DATE: Redmesa 15, 1069
 	- Peri and Orevana think the offer is too good to be true and we decide to decline their offer (there was some kind of facade that slipped for a moment)
 	- Peri, Michael, and Hollia notice the helmsman of the small boat had an amulet that has a ladder on it. Hollia knows of no Elven god that worships a deity whose symbol is a ladder (or any God that uses a ladder, for that matter) - she doesn’t share this with the group, just notes it internally 
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Do the summary

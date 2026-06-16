@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 168
 ---
----
+----
 ![[168.png]]
 
 >[!column|2 no-title]
@@ -23,7 +23,7 @@ recap_number: 168
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - We’re at the mouth of the cave in Davetown
@@ -103,7 +103,7 @@ Faerun Date: Eleasias 9, 1509
 	- We all get drunk. Mara gives Peri a pep talk. Orevana leaves to go home with someone. Hollia accidentally flies and crashes while asking Mara to dance with her. Mara uses fly to be Hollia’s height while they dance
 	- Michael attempts to trap Tally
 	- After 34 beers, Peri finally gets drunk (and throws up outside). He offers another guy who was barfing next to him a position on the ship. The guy says "I'll need to sell my ship, but sure! I'll see you soon"
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Do the summary

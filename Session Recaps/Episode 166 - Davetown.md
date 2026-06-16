@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 166
 ---
----
+----
 ![[166.png]]
 
 >[!column|2 no-title]
@@ -23,7 +23,7 @@ recap_number: 166
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - During the 9hr journey to Davetown:
@@ -54,7 +54,7 @@ Quick summary of what happened
 - IT’S T-REX TIME
 - We have a long and difficult fight while Orevana and Tally both run away. Hollia is able to BAMF the rest of the team to The Ru
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Do the summary

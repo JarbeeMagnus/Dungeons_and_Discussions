@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 171
 ---
----
+----
 
 ![[171.gif|sban]]
 
@@ -12,7 +12,7 @@ recap_number: 171
 > > ## NPC's Mentioned
 > > - [[Urn Nadiif|Nadiif]]
 > > - [[Tristimar Hawkins]]
-> > - [[Goth Mommy|Goth Mommy]]
+> > - [[Doc Adizar|Goth Mommy]]
 > > - [[Cactus Cowboy]]
 > > - [[Captain Curl]]
 > > ## Organizations Mentioned
@@ -47,7 +47,7 @@ Instead, Goth Mommy says we can come to some sort of arrangement and asks to hav
 
 What will the party do next?!
 
----
+----
 ## Detailed Notes
 
 **TD Date: Highnoon 12, 1069 (night)**
@@ -73,8 +73,8 @@ What will the party do next?!
     - As he saunters over to her, he asks what her name is. She says her name is "Miss Underhill"
     - He introduces himself as [[Tristimar Hawkins]] and kisses [[Mara Underhill|Mara]]'s hand. They talk a bit about feeling underappreciated
     - She finds out he's a VIP and she asks how to become one. "*You gotta know the right people*" and she says "*Are YOU the right people?*" and the flirting continues. [[Mara Underhill|Mara]] asks about getting a tour
-    - [[Goth Mommy|Goth Mommy]] comes up the stairs and tells [[Tristimar Hawkins|Tristimar]] to "*stop fucking around and go to sleep*". Tristimar calls her "doc" (just like Tulgan did)
-    - [[Goth Mommy|Goth Mommy]] pushes past and pulls [[Tristimar Hawkins|Tristimar]] toward the elevator. [[Mara Underhill|Mara]] asks about parking her ship and how she's been struggling to find parking. [[Tristimar Hawkins|Tristimar]] said there's high-roller parking out back. [[Goth Mommy|Goth Mommy]] yells for [[Tristimar Hawkins|Tristimar]] to get into the elevator
+    - [[Doc Adizar|Goth Mommy]] comes up the stairs and tells [[Tristimar Hawkins|Tristimar]] to "*stop fucking around and go to sleep*". Tristimar calls her "doc" (just like Tulgan did)
+    - [[Doc Adizar|Goth Mommy]] pushes past and pulls [[Tristimar Hawkins|Tristimar]] toward the elevator. [[Mara Underhill|Mara]] asks about parking her ship and how she's been struggling to find parking. [[Tristimar Hawkins|Tristimar]] said there's high-roller parking out back. [[Doc Adizar|Goth Mommy]] yells for [[Tristimar Hawkins|Tristimar]] to get into the elevator
     - As he walks away, [[Mara Underhill|Mara]] tries to get a beard hair from him for scrying later. He grabs her hand lightning-fast and kisses her hand. But she successfully gets a hair!
     - [[Mara Underhill|Mara]] heads back to the ship and summons an imp to watch us sleep (that she named "Jeff"). She asks him to wake her after 4 hours
 
@@ -83,7 +83,7 @@ What will the party do next?!
 - Jeff wakes [[Mara Underhill|Mara]] and she goes to [[Captain Curl|Curl]] to go over the NEW plan - we'll watch for the [[Aminatu]] to leave and then follow them at a safe distance. [[Captain Curl|Curl]] is on board with "doing adventuring things"
     - We take off and [[Captain Curl|Curl]] sets us up behind a building so we have eyes on the back of the casino
     - [[Mara Underhill|Mara]] plans to send Jeff out ahead to scout for us and check on the ship because he has dark vision
-    - He comes back and describes seeing [[Tristimar Hawkins|Tristimar]], [[Cactus Cowboy]], [[Goth Mommy|Goth Mommy]], and [[Urn Nadiif|Nadiif]]
+    - He comes back and describes seeing [[Tristimar Hawkins|Tristimar]], [[Cactus Cowboy]], [[Doc Adizar|Goth Mommy]], and [[Urn Nadiif|Nadiif]]
     - [[Mara Underhill|Mara]] sends Jeff off a second time and she and [[Captain Curl|Curl]] see the [[Aminatu]] leave the ramp
     - [[Captain Curl|Curl]] follows at a safe distance and [[Mara Underhill|Mara]] goes to wake everyone
 - We follow for another hour or so out of the city and to the North
@@ -92,8 +92,8 @@ What will the party do next?!
     - After about 30 minutes, the [[Aminatu]] starts to descend and we notice a road down below that goes to a bridge over a canyon
     - The [[Aminatu]] goes below the bridge and maintains an ambush stance. We hide amongst a cropping of cacti
 - We get [[Michael Landon|Michael]] to scry on [[Tristimar Hawkins|Tristimar]]
-    - He finds [[Tristimar Hawkins|Tristimar]] playing cards with [[Cactus Cowboy]]. [[Goth Mommy|Goth Mommy]] is piloting and [[Urn Nadiif|Nadiif]] is sitting in a chair nearby, restrained
-    - After a few minutes, [[Goth Mommy|Goth Mommy]] (Doc) asks what time. [[Tristimar Hawkins|Tristimar]] responds that they've got another 30-35 minutes to wait
+    - He finds [[Tristimar Hawkins|Tristimar]] playing cards with [[Cactus Cowboy]]. [[Doc Adizar|Goth Mommy]] is piloting and [[Urn Nadiif|Nadiif]] is sitting in a chair nearby, restrained
+    - After a few minutes, [[Doc Adizar|Goth Mommy]] (Doc) asks what time. [[Tristimar Hawkins|Tristimar]] responds that they've got another 30-35 minutes to wait
     - Goth Mommy asks [[Urn Nadiif|Nadiif]] "*You better be ready, vampire. Or I'll force you*". [[Urn Nadiif|Nadiif]] retorts "*you don't need to force me, I'm happy to help*"
     - [[Urn Nadiif|Nadiif]] continues: "*Wasn't there supposed to be another one here? Felix? Where's he?*" Someone responds"*I dunno, that fat fucker probably forgot to get out of his barrel this morning*" - we think a dock worker mentioned someone named Felix before (I can't find it though)
 - We talk about what our next move is
@@ -101,7 +101,7 @@ What will the party do next?!
     - [[Mara Underhill|Mara]] and [[Hollia Butterfield|Hollia]] talk about melting [[Urn Nadiif|Nadiif]]'s flesh off because he's undead and they thought it would be satisfying
     - [[Orevana Brix|Orevana]] is confused about what our purpose is - she are [[Mara Underhill|Mara]] go back and forth about why we're here. [[Mara Underhill|Mara]] insists [[Urn Nadiif|Nadiif]] is a bad guy
 - After 35 minutes, [[Michael Landon|Michael]] scries on [[Tristimar Hawkins|Tristimar]] again
-    - He sees [[Goth Mommy|Goth Mommy]] looking into a smokey orb and cursing "*DAMN IT - where is it?!*"
+    - He sees [[Doc Adizar|Goth Mommy]] looking into a smokey orb and cursing "*DAMN IT - where is it?!*"
     - [[Tristimar Hawkins|Tristimar]] says maybe they're running late (from the helm)
     - [[Urn Nadiif|Nadiif]] looks bored from his chair, still restrained
 - [[Orevana Brix|Orevana]], [[Periwinkle|Peri]], and [[Hollia Butterfield|Hollia]] play a few rounds of Drakes
@@ -122,21 +122,19 @@ What will the party do next?!
     - [[Tristimar Hawkins|Tristimar]] starts flipping the ship and [[Hollia Butterfield|Hollia]] falls off the edge
     - [[Orevana Brix|Orevana]] turns the helmsman ([[Tristimar Hawkins|Trist]]) into a chipmunk and the ship starts falling. When [[Urn Nadiif|Nadiif]] hears [[Orevana Brix|Orevana]] he jokingly yells out "*honey, is that you?*"
     - Chipmunk [[Tristimar Hawkins|Trist]] scurries outside
-    - [[Goth Mommy|Goth Mommy]] teleports onto the helm and starts to upright the ship
+    - [[Doc Adizar|Goth Mommy]] teleports onto the helm and starts to upright the ship
     - [[Hollia Butterfield|Hollia]] is caught by a celestial Xena
     - [[Michael Landon|Michael]] throws the chipmunk off the side of the ship and runs into the cockpit yelling "*we're here for the job!*"
     - [[Mara Underhill|Mara]] runs inside and pulls a dagger onto Goth Mommy and asks "*so.. what's the job?*"
     - [[Orevana Brix|Orevana]] cuts [[Urn Nadiif|Nadiif]]'s ropes and they do pithy one-liners back and forth before he yells out in pain while [[Hollia Butterfield|Hollia]] turns undead on the whole ship (only he was affected)
-    - [[Michael Landon|Michael]] counter-spells [[Goth Mommy|Goth Mommy]] and she gets angry
-    - [[Periwinkle|Peri]] arrives to the fight and runs into the helms' room disguised as [[Goth Mommy|Goth Mommy]]
-    - [[Orevana Brix|Orevana]] watches [[Urn Nadiif|Nadiif]] in case he turns on us, [[Hollia Butterfield|Hollia]] holds the deck, and [[Goth Mommy|Goth Mommy]] says we can make some kind of a deal and agrees to land the ship
+    - [[Michael Landon|Michael]] counter-spells [[Doc Adizar|Goth Mommy]] and she gets angry
+    - [[Periwinkle|Peri]] arrives to the fight and runs into the helms' room disguised as [[Doc Adizar|Goth Mommy]]
+    - [[Orevana Brix|Orevana]] watches [[Urn Nadiif|Nadiif]] in case he turns on us, [[Hollia Butterfield|Hollia]] holds the deck, and [[Doc Adizar|Goth Mommy]] says we can make some kind of a deal and agrees to land the ship
 - When [[Michael Landon|Michael]] asks about the job again, [[Urn Nadiif|Nadiif]] responds, "*these cowpokes were going to steal a shipment from the [[Sterling Company]] that never showed up!*"
     - "*Why do they need you?*" - "*Because I can make the ship invisible*." When [[Orevana Brix|Orevana]] asks further, he explains it's because he's a vampirate captain
-    - [[Goth Mommy|Goth Mommy]] lands the [[Aminatu]] as gently as she could (which was not gently because it doesn't have legs)
+    - [[Doc Adizar|Goth Mommy]] lands the [[Aminatu]] as gently as she could (which was not gently because it doesn't have legs)
 
 And we will begin next session with our questions!
 
----
-**The Party: [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]**
-#### Open Tasks
-N/A
+----
+**The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]

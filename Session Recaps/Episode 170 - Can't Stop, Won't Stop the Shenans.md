@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 170
 ---
----
+----
 ![[170.jpg|sban]]
 
 ## Summary
@@ -16,12 +16,12 @@ The party, wanting more info out of Tulgan, decide to follow him. Mara disguises
 
 What will the party decide to do next?!
 
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 > > ## NPC's Mentioned
 > > - [[Urn Nadiif|Nadiif]]
-> > - [[Goth Mommy|Goth Mommy]]
+> > - [[Doc Adizar|Goth Mommy]]
 > > - [[Tulgan]]
 > > - [[Jilly Everproud|Jilly]]
 > > - [[Kiro Goldengleam|Kiro]]
@@ -49,7 +49,7 @@ What will the party decide to do next?!
 
 ## Detailed Notes
 - We chat a bit about the "job" [[Periwinkle|Peri]] overheard as we head back to The Ru
-	- [[Periwinkle|Peri]] thinks [[Urn Nadiif|Nadiif]] may be related to the "job" that [[Goth Mommy|Goth Mommy]] was talking about because she mentioned "an idiot" when she was talking to the [[Tulgan|white orc]]
+	- [[Periwinkle|Peri]] thinks [[Urn Nadiif|Nadiif]] may be related to the "job" that [[Doc Adizar|Goth Mommy]] was talking about because she mentioned "an idiot" when she was talking to the [[Tulgan|white orc]]
 	- [[Orevana Brix|Orevana]] mentions she has [[Urn Nadiif|Nadiif]]'s hair and could scry on him to get some information
 	- [[Mara Underhill|Mara]] notices [[Hollia Butterfield|Hollia]] wasn't with us and goes back to fetch her. [[Hollia Butterfield|Hollia]] seems really out of it, distracted by artwork depicting a rooster and a woman that had "too much makeup on"
 	- [[Orevana Brix|Orevana]] and [[Periwinkle|Peri]] wait about 30 seconds before they head back to the ship while the lovers chat
@@ -65,7 +65,7 @@ What will the party decide to do next?!
 - [[Orevana Brix|Orevana]] successfully scries on [[Urn Nadiif|Nadiif]]
 	- He's in a jail cell, twiddling his thumbs while lying on a wooden bench
 	- After a while, [[Urn Nadiif|Nadiif]] asks the guard on duty "*when do I get outta here*", to which the guard replies "*shut up!*". [[Urn Nadiif|Nadiif]] huffily exclaims, "*When they come to get me, you're going to regret the way you treated me!*"
-	- After a few more moments, another guard approaches the cell with [[Goth Mommy|Goth Mommy]]. She looks disgusted as she stares into the cell. She says to [[Urn Nadiif|Nadiif]]: "*I don't care if we need you for this, you better keep your mouth shut*"
+	- After a few more moments, another guard approaches the cell with [[Doc Adizar|Goth Mommy]]. She looks disgusted as she stares into the cell. She says to [[Urn Nadiif|Nadiif]]: "*I don't care if we need you for this, you better keep your mouth shut*"
 	- The two leave the jailhouse, which we discover is inside the [[The Voyager Grande|casino]]. They go up toward the elevator
 	- [[Urn Nadiif|Nadiif]] starts, "*Look, I know you need me for this job, but I think we can--*" and the scrying ends early
 - [[Periwinkle|Peri]] suggests we go to the [[Sapphire]] nightclub to talk to the [[Tulgan|white orc]] and get more information about this "job"
@@ -91,7 +91,7 @@ What will the party decide to do next?!
 		- She says she's not working for anyone (true) and she wasn't involved (false)
 		- He seems to believe her but asks "*what are you*". When she responds "*an orc*", he spits on the ground and she makes a show of leaving
 		- [[Tulgan]] watches, his face showing not just anger but something else. [[Orevana Brix|Orevana]] goes to a nearby tavern to hang out
-	- [[Mara Underhill|Mara]] and [[Periwinkle|Peri]] talk about trying to get more info about "the job" from [[Tulgan]]. [[Periwinkle|Peri]] disguises himself as [[Goth Mommy|Goth Mommy]] for a while to show [[Mara Underhill|Mara]] what she looks like. [[Michael Landon|Michael]] separates from the group
+	- [[Mara Underhill|Mara]] and [[Periwinkle|Peri]] talk about trying to get more info about "the job" from [[Tulgan]]. [[Periwinkle|Peri]] disguises himself as [[Doc Adizar|Goth Mommy]] for a while to show [[Mara Underhill|Mara]] what she looks like. [[Michael Landon|Michael]] separates from the group
 		- The team decides to look for [[Orevana Brix|Orevana]] to get information about how it went with [[Tulgan]] so they can figure out what to do next
 		- [[Hollia Butterfield|Hollia]] puts herself into [[Orevana Brix|Orevana]]’s shoes and realizes she would be in a tavern nearby. [[Periwinkle|Peri]] finds her at a bar and she relays what happened with [[Tulgan]] to the team
 	- [[Michael Landon|Michael]] hides in an alley near [[Sapphire]] and projects a naked intangible version of himself inside the club
@@ -111,10 +111,10 @@ What will the party decide to do next?!
 		- [[Mara Underhill|Mara]] disguises herself as [[Bilver Tasselwaddle|Bilver]] (the gnome from earlier) and suggests him to tell about the plans tomorrow
 		- [[Periwinkle|Peri]] was disguised as a busty woman behind [[Bilver Tasselwaddle|Bilver]] (“my wife”)
 		- We find out they’re flying out of town early in the morning. They’re taking the [[Aminatu]] out of town for the job from the [[The Voyager Grande|casino]]
-		- [[Mara Underhill|Mara]] mentions [[Urn Nadiif|Nadiif]] and [[Tulgan]] refers to [[Goth Mommy|Goth Mommy]] as ‘the doc’
+		- [[Mara Underhill|Mara]] mentions [[Urn Nadiif|Nadiif]] and [[Tulgan]] refers to [[Doc Adizar|Goth Mommy]] as ‘the doc’
 		- [[Mara Underhill|Mara]] said the hand thing earlier rattled him and that [[Tulgan]] may also be rattled. [[Tulgan]] responds that he “*fought in the [[Scro Empire]] for 20 years, I don’t get rattled easily. And **that** rattled me.*"
 		- [[Mara Underhill|Mara]] convinces him to go home and not tell [[Sabaal]] about what happened ("*he’s so busy already*") and [[Tulgan]] heads home - not noticing [[Hollia Butterfield|Hollia]] or [[Orevana Brix|Orevana]] on his way out
 	- [[Michael Landon|Michael]] runs out ahead and stacks a stack of 100gp coins for [[Tulgan]] to find, but he doesn’t see it
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]

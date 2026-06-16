@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 165
 ---
----
+----
 ![[165.jpg]]
 
 >[!column|2 no-title]
@@ -23,7 +23,7 @@ recap_number: 165
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - There is a bulletin board that catches our eye with a few small jobs including finding a lost dog, rental carriage driver, potion tester (Quest: Posters in Prosperity)
@@ -77,7 +77,7 @@ The most prevalent kind of Beast
 In general, birds. Specifically, swallows. Peri can detect thousands of nests dug into cracks in the huge limestone pillars and in the crevaces between plateaus.
 
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Do the summary

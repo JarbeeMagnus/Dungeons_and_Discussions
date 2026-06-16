@@ -2,13 +2,18 @@
 note_type: "Recap"
 recap_number: 159
 ---
----
+----
 ![[159.gif]]
 
 >[!column|2 no-title]
 >>[!infobox]
 > > ## NPC's Mentioned
-> > - 
+> > - [[Ealon Butterfield|Ealon]]
+> > - [[Della Butterfield|Della]]
+> > - [[Seiveril Allodorian|Seiveril]]
+> > - Graxor the Bulwark (Dean of Abjuration at the Lady's College)
+> > - [[Captain Zellhane|Zellhane]]
+> > - [[Algus Westerton]] (*as stars of light*)
 > > ## Organizations Mentioned
 > > - 
 > 
@@ -16,14 +21,18 @@ recap_number: 159
 >>## Locations
 >> - None
 >> ## Quests Mentioned
->> - None
+>> - [[New Spell Focus for Peri]]
+>> - [[Follow up with Seiveril on Portal between Strixhaven & Silverymoon]]
+>> - [[Find Glindaroo Ru]]
+>> - [[Closure for Winter]]
 >> # Events Mentioned
 >> - **Zuun 28, 9986 - Seleszeni 13, 9987** - Travel time in the Sargasso
+>> - Flamerule 9, 1509 - 
 
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - Morning happens
@@ -37,9 +46,9 @@ Quick summary of what happened
 - Orevana and Seiveril have quick introductions
 	- Seiveril describes what happened when Winter appeared from a portal 2 months ago - he yelled “send me back” and killed 3 wizards when they couldn’t do what he asked. They managed to trap him in a jewel by the Dean of Abjuration - Graxor the Bulwark (QUEST! Follow-up on Winter Being Trapped in a Jewel?)
 	- Seiveril also mentions that someone back in Strixhaven mentioned Rakdos, but he didn’t have many details
-	- We ask to stay posted on the progress of the Strixhaven portal (QUEST! Follow up with Seiveril re: Portal between Strixhaven & Silverymoon)
+	- We ask to stay posted on the progress of the Strixhaven portal
 	- Ealon shows Peri what he’s thinking for the staff design
-	- Mara asks Ealon if he’s traveled to Waterdeep within the last 20 years and if he had heard of a wizard named Lindaru Ru. He recommends she talk to Magus Odizar about it since he is from Waterdeep (QUEST! Check-in On Lindaru Ru)
+	- Mara asks Ealon if he’s traveled to Waterdeep within the last 20 years and if he had heard of a wizard named Glindaroo Ru. He recommends she talk to Magus Odizar about it since he is from Waterdeep (QUEST! Check-in On Glindaroo Ru)
 	- Meanwhile, Hollia manically builds a shrine in her room using books. Halfway through, Seiveril knocks on the door to chat and say goodbye
 	- We go out and gather the clothes and provisions we bought for the ship 
 - Hollia calls Mara up to her room. She explains she is creating a shrine to be able to teleport directly here instead of the library, but she will pass out and she wants Mara with her when this happens. Also they decide the room will be ¾’s silent as a byproduct of the shrine
@@ -51,7 +60,7 @@ Quick summary of what happened
 	- We see on one of the Grassteroids there is someone that appears to be fishing. Michael opens a gate to them and talks through it
 	- There’s a little blue guy fishing off a goldfish who is spooked by Michael when he talks to him. The blue guy drops his fishing rod and rides the goldfish away
 	- Hollia deduces we are in some sort of gravity river and tries to fly the ship up and out of the river - but she can’t manage
-	- Peri notices a ribbon of light off in the distance (parallel to us). Zellehne (correctly) guesses we’re near a black hole
+	- Peri notices a ribbon of light off in the distance (parallel to us). Zellhane (correctly) guesses we’re near a black hole
 	- Orevana pulls a Weal for Hollia and accidentally releases a Wight, but she is able to overpower it psychically before it can do any damage
 	- Hollia punches it again and maneuvers us out of the gravity river
 	- Mara and Orevana go up on deck and see the glowing lights from before and they are pointing us towards the black hole
@@ -81,7 +90,7 @@ Quick summary of what happened
 	- He points us in a direction and says we’ll come up to a lighthouse in 2 days
 	- He says if we end up in Arboria, we should find him and have tea. Orevana asks why he’s not in Argrym - he doesn’t know 
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Do the summary

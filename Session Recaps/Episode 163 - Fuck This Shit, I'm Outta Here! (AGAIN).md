@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 163
 ---
----
+----
 ![[163.jpg]]
 
 >[!column|2 no-title]
@@ -23,7 +23,7 @@ recap_number: 163
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - The 4-eyed man says his name is Tallison Vos (or "Funcle Tally")
@@ -71,7 +71,7 @@ Quick summary of what happened
 	- Yadda yadda travel for 12 days to go to one of the planets to get air & leave
 - We’ve got some roleplay coming up! We will yadda yadda all the way to Thunder Junction where we will attempt to hire crew, turn in the vampirates & Hammerhead ship, get repairs, etc
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Do the summary

@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 162
 ---
----
+----
 ![[162.jpg]]
 
 >[!column|2 no-title]
@@ -23,7 +23,7 @@ recap_number: 162
 ## Summary
 Quick summary of what happened
 
----
+----
 
 ## Detailed Notes
 - In the immediate aftermath of the fight, Hollia heals Zellhane and Jilly
@@ -58,7 +58,7 @@ DATE: Redmesa 22, 1069
 	- She looks through Jeff’s eyes and sees cubes marching in the distance but they don’t come any closer
 	- When she returns to her own vision, she sees a four-eyed man in a rainbow sweater, white pants, and no socks flipping through Michael’s Boccob Book
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
 #### Open Tasks
 - [ ] Do the summary
