@@ -2,13 +2,13 @@
 note_type: "Recap"
 recap_number: 151
 ---
----
+----
 ![[151.gif|sban]]
 
 >[!column|2 no-title]
 >>[!infobox]
 > > ## NPC's Mentioned
-> > - Boccob
+> > - [[Boccob]]
 > > - [[Belia Bushtail|Belia]]
 > > - [[Grizzut Zot Zot|Grizzut]]
 > > - [[Kullic]]
@@ -42,7 +42,7 @@ recap_number: 151
 ## Summary
 Michael, having died in the last fight, has a vision that we all witness. He's surrounded by brought light and hears a strange man tell him that everything he needs for success is in his heart. The man, we later learn, is Boccob. He had given Michael some book called "Awaken the Giant Within" that Michael left in the University library. Meanwhile, Grizzut is communing with the Fire Mind and is passed out in the kitchen. While we wait for Grizzut to wake up, Hollia performs surgery on Orevana's tentacle arm and removes it. Mara also writes a manifesto for us to distribute to our Ravnica contacts. Grizzut wakes and we head to Nivix to turn in the guild mages and discuss what's been going on with Nivmizzit. We need to repair the ship (after that black tower shot us), check in with folks who may want to leave with us, and spread information about what Pracovisku has been doing. We try to get an audience with Nivmizzit but are not successful. We do receive a reward for bringing the dead guild mages back. The Izzet League also repairs and upgrades The Ru, so we head to the University to pick up Beffalor, Delandri, and Ellagorin (who has been fired). When we don't find them, we head to Keg Theory because we heard Ellagorin has been working with someone named "Yuri".
 
----
+----
 
 ## Detailed Notes
 - We start the session with Michael having the following experience: 
@@ -83,5 +83,5 @@ Michael, having died in the last fight, has a vision that we all witness. He's s
 	- We want to gather Hollia’s friends, Magnum Opus, and Michael’s book. The professor’s nameplate was removed from his office door. The University cut ties while he was on sabbatical. Last they heard, he was working with a human and elf wizard and a guy named Yuri 
 	- Michael finds the missing book inside one of the bookcases
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

@@ -2,7 +2,7 @@
 note_type: "Recap"
 recap_number: 152
 ---
----
+----
 ![[152.jpg|sban]]
 
 >[!column|2 no-title]
@@ -47,6 +47,7 @@ recap_number: 152
 > > - Azorius Senate
 > > - Boros Legion
 > > - [[Pracovisku Development]]
+> > - [[Ru Crew]]
 >> # Events Mentioned
 >> - **Zuun 16, 9986** - Tie Loose Ends on Ravnica (Manifestos)
 >> - **Zuun 17-28, 9986** - Journey Through the Ravnican Sphere
@@ -54,7 +55,7 @@ recap_number: 152
 ## Summary
 We meet up with Befallor, Delandri, and Professor Ellegorin at Keg Theory. After some drinks, we return to The Ru back in Nivix and review the repairs and upgrades the Izzet League are installing for us. The next day, the party splits up to hand out the manifestos Mara wrote. Peri and Hollia tell Weslyn what's going on in the hopes she could bring that info to the rest of the Boros Legion. Orevana and Belia update Gajic on what we learned about the Pracovisku family. Michael and Mara speak to Senator Rinsma to get the Azorius Senate on-board. Once regrouped, Captain Zellhane goes over gravity wells, flow beacons, what to expect in the Sargasso, and how long it will take to get out of the Ravnican Sphere (11 days). Just before daybreak the next day, we are awoken to Orzhov trying to impound the ship so we get the hell out of dodge. Over the 11 day journey to the edge of the Ravnican Sphere, we learn the basics of spelljamming. Orevana scries on Donwec and sees he has been taken over by the intermediary device and further scrying fails. Hollia says she might stay with us instead of returning to Silverymoon with Befallor and Delandri. Peri's meteorite starts singing and glowing as we approach the edge of the sphere. He also notices the stars are partial spheres (to his surprise). Orevana gets a POUNDING headache that climaxes into some kind of vision right as we leave the sphere. Also, the Izzet lightning cannon that was installed had metal wires/plating around the ship - it wasn't to power the cannon but something else as it dropped off the ship and turned invisible right as we crossed the sphere.
 
----
+----
 
 ## Detailed Notes
 - We arrive at Keg Theory and it’s full of Orzhov workers getting meals after a long day of construction (we don’t recognize anyone)
@@ -113,5 +114,5 @@ We meet up with Befallor, Delandri, and Professor Ellegorin at Keg Theory. After
 
 OREVANA'S BLACKOUT VISION: *You black out for a second and have the vision of a raven looking down on you from a tree branch, the wind picking up and whipping the tree while the raven is perfectly still. As the storm rages around you, the raven flies away into a blinding sunrise and you feel a pang of melancholy. You wake, eyes struggle to focus, your head throbbing with the elusive din of distant voices.*
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
