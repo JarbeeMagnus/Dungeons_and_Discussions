@@ -2,7 +2,7 @@
 note_type: "NPC"
 Aliases:
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -12,8 +12,8 @@ Aliases:
 >> # Organizations
 >>  - [[Pivlichino's]]
 >> # Location Info
->> - **First Encountered:** [[Pivlichino's]], [[10th District]], [[Locations/Ravnica]]
->> - **Currently/Last Known Location:** [[Locations/Ravnica]]
+>> - **First Encountered:** [[Pivlichino's]], [[10th District]], [[Ravnica]]
+>> - **Currently/Last Known Location:** [[Ravnica]]
 >> # Related Quests
 >> - [[Win the Winter Smash Rally!]]
 >> - [[Deliver Goods for Pivlic]]
@@ -31,14 +31,14 @@ Aliases:
 	- A Simic-engraved glass tube filled with a green liquid that Michael discerns is a magical bodily fluid (genetic material) *(hidden panel)*
 
 
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -51,10 +51,9 @@ SORT recap_number
 ### Party Member Thoughts on Pivlic
 No strong feelings, but generally positive
 
----
+----
 ## Events
 - **Xivaskir 30, 9986** - Met Pivlic & Learned about Winter Rally
 - **Griev 13, 9986** - Winter Smash Rally!
 - **Griev 20, 9986** - Pannikin Goods Trade
----
-#### Open Tasks
+----

@@ -3,7 +3,7 @@ note_type: "NPC"
 Aliases:
   - "white orc"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -24,14 +24,14 @@ Aliases:
 
 ### Fun Facts
 - Not easily shaken
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 N/A
@@ -42,11 +42,11 @@ N/A
 
 >[!kith|romantic] **[[Orevana Brix|Orevana]]**  *"Smash."*
 
->[!kith|bg-c-gray] **[[Hollia Butterfield|Hollia]]**  *"Kind of scary!"*
 
----
+----
 ## Events
 - N/A
 ---
 #### Open Tasks
 - [x] Create Scro Army page
+- [ ] Add events

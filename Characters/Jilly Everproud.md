@@ -3,7 +3,7 @@ note_type: "NPC"
 Aliases:
   - "Jilly"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -13,7 +13,7 @@ Aliases:
 >> # Organizations
 >>  - [[Ru Crew]]
 >> # Location Info
->> - **First Encountered:** [[Koren]], [[6th District]], [[Locations/Ravnica]]
+>> - **First Encountered:** [[Koren]], [[6th District]], [[Ravnica]]
 >> - **Currently/Last Known Location:** [[Prosperity|Prosperity]], [[Thunder Junction]]
 >> # Related Quests
 >> - [[Fix The Ru]]
@@ -24,14 +24,15 @@ Aliases:
 ### Fun Facts
 - Has an endless pot of coffee
 - Is always looking on the bright side
-
-### Appears in
+- Likes strawberry pastries
+----
+## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
-
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -47,9 +48,10 @@ SORT recap_number
 ### Party Member Thoughts on Jilly
 >[!kith|friend] **[[Gatewatch]]** 
 
----
+----
 ## Events
 - **Griev 24, 9986** - Reconnect with The Ru Crew!
 - **Griev 30, 9986** - Donwec and Jilly seem to be getting along. They seemed to be woodcarving small dragon figurines when we came back to the tower after fixing up The Ru
----
+----
 #### Open Tasks
+- [ ] Add Events

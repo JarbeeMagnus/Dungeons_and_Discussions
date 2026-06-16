@@ -4,7 +4,7 @@ Aliases:
   - "Donwec"
   - "Dimwec"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -15,7 +15,7 @@ Aliases:
 >>  - [[Orzhov Syndicate]]
 >>  - [[Pracovisku Development]]
 >> # Location Info
->> - **First Encountered:** [[10th District]], [[Locations/Ravnica]]
+>> - **First Encountered:** [[10th District]], [[Ravnica]]
 >> - **Currently/Last Known Location:** UNKNOWN ("the Monolith"?)
 >> # Related Quests
 >> - [[Save Donwec]]
@@ -32,14 +32,14 @@ Aliases:
 - Became distant after being healed; he only wanted to kill his brother (and bang Orevana)
 - Has been inside Peri's mouth (as a slug)
 - Was kidnapped by some eyeball parasite on Zuun 13 and taken to "the Monolith". He had an [[Intermediary_Device.jpg|intermediary device]] implanted into his spine and skull, just like what we found on Ljudo Jr
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -64,7 +64,7 @@ SORT recap_number
 >[!kith|romantic] **[[Orevana Brix|Orevana]]** _dated_
 
 >[!kith|friend] **[[Hollia Butterfield|Hollia]]** _saved by_
----
+----
 ## Events
 - **Xivaskir 18, 9986** - We Meet Donwec
 - **Xivaskir 20, 9986** - Orevana's first date with Donwec
@@ -87,5 +87,6 @@ SORT recap_number
 	- While Yunaska and Carodejnik were trying to trick the party into getting trapped in a stained glass window of life-trapping, we discover the trickery and during the sequential fight, Donwec successfully kills Yunaska. He is also reprimanded by Orevana for pulling his dagger on her
 	- Donwec is kidnapped by some eyeball parasite creature. While scrying, Orevana finds him facedown on an operating table, getting an "intermediary device" installed into his spine/skull in some sort of metallic organic room
 
----
+----
 #### Open Tasks
+- [ ] Ask Rick for details from Orevana's last scrying on him

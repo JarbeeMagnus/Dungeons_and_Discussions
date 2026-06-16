@@ -4,10 +4,10 @@ Aliases:
   - "Michael"
   - "Landon"
 ---
----
+----
 > [!quote|mark no-title]
 > Do you like my jacket?
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -31,7 +31,7 @@ Aliases:
 - May have signed a contract in his sleep with Morla
 - Loves snack packs
 - While in the Reclamation Zone on Ravnica, he encountered an air elemental in the elevator of one of the magic domes - he named it Sam
----
+----
 ## Notable Relationships
 ### Thoughts on the Party
 >[!kith|friend] **[[Mara Underhill|Mara]]** 
@@ -54,8 +54,9 @@ Aliases:
 >>[!kith|antagonist] **[[Carodejnik]]** 
 >>![[Carodejnik.jpg|profile p+t]]
 
----
+----
 ## Events Involving  Michael
 - **Xivaskir 18, 9986** - Michael establishes a Fight Club on Ravnica
 - **Xivaskir 21, 9986** - Fight Club Massacre
 - **Zuun 8, 9986** - After Michael approaches a guard inside Koren, the guard HEAVILY flirts with Michael. It's not reciprocated
+- **Flamerule 3, 1509** - Michael first incepts the idea for an "airball" spell

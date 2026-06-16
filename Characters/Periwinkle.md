@@ -3,10 +3,10 @@ note_type: "PC"
 Aliases:
   - "Peri"
 ---
----
+----
 > [!quote|mark no-title]
 > Nice dick!
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -17,7 +17,7 @@ Aliases:
 >>  - [[Ru Crew]]
 >>  - [[Gatewatch]]
 >> # Location Info
->> - **From:** [[Locations/Ravnica]]
+>> - **From:** [[Ravnica]]
 >> - **Currently:** [[Thunder Junction]]
 > 
 >>[!infobox]
@@ -27,7 +27,7 @@ Aliases:
 - Can take 34 beers to get drunk
 - Does star druidic magic
 - Can have explosive diarrhea on-demand
----
+----
 ## Notable Relationships
 ### Thoughts on the Party
 >[!kith|friend] **[[Mara Underhill|Mara]]** 
@@ -43,7 +43,7 @@ Aliases:
 >>[!kith|romantic] **Weslyn** _dated_
 
 
----
+----
 ## Events Involving  Peri
 - **Xivaskir 19, 9986** - Peri's Date with Weslyn
 - **Xivaskir 28, 9986** - FLY SPY for Vizkopa Bank Intel-Gathering Mission

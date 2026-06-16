@@ -15,7 +15,7 @@ aat-event-picture: none
 >> ## Overview
 >> - **Type:** Sidequest
 >> - **Date Issued:** Before Xivaskir 17, 9986 (Pre-Orevana)
->> - **Issued in:** [[10th District]], [[Locations/Ravnica]]
+>> - **Issued in:** [[10th District]], [[Ravnica]]
 >> - **Issued by:** [[Madam Iveta Ozanka Gajic|Madam Gajic]]
 >> - **Quest Status:** #complete 
 >> # Related

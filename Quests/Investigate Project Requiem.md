@@ -8,7 +8,7 @@ fc-category: Quest
 fc-calendar: Ravnican Calendar
 aat-event-picture: none
 ---
----
+----
 
 ![[Project_Requiem_Site.jpg|sban]]
 
@@ -17,7 +17,7 @@ aat-event-picture: none
 >> ## Overview
 >> - **Type:** Main Quest
 >> - **Date Issued:** Zuun 11, 9986
->> - **Issued in:** [[Koren]], [[6th District]], [[Locations/Ravnica]]
+>> - **Issued in:** [[Koren]], [[6th District]], [[Ravnica]]
 >> - **Issued by:** [[Gatewatch]]
 >> - **Quest Status:** #on-hold
 > 
@@ -31,7 +31,7 @@ aat-event-picture: none
 >>  - [[Orzhov Syndicate]]
 >>  - [[Yunaska Pracovisku ☠︎︎]]
 
----
+----
 
 ## Appears in
 ```dataview
@@ -40,7 +40,7 @@ WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
 
----
+----
 ## What We've Done So Far:
 - On **Zuun 11, 9986**, we enter the Requiem Gate in Koren AKA Reclamation Zone (where Project Firmament is taking place) and find:
 	- We get through the gate and find a giant hole in the ground (estimate 2km deep). Mara stops in her tracks, as she has seen something similar on another, distant planet
@@ -61,6 +61,5 @@ SORT recap_number
 - **Zuun 16, 9986** - We leave Ravnica. Since the target finish date for Project Requiem is 9993, we have about 7 years to figure out what to do next. QUEST ON HOLD
 - **Zuun 28, 9986** - On the last day of travel out of the sphere, Orevana faints and has a vision. She  theorizes that the Ravnican stars may be soul cages based on the vision and Michael's interaction with Boccob while he was dead (he was surrounded by white light)
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]
-#### Open Tasks

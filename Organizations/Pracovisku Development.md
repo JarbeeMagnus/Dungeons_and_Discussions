@@ -2,14 +2,14 @@
 note_type: "Organization"
 aliases:
 ---
----
+----
 ![[Pracovisku_Development.jpg| banner]]
 
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
 >> - **Type:** Corporation
->> - **Located in:** [[Locations/Ravnica]]
+>> - **Located in:** [[Ravnica]]
 >> # Related Quests
 >>  - [[Investigate Project Firmament]]
 >>  - [[Gather Intel on Pracovisku Family for Gajic]]
@@ -24,13 +24,15 @@ aliases:
 >> - [[Donwec Pracovisku|Donwec]]
 >> - [[Ljudo Pracovisku Jr. ☠︎︎|Ljudo Jr.]]
 >> - [[Viadka Pracovisku|Viadka]]
----
+>> - [[Yunaska Pracovisku ☠︎︎|Yunaska]]
+>> - [[Carodejnik]]
+----
 Pracovisku Development is a company run by the Pracovisku family. They primarily deal in construction and real estate. They are under the [[Orzhov Syndicate]].
 
-They are in charge of both Project Phoenix (the big building construction) and Project Firmament.
+They are in charge of both Project Phoenix (the big building construction), Project Firmament (soul cages/husks), and Project Requiem (digging that big hole for a "soul portal").
 
 
----
+----
 
 ## Appears in
 ```dataview
@@ -39,7 +41,7 @@ WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
 
----
+----
 ## Events Involving Pracovisku Development
 - **Xivaskir 21, 9986** - Fight Club Massacre
 - **Xivaskir 28, 9986** - during the Vizkopa Bank Intel-Gathering Mission, we learn that the Pracovisku's are:
@@ -54,5 +56,6 @@ SORT recap_number
 - **Zuun 6, 9986** - Recon into the Eye of the Storm
 
 
----
-#### Open Tasks
+----
+
+- [ ] Add death events & Intermediary Device Events

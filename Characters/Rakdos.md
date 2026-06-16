@@ -2,7 +2,7 @@
 note_type: "NPC"
 Aliases: 
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -12,8 +12,8 @@ Aliases:
 >> # Organizations
 >>  - [[Cult of Rakdos]]
 >> # Location Info
->> - **First Encountered:** [[Locations/Ravnica]]
->> - **Currently/Last Known Location:** [[Locations/Ravnica]]
+>> - **First Encountered:** [[Ravnica]]
+>> - **Currently/Last Known Location:** [[Ravnica]]
 >> # Related Quests
 >> - N/A
 > 
@@ -24,14 +24,14 @@ Aliases:
 - Wants [[Michael Landon|Michael]] to join the Cult of Rakdos.
 - Destroyed [[Orevana Brix|Orevana]]'s home and place of work in a riot
 - He uses a lava pool to travel to “Riverstix” - during this time demodens Ig'drok, Soth'tanaz, and Gozradal guard the pool
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -47,5 +47,6 @@ SORT recap_number
 ---
 ## Events
 - N/A
----
+----
 #### Open Tasks
+- [ ] Add Events (riots)

@@ -2,7 +2,7 @@
 note_type: Location
 aliases:
 ---
----
+----
 ![[Ravnica.jpg|banner p+t]]
 
 >[!column|2 no-title]
@@ -43,7 +43,7 @@ aliases:
 >> - [[Win the Winter Smash Rally!]]
 >> - [[Deliver Goods for Pivlic]]
 >> - [[Kill Pracovisku's for Donwec]]
----
+----
 A planet that is covered by one city and has no portals in or out. It's floating by itself in the Sargasso.
 
 Ravnica is covered by an energy field that has a crack in it, allowing spelljammers to enter. However, Neogi ships often go in and out, along with barges full of souls and husks.
@@ -54,23 +54,23 @@ The party first arrived on Ravnica via a portal from Sigil on Golgar 18, 9986.
 
 We left Ravnica on **Zuun 17, 9986**. It takes 11 days to fly through the Ravnican Sphere.
 
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
-## NPC's We Have Encountered in Ravnica
+----
+## NPC's We Have Encountered on Ravnica
 
 ```dataview
 LIST FROM "Characters"
 WHERE contains(file.outlinks,link(this.file.name))
 ```
 
----
-## Events in Ravnica
+----
+## Events on Ravnica
 - **Xivaskir 17, 9986** - Orevana joins the party
 - **Xivaskir 18, 9986** - We Meet Donwec
 - **Xivaskir 19, 9986** - We learn about Project Firmament; Peri's date with Weslyn
@@ -86,5 +86,4 @@ WHERE contains(file.outlinks,link(this.file.name))
 - **Griev 20, 9986** - Arrive at Luka; Pannikin Goods Trade
 - **Griev 21, 9986** - Bad Food at The Glass House
 - **Griev 24, 9986** - Teleport to Koren by Divine Intervention; Reconnect with The Ru Crew!
----
-#### Open Tasks
+----

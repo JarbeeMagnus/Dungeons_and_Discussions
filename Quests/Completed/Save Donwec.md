@@ -14,7 +14,7 @@ fc-calendar: Ravnican Calendar
 >> ## Overview
 >> - **Type:** Character Arc
 >> - **Date Issued:** Xivaskir 20, 9986
->> - **Issued in:** [[Locations/Ravnica]]
+>> - **Issued in:** [[Ravnica]]
 >> - **Issued by:** [[Orevana Brix|Orevana]]
 >> - **Quest Status:** #complete  
 >> # Related

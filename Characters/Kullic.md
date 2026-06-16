@@ -2,7 +2,7 @@
 note_type: "NPC"
 Aliases:
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -13,8 +13,8 @@ Aliases:
 >>  - [[Gatewatch]]
 >>  - [[Izzet League]]
 >> # Location Info
->> - **First Encountered:** [[10th District]], [[Locations/Ravnica]]
->> - **Currently/Last Known Location:** [[Locations/Ravnica]]
+>> - **First Encountered:** [[10th District]], [[Ravnica]]
+>> - **Currently/Last Known Location:** [[Ravnica]]
 >> # Related Quests
 >> - N/A
 > 
@@ -24,14 +24,14 @@ Aliases:
 ### Fun Facts
 - Previously in the party
 - Was recruited by Nivmizzix to help with an urgent task and left the party
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 
@@ -46,9 +46,8 @@ SORT recap_number
 >[!kith|friend] **[[Orevana Brix|Orevana]]** 
 
 >[!kith|friend] **[[Periwinkle|Peri]]** 
----
+----
 ## Events
 - **Xivaskir 27, 9986** - Hollia kissing fiasco
 - **Griev 24, 9986** - Left the party
----
-#### Open Tasks
+----

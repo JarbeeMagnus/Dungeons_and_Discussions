@@ -2,7 +2,7 @@
 note_type: "NPC"
 Aliases:
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -12,7 +12,7 @@ Aliases:
 >> # Organizations
 >>  - [[Orzhov Syndicate]]
 >> # Location Info
->> - **First Encountered:** [[10th District]], [[Locations/Ravnica]]
+>> - **First Encountered:** [[10th District]], [[Ravnica]]
 >> - **Currently/Last Known Location:** Dead
 >> # Related Quests
 >> - [[Save Donwec]]
@@ -24,14 +24,14 @@ Aliases:
 - Is Dimwec's overprotective babysitter
 - Doesn't seem to be able to talk
 - Carries a dagger
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -44,10 +44,9 @@ SORT recap_number
 
 >[!kith|antagonist] **[[Orevana Brix|Orevana]]** 
 
----
+----
 ## Events
 - **Xivaskir 19, 9986** - Orevana's first date with Donwec
 - **Xivaskir 27, 9986** - Fashion Show
 - **Xivaskir 31, 9986** - Operation Heal Donwec; Opatrovatel'ka Dies
----
-#### Open Tasks
+----

@@ -3,7 +3,7 @@ note_type: "NPC"
 Aliases:
   - "Yunaska"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -14,7 +14,7 @@ Aliases:
 >>  - [[Pracovisku Development]]
 >>  - [[Orzhov Syndicate]]
 >> # Location Info
->> - **First Encountered:** [[Koren]], [[6th District]], [[Locations/Ravnica]]
+>> - **First Encountered:** [[Koren]], [[6th District]], [[Ravnica]]
 >> - **Currently/Last Known Location:** Dead
 >> # Related Quests
 >> - [[Investigate Project Requiem]]
@@ -28,14 +28,14 @@ Aliases:
 - She is trying to get promoted within the company - and she will do whatever it takes
 - Was a witness to Donwec's head injury as a kid and didn't help him
 - Killed by Donwec on **Zuun 13, 9986**
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -55,9 +55,10 @@ SORT recap_number
 
 >[!kith|antagonist] **[[Gatewatch]]** 
 
----
+----
 ## Events
 - **Zuun 11, 9986** - Enter the Operations & Logistics Building
 - **Zuun 13, 9986** - Yunaska is killed by Donwec
 ---
 #### Open Tasks
+- [ ] Add Events

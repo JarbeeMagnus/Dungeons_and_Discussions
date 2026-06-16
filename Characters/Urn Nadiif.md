@@ -3,7 +3,7 @@ note_type: "NPC"
 Aliases:
   - "Nadiif"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -24,32 +24,31 @@ Aliases:
 ### Fun Facts
 - Used to own an undead crab named Crabitha
 - Can make spelljammer ships invisible as a result of "being a vampirate captain"
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 N/A
 
 ### Party Member Thoughts on Nadiif
 
->[!kith|antagonist] **[[Mara Underhill|Mara]]**  *"UGH, he's SO annoying!"*
-
-
+>[!kith|antagonist] **[[Mara Underhill|Mara]]**
 
 >[!kith|romantic] **[[Orevana Brix|Orevana]]**  *"Smash."*
 
 >[!kith|bg-c-gray] **[[Michael Landon|Michael]]**  *"He wants to steal my jacket..."*
 
 
----
+----
 ## Events
 - N/A
----
+----
 #### Open Tasks
-N/A
+- [ ] Add Events
+- [ ] Add Brightspark & other NPC's

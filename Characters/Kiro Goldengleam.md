@@ -3,7 +3,7 @@ note_type: "NPC"
 Aliases:
   - "Kiro"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -23,14 +23,14 @@ Aliases:
 
 ### Fun Facts
 - Surprisingly good at cards
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 N/A
@@ -45,9 +45,9 @@ N/A
 
 >[!kith|friend] **[[Orevana Brix|Orevana]]** 
 
----
+----
 ## Events
 - N/A
----
+----
 #### Open Tasks
-N/A
+- [ ] Add Events

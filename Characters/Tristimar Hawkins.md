@@ -5,7 +5,7 @@ Aliases:
   - "Tristimar"
   - "Trist"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -27,14 +27,14 @@ Aliases:
 - Can do close-up magic
 - Feels underappreciated
 - Very flirty
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 N/A
@@ -45,9 +45,10 @@ N/A
 
 >[!kith|bg-c-gray] **[[Orevana Brix|Orevana]]** _Smash_
 
----
+----
 ## Events
 - N/A
----
+----
 #### Open Tasks
 - [ ] Find out his "class"
+- [ ] Add events

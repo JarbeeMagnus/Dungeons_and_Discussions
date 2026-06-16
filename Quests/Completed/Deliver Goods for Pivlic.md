@@ -15,7 +15,7 @@ aat-event-picture: none
 >> ## Overview
 >> - **Type:** Side Quest
 >> - **Date Issued:** Xivaskir 30, 9986
->> - **Issued in:** [[Pivlichino's]], [[10th District]], [[Locations/Ravnica]]
+>> - **Issued in:** [[Pivlichino's]], [[10th District]], [[Ravnica]]
 >> - **Issued by:** [[Pivlic]]
 >> - **Quest Status:** #complete 
 >> # Related

@@ -3,7 +3,7 @@ note_type: "NPC"
 Aliases:
   - "Marge"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -13,24 +13,26 @@ Aliases:
 >> # Organizations
 >>  - [[Ru Crew]]
 >> # Location Info
->> - **First Encountered:** [[Koren]], [[6th District]], [[Locations/Ravnica]]
+>> - **First Encountered:** [[Koren]], [[6th District]], [[Ravnica]]
 >> - **Currently/Last Known Location:** [[Prosperity]], [[Thunder Junction]]
 >> # Related Quests
 >> - [[Fix The Ru]]
+>> - [[Upgrade Marge's Kitchen]]
 > 
 >>[!infobox]
 >>![[Marge.jpg|portrait p+t]]
 
 ### Fun Facts
 - Generally kind of mean to everyone
----
+- Seems to have some kind of history/trauma involving being choked
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -51,8 +53,8 @@ SORT recap_number
 >[!kith|friend] **[[Orevana Brix|Orevana]]** 
 
 >[!kith|friend] **[[Periwinkle|Peri]]** 
----
+----
 ## Events
 - **Griev 24, 9986** - Reconnect with The Ru Crew!
----
-#### Open Tasks
+- **Flamerule 3, 1509** - Mara offers Marge to M-ZOK, the Void Lord, for trespassing. The rest of the crew do not agree and they end up fleeing (and all in one piece). Mara offers to upgrade Marge's kitchen as an apology
+----
