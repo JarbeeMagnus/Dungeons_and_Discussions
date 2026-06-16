@@ -8,7 +8,7 @@ fc-category: Quest
 fc-calendar: Ravnican Calendar
 
 ---
----
+----
 
 ![[Pracovisku_Development.jpg|sban]]
 
@@ -17,7 +17,7 @@ fc-calendar: Ravnican Calendar
 >> ## Overview
 >> - **Type:** Main Quest
 >> - **Date Issued:** Xivaskir 19, 9986
->> - **Issued in:** [[10th District]], [[Locations/Ravnica]]
+>> - **Issued in:** [[10th District]], [[Ravnica]]
 >> - **Issued by:** [[Gatewatch]]
 >> - **Quest Status:** #on-hold
 > 
@@ -40,7 +40,7 @@ fc-calendar: Ravnican Calendar
 >>  - Cult of Rakdos
 
 
----
+----
 
 ## Appears in
 ```dataview
@@ -49,7 +49,7 @@ WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
 
----
+----
 ## What We've Done So Far:
 - **Xivaskir 19, 9986** - Learned about **Project Firmament (1500)** and **Project Phoenix** from papers at the construction site. Specifically:
 	- General construction plans for Project Phoenix - the series of re-builds after the Rakdos riots. It also included information about a new (very tall) basilica called Strazit Sanctuary 
@@ -122,6 +122,5 @@ SORT recap_number
 - We leave Ravnica on Zuun 16. Since the target finish date for Project Requiem (and thus, probably Project Firmament) is 9993, we have about 7 years to figure out what to do next. QUEST ON HOLD
 
 
----
+----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]] || [[Kullic]] || [[Belia Bushtail|Belia]]
-#### Open Tasks
