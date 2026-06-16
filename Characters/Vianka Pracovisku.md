@@ -3,7 +3,7 @@ note_type: "NPC"
 Aliases:
   - "Vianka"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -14,8 +14,8 @@ Aliases:
 >>  - [[Pracovisku Development]]
 >>  - [[Orzhov Syndicate]]
 >> # Location Info
->> - **First Encountered:** [[Koren]], [[6th District]], [[Locations/Ravnica]]
->> - **Currently/Last Known Location:** [[Locations/Ravnica]]
+>> - **First Encountered:** [[Koren]], [[6th District]], [[Ravnica]]
+>> - **Currently/Last Known Location:** [[Ravnica]]
 >> # Related Quests
 >> - listed
 > 
@@ -25,14 +25,14 @@ Aliases:
 ### Fun Facts
 - Was trapped in a stained glass window by her husband for 20 years - she wants to kill him
 - Is a heavy drinker and smokes cigarettes
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -51,8 +51,9 @@ SORT recap_number
 ### Party Member Thoughts on Vianka Pracovisku
 >[!kith|bg-c-gray] **[[Gatewatch]]** 
 
----
+----
 ## Events
 - N/A
----
+----
 #### Open Tasks
+- [ ] Add Events

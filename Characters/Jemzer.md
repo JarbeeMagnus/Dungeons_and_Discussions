@@ -1,28 +1,29 @@
 ---
 note_type: "NPC"
 Aliases:
-  - "Belia"
+  - "Jemzer"
 ---
 ----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
->> - **Race:** Scurrian
->> - **Class:** Fighter
+>> - **Race:** Dwarf
+>> - **Class:** Healer
 >> - **Gender:** Female
 >> # Organizations
 >>  - [[Ru Crew]]
 >> # Location Info
->> - **First Encountered:** [[Koren]], [[6th District]], [[Ravnica]]
->> - **Currently/Last Known Location:** [[Thunder Junction]]
+>> - **First Encountered:** [[The Voyager Grande]], [[Prosperity]], [[Thunder Junction]]
+>> - **Currently/Last Known Location:** [[The Ru]]
 >> # Related Quests
->> - [[Fix The Ru]]
+>> - N/A
 > 
 >>[!infobox]
->>![[Belia_Bushtail.jpg|portrait p+cr]]
+>>![[Jemzer.jpg|portrait p+t]]
 
 ### Fun Facts
-- LOVES exercise
+- Met her while gambling & hired her as crew
+- She worships Hermes
 ----
 ## Appears in
 ```dataview
@@ -33,14 +34,16 @@ SORT recap_number
 ----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
+>[!column|4 no-title]
 
 
-### Party Member Thoughts on Belia Bushtail
+### Party Member Thoughts on Jemzer
 >[!kith|friend] **[[Gatewatch]]** 
 
 ----
 ## Events
-- **Griev 24, 9986** - Reconnect with The Ru Crew!
+- N/A
 ----
 #### Open Tasks
-- [ ] Add events
+- [ ] Add Events
+- [ ] Get her last name added

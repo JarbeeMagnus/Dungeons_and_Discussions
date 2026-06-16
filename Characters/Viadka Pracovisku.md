@@ -3,7 +3,7 @@ note_type: "NPC"
 Aliases:
   - Viadka
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -13,8 +13,8 @@ Aliases:
 >> # Organizations
 >>  - [[Orzhov Syndicate]]
 >> # Location Info
->> - **First Encountered:** [[Indigo]], [[10th District]], [[Locations/Ravnica]]
->> - **Currently/Last Known Location:** [[Locations/Ravnica]]
+>> - **First Encountered:** [[Indigo]], [[10th District]], [[Ravnica]]
+>> - **Currently/Last Known Location:** [[Ravnica]]
 >> # Related Quests
 >> - [[Gather Intel on Pracovisku Family for Gajic]]
 > 
@@ -24,14 +24,14 @@ Aliases:
 ### Fun Facts
 - Very into fashion
 - Has the emotional capacity of a 3-year-old
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -50,8 +50,9 @@ SORT recap_number
 ### Party Member Thoughts on Viadka Pracovisku
 N/A
 
----
+----
 ## Events
 
----
+----
 #### Open Tasks
+- [ ] Add Events

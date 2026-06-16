@@ -3,10 +3,10 @@ note_type: "PC"
 Aliases:
   - "Orevana"
 ---
----
+----
 > [!quote|mark no-title]
 > Let's do a seance
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -17,7 +17,7 @@ Aliases:
 >>  - [[Ru Crew]]
 >>  - [[Gatewatch]]
 >> # Location Info
->> - **From:** [[10th District]], [[Locations/Ravnica]]
+>> - **From:** [[10th District]], [[Ravnica]]
 >> - **Currently:** [[Thunder Junction]]
 > 
 >>[!infobox]
@@ -28,7 +28,7 @@ Aliases:
 - Patron is the [[Raven Queen]]
 - Good at braiding hair
 - Is initially afraid of space/flying
----
+----
 
 ## Notable Relationships
 ### Thoughts on the Party
@@ -55,7 +55,7 @@ Aliases:
 >>[!kith|romantic] **[[Tulgan]]** 
 >>![[Tulgan.jpg|profile p+t]]
 
----
+----
 ## Events Involving  Orevana
 - **Xivaskir 17, 9986** - Orevana joins the party
 - **Xivaskir 20, 9986** - Orevana's first date with Donwec
@@ -75,3 +75,5 @@ Aliases:
 - During the journey out of the Ravnican Sphere (**Zuun 17-28**), Orevana gets light-headed and nauseous. Right as we left the sphere, she gets a splitting headache and a vision
   _You black out for a second and have the vision of a raven looking down on you from a tree branch, the wind picking up and whipping the tree while the raven is perfectly still. As the storm rages around you, the raven flies away into a blinding sunrise and you feel a pang of melancholy. You wake, eyes struggle to focus, your head throbbing with the elusive din of distant voices._
 - Afraid of space while in the Sargasso (**Zuun 28, 9986 - Seleszeni 9, 9987**). She spends most of her time in a little Ravnican plant sanctuary that Peri helped her build in the back of the cargo hold
+- **Seleszeni 9, 9987** (*Flamerule 7, 1509*) - Orevana pilots the ship for the first time
+- Sometime between **Flamerule 5-8, 1509** - Orevana releases the spirit of SOMEONE Mara had in her brooch. An old friend of hers

@@ -3,7 +3,7 @@ note_type: "NPC"
 Aliases:
   - "Pannikin"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -13,8 +13,8 @@ Aliases:
 >> # Organizations
 >>  - N/A
 >> # Location Info
->> - **First Encountered:** [[10th District]], [[Locations/Ravnica]]
->> - **Currently/Last Known Location:** [[6th District]], [[Locations/Ravnica]]
+>> - **First Encountered:** [[10th District]], [[Ravnica]]
+>> - **Currently/Last Known Location:** [[6th District]], [[Ravnica]]
 >> # Related Quests
 >> - [[Win the Winter Smash Rally!]]
 >> - [[Deliver Goods for Pivlic]]
@@ -24,14 +24,14 @@ Aliases:
 
 ### Fun Facts
 - TBD
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -42,8 +42,9 @@ SORT recap_number
 ### Party Member Thoughts on Pannikin Flystalker
 Generally good
 
----
+----
 ## Events
 - N/A
----
+----
 #### Open Tasks
+- [ ] Add Events & Fun Facts

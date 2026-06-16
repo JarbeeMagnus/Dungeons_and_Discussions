@@ -3,10 +3,10 @@ note_type: "PC"
 Aliases:
   - Hollia
 ---
----
+----
 > [!quote|mark no-title]
 > That is NOT how I want to be penetrated!
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -17,7 +17,7 @@ Aliases:
 >>  - [[Ru Crew]]
 >>  - [[Gatewatch]]
 >> # Location Info
->> - **From:** Silverymoon
+>> - **From:** [[Silverymoon]], [[Faerun]]
 >> - **Currently:** [[Thunder Junction]]
 > 
 >>[!infobox]
@@ -31,7 +31,10 @@ Aliases:
 	- “Hellcats” - given to Do-Drak
 - Good with glyphs
 - Hollia previously tried to seduce Delandri (with no success)
----
+- Hollia has a recurring nightmare about when she was taken by the “orc wars” when she was 10
+- Her room is FULL of books
+- She has mentioned that books used to talk to her? And she has hallucinated posters being "alive" and talking to her
+----
 
 ## Notable Relationships
 ### Thoughts on the Party
@@ -54,9 +57,11 @@ Aliases:
 >
 >>[!kith|romantic] **[[Delandri]]** _previous crush_
 >>![[Delandri.jpg|profile p+t]]
->>
+>
+>>[!kith|friend] **[[Seiveril Allodorian]]** _mentor_
+>>![[Seiveril.jpg|profile p+t]]
 
----
+----
 ## Events Involving  Hollia
 - **Xivaskir 27, 9986** - Kullic kissing fiasco
 - **Xivaskir 28, 9986** - Asked on a date by a weird, dancing 12 year old
@@ -69,3 +74,7 @@ Aliases:
 - **Zuun 14, 9986** - Hollia replaces Orevana's tentacle arm
 - **Zuun 16, 9986** - Hollia hallows The Ru, so we can now all comprehend all languages while on-board
 - While navigating the Sargasso (**Zuun 28, 9986 - Seleszeni 9, 9987**), Hollia secretly got "herbs" from Peri to help with divination
+- **Flamerule 3, 1509** - Hollia discovers Seiveril has resigned from the Vault of Sages
+- **Flamerule 8, 1509**
+	- Hollia reunites with her lost mentor, Seiveril
+	- While at The Dancing Goat, Mara and Hollia start a relationship

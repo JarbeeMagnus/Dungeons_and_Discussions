@@ -2,7 +2,7 @@
 note_type: "NPC"
 Aliases:
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -12,8 +12,8 @@ Aliases:
 >> # Organizations
 >>  - N/A
 >> # Location Info
->> - **First Encountered:** [[Keg Theory]], [[10th District]], [[Locations/Ravnica]]
->> - **Currently/Last Known Location:** [[Locations/Ravnica]]
+>> - **First Encountered:** [[Keg Theory]], [[10th District]], [[Ravnica]]
+>> - **Currently/Last Known Location:** [[Ravnica]]
 >> # Related Quests
 >> - N/A
 > 
@@ -22,14 +22,14 @@ Aliases:
 
 ### Fun Facts
 - Owner and proprietor of Keg Theory
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -45,8 +45,9 @@ SORT recap_number
 ### Party Member Thoughts on Yuri
 >[!kith|friend] **[[Gatewatch]]** 
 
----
+----
 ## Events
 - N/A
----
+----
 #### Open Tasks
+- [ ] Add Events

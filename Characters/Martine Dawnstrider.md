@@ -1,28 +1,28 @@
 ---
 note_type: "NPC"
 Aliases:
-  - "Belia"
+  - "Martine"
 ---
 ----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
->> - **Race:** Scurrian
->> - **Class:** Fighter
+>> - **Race:** Human
+>> - **Class:** Ranger
 >> - **Gender:** Female
 >> # Organizations
 >>  - [[Ru Crew]]
 >> # Location Info
->> - **First Encountered:** [[Koren]], [[6th District]], [[Ravnica]]
->> - **Currently/Last Known Location:** [[Thunder Junction]]
+>> - **First Encountered:** [[Prosperity]], [[Thunder Junction]]
+>> - **Currently/Last Known Location:** [[The Ru]]
 >> # Related Quests
->> - [[Fix The Ru]]
+>> - N/A
 > 
 >>[!infobox]
->>![[Belia_Bushtail.jpg|portrait p+cr]]
+>>![[Martine.jpg|portrait p+t]]
 
 ### Fun Facts
-- LOVES exercise
+- Her mother isn't supportive of her spelljamming
 ----
 ## Appears in
 ```dataview
@@ -33,14 +33,19 @@ SORT recap_number
 ----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
+>[!column|4 no-title]
+>>[!kith|bg-c-gray] **[[Felix Fiveboots]]** 
+>>![[Image_Placeholder.jpg|profile p+t]]
 
 
-### Party Member Thoughts on Belia Bushtail
+### Party Member Thoughts on Martine Dawnstrider
 >[!kith|friend] **[[Gatewatch]]** 
 
 ----
 ## Events
-- **Griev 24, 9986** - Reconnect with The Ru Crew!
+- N/A
 ----
 #### Open Tasks
-- [ ] Add events
+- [ ] Add Felix pic
+- [ ] Add Events
+- [ ] Create page for mother?

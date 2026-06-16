@@ -1,32 +1,31 @@
 ---
 note_type: "NPC"
 Aliases:
-  - "Hot Unknown Cowboy"
-  - "Tristimar"
-  - "Trist"
+  - "Goth Mommy"
+  - "Doc"
 ---
 ----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
->> - **Race:** Human
->> - **Class:** TBD
->> - **Gender:** Male
+>> - **Race:** Undead
+>> - **Class:** Necromancer?
+>> - **Gender:** Female
 >> # Organizations
 >>  - [[Unknown Mafia]]
 >> # Location Info
->> - **First Encountered:** [[Prosperity|Prosperity]]
+>> - **First Encountered:** [[Prosperity]]
 >> - **Currently/Last Known Location:** [[Thunder Junction]]
 >> # Related Quests
 >> - [[Stop the Job]]
 > 
 >>[!infobox]
->>![[Hot_Unknown_Cowboy.jpg|portrait p+t]]
+>>![[Adizar.jpg|portrait p+t]]
 
 ### Fun Facts
-- Can do close-up magic
-- Feels underappreciated
-- Very flirty
+- Often called "Doc" by her co-workers
+- Is a magic user and can teleport
+- Has a short temper
 ----
 ## Appears in
 ```dataview
@@ -37,18 +36,17 @@ SORT recap_number
 ----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
-N/A
+>[!column|4 no-title]
+>>[!kith|antagonist] **[[Urn Nadiif|Nadiif]]** 
+>>![[Nadiif.jpg|profile p+t]]
 
-### Party Member Thoughts on Hot Unknown Cowboy
-
->[!kith|bg-c-gray] **[[Mara Underhill|Mara]]** _No thanks!_
-
->[!kith|bg-c-gray] **[[Orevana Brix|Orevana]]** _Smash_
+### Party Member Thoughts on Goth Mommy
+None yet
 
 ----
 ## Events
 - N/A
 ----
 #### Open Tasks
-- [ ] Find out his "class"
-- [ ] Add events
+- [ ] Add Events
+- [ ] Check recap links & make sure they say "Doc Adizar" after we learn her name

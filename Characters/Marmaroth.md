@@ -3,7 +3,7 @@ note_type: "NPC"
 Aliases:
   - string
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -14,8 +14,8 @@ Aliases:
 >>  - [[Pracovisku Development]]
 >>  - [[Orzhov Syndicate]]
 >> # Location Info
->> - **First Encountered:** [[Koren]], [[6th District]], [[Locations/Ravnica]]
->> - **Currently/Last Known Location:** [[Locations/Ravnica]]
+>> - **First Encountered:** [[Koren]], [[6th District]], [[Ravnica]]
+>> - **Currently/Last Known Location:** [[Ravnica]]
 >> # Related Quests
 >> - [[Investigate Project Firmament]]
 >> - [[Investigate Project Requiem]]
@@ -27,7 +27,7 @@ Aliases:
 - Can project herself out of paintings
 - Seems to be very involved with Project Firmament and Project Requiem
 - Was the architect for Pracovisku Citadel
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
@@ -44,8 +44,7 @@ SORT recap_number
 ### Party Member Thoughts on Marmaroth
 >[!kith|antagonist] **[[Gatewatch]]**
 
----
+----
 ## Events
-- We are introduced to Marmaroth on Zuun 13, 9986 when she projected herself into Pracovisku Citadel after we destroyed all of the animated furniture
----
-#### Open Tasks
+- We are introduced to Marmaroth on **Zuun 13, 9986** when she projected herself into Pracovisku Citadel after we destroyed all of the animated furniture
+----

@@ -4,7 +4,7 @@ Aliases:
   - "Magnum Opus"
   - "Ellegorin"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -14,10 +14,10 @@ Aliases:
 >> # Organizations
 >>  - [[Ru Crew]]
 >> # Location Info
->> - **First Encountered:** [[10th District]], [[Locations/Ravnica]]
+>> - **First Encountered:** [[10th District]], [[Ravnica]]
 >> - **Currently/Last Known Location:** [[The Ru]]
 >> # Related Quests
->> - N/A
+>> - [[Un-Smudge Ellegorin's Memory]]
 > 
 >>[!infobox]
 >>![[Professor_Ellegorin_Omavius.jpg|portrait p+t]]
@@ -25,14 +25,15 @@ Aliases:
 ### Fun Facts
 - Is obsessed with "Gatewatch"
 - Was previously a Professor of Planeswalker Studies at Prism University (Ravnica), but was fired while he was on sabbatical
----
+- According to Delandri, his mind is "smudged"
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
@@ -51,8 +52,9 @@ SORT recap_number
 ### Party Member Thoughts on Ellegorin Omavius
 >[!kith|friend] **[[Gatewatch]]** 
 
----
+----
 ## Events
 - N/A
----
+----
 #### Open Tasks
+- [ ] Add Events

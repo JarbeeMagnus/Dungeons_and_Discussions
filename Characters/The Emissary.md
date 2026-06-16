@@ -3,7 +3,7 @@ note_type: "NPC"
 Aliases:
   - "The Emissary"
 ---
----
+----
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
@@ -13,7 +13,7 @@ Aliases:
 >> # Organizations
 >>  - [[Orzhov Syndicate]]
 >> # Location Info
->> - **First Encountered:** [[Locations/Ravnica]]
+>> - **First Encountered:** [[Ravnica]]
 >> - **Currently/Last Known Location:** UNKNOWN
 >> # Related Quests
 >> - [[Investigate Project Firmament]]
@@ -25,7 +25,7 @@ Aliases:
 - Has a thin, high-pitched voice
 - Communicates with Ljudo Sr. in the personal family chapel
 - Communicates with Volenco in her sleep, appearing as a great mass of black feathers
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
@@ -45,10 +45,10 @@ SORT recap_number
 ### Party Member Thoughts on The Emissary
 >[!kith|antagonist] **[[Gatewatch]]** 
 
----
+----
 ## Events
 - N/A
----
+----
 #### Open Tasks
 - [ ] Get picture
 - [ ] Create a Ljudo Sr. page
