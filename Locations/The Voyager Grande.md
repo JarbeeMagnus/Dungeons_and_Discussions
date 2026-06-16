@@ -3,7 +3,7 @@ note_type: "Location"
 aliases:
   - "casino"
 ---
----
+----
 >[!grid]
 >![[The_Voyager_Grand_Exterior.jpg]]
 >![[The_Voyager_Grand_Interior.jpg]]
@@ -24,27 +24,27 @@ aliases:
 >> - Horse Stables
 >> # Related Quests
 >> - N/A
----
+----
 A casino, saloon, inn, and spa all in one. Includes a parking ramp out back for spelljammers - but only if you're a VIP!
 
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## NPC's We Have Encountered in The Voyager Grande
-- [[Goth Mommy]]
+- [[Doc Adizar]]
 - [[Cactus Cowboy]]
 - [[Urn Nadiif|Nadiif]]
 - [[Jemzer]]
 - [[Tristimar Hawkins|Trist]]
----
+----
 ## Events in The Voyager Grande
 - N/A
----
+----
 #### Open Tasks
 - [ ] Add Quests
 - [ ] Add Events

@@ -2,8 +2,8 @@
 note_type: "Location"
 aliases: 
 ---
----
-![[Thunder_Junction.jpg|banner p+t]]
+----
+![[Thunder_Junction.jpg|sban]]
 
 >[!column|2 no-title]
 >>[!infobox]
@@ -23,32 +23,32 @@ aliases:
 >> - [[Davetown]]
 >> # Related Quests
 >> - N/A
----
+----
 A cowboy-themed sphere that we are passing through. We stopped to pick up crew, supplies, and to fix the ship.
 
----
+----
 ## Appears in
 ```dataview
 LIST FROM "Session Recaps"
 WHERE contains(file.outlinks,link(this.file.name))
 SORT recap_number
 ```
----
+----
 ## NPC's We Have Encountered in Thunder Junction
 - [[Daaa'v]]
-- [[Goth Mommy]]
+- [[Doc Adizar]]
 - [[Tristimar Hawkins]]
 - [[Cactus Cowboy]]
 - [[Jemzer]]
 - [[Kiro Goldengleam|Kiro]]
-- [[Martine]]
+- [[Martine Dawnstrider]]
 - [[Bilver Tasselwaddle]]
 - [[Tulgan]]
 - [[Togor]]
----
+----
 ## Events on Thunder Junction
 - N/A
----
+----
 #### Open Tasks
 - [ ] Create Cult of Dave page
 - [ ] Add Quests
