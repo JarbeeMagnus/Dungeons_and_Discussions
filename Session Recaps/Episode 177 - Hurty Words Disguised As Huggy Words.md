@@ -27,7 +27,7 @@ recap_number: 177
 >> - None
 
 ## Summary
-Quick summary of what happened
+We start the session with Mara delivering the passive-aggressive note we wrote for Sabaal while high on mushrooms. She practically skips back to The Ru and relays the info back to the rest of the team (which none of us remember or, in Michael's case, weren't even involved). Jemzer arrives shortly after with a box of pastries! She lets us know she won big at the casino and wants to take the entire crew out to dinner there. Orevana arrives from the Aminatu and asks the party what we should do about Nadiif since nobody seems to like him (including the Raven Queen). They say it's up to her and we move on. Michael sneaks to the Aminatu and hears multiple voices inside - Nadiif tried convincing a few people to help him escape. Michael and Orevana interrogate Nadiif where he is not remorseful in the slightest about his transgressions. Orevana takes the ring back and leaves the room for Michael to disintegrate the vampirate, all while Mara and Hollia have girlfriend-time on deck. Orevana spends the rest of the day as drunk as possible. Feeling jumpy about the passive-aggressive note to Sabaal, Michael asks the giff we previously ran into if they want to be bouncers for us in exchange for guns. The girls go shopping for pots & pans for Marge and Hollia buys paint for her shield. We then cut to our outing at The Voyager Grande where we (and Michael's projection) meet the new recruit, Ferrun. We have a lovely meal. Afterwards, most of the crew goes to stay the night in Jemzer's suite. Michael projection and Orevana go to the casino and she loses 5k gold. After the loss, she runs into Tristimar and she spends the night with him. Michael's projection runs into Sabaal while wandering the casino where he asks if Michael came to deliver the key fragment.
 
 ----
 
@@ -40,7 +40,7 @@ Quick summary of what happened
 	- She purchases a bouquet for Hollia and skips back to The Ru in a GREAT mood
 - Michael meets Mara on deck and finds out about the message
 	- He seems surprised and a bit upset. He checks the gattling guns to make sure they're loaded
-	- Jilly pops out of her room and chats with Mara for a bit. Zellhane 
+	- Jilly pops out of her room and chats with Mara for a bit. Zellhane mentions the new recruit again
 	- Mara checks with Togor on the timeline - he says they're making good progress. He thinks they may even get done early! (*Note: the current estimate is Highnoon 25*)
 	- Mara places the bouquet of flowers beside the sleeping Hollia
 - Jemzer calls up from below - she brought pastries! She also won big at the casino last night and wants to show us the nice room she won and have dinner all together tonight
