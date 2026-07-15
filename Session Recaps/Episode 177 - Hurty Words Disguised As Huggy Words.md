@@ -13,7 +13,7 @@ recap_number: 177
 > > - [[Jilly Everproud|Jilly]]
 > > - [[Captain Zellhane|Zellhane]]
 > > - [[Togor]]
-> > - [[Jemzer]]
+> > - [[Jemzer Balladris]]
 > > ## Organizations Mentioned
 > > - [[Ru Crew]]
 > 
