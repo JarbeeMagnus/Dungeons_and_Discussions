@@ -29,7 +29,7 @@ aliases:
 >> - [[Ellegorin Omavius|Ellegorin]]
 >> - [[Kiro Goldengleam|Kiro]]
 >> - [[Martine Dawnstrider]]
->> - [[Jemzer]]
+>> - [[Jemzer Balladris]]
 >> # Past Members
 >> - [[Befallor]]
 >> - [[Delandri]]
