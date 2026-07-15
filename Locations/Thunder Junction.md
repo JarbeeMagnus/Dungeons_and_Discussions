@@ -39,7 +39,7 @@ SORT recap_number
 - [[Doc Adizar]]
 - [[Tristimar Hawkins]]
 - [[Cactus Cowboy]]
-- [[Jemzer]]
+- [[Jemzer Balladris]]
 - [[Kiro Goldengleam|Kiro]]
 - [[Martine Dawnstrider]]
 - [[Bilver Tasselwaddle]]

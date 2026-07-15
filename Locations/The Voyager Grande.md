@@ -27,6 +27,8 @@ aliases:
 ----
 A casino, saloon, inn, and spa all in one. Includes a parking ramp out back for spelljammers - but only if you're a VIP!
 
+It has 22 floors
+
 ----
 ## Appears in
 ```dataview
@@ -39,7 +41,7 @@ SORT recap_number
 - [[Doc Adizar]]
 - [[Cactus Cowboy]]
 - [[Urn Nadiif|Nadiif]]
-- [[Jemzer]]
+- [[Jemzer Balladris]]
 - [[Tristimar Hawkins|Trist]]
 ----
 ## Events in The Voyager Grande

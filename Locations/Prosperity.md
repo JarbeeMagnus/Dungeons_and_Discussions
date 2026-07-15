@@ -47,7 +47,7 @@ SORT recap_number
 - [[Captain Curl]]
 - [[Togor]]
 - [[Martine Dawnstrider]]
-- [[Jemzer]]
+- [[Jemzer Balladris]]
 - [[Kiro Goldengleam|Kiro]]
 - [[Sabaal]]
 ----
