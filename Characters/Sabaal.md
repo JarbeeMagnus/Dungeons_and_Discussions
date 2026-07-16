@@ -37,7 +37,7 @@ SORT recap_number
 >>[!kith|bg-c-gray] **[[Doc Adizar]]** _boss_
 >>![[Adizar.jpg|profile p+t]]
 >
->>[!kith|bg-c-gray] **[[Tristimar Hawkins|Tristimar]]** _boss_
+>>[!kith|bg-c-gray] **[[Trystimar Hawkins|Trystimar]]** _boss_
 >>![[Hot_Unknown_Cowboy.jpg|profile p+t]]
 >
 >>[!kith|bg-c-gray] **[[Cactus Cowboy]]** _boss_
