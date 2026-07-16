@@ -27,7 +27,7 @@ recap_number: 154
 >> ## Quests Mentioned
 >> - None
 >> # Events Mentioned
->> - **Zuun 28, 9986 - Seleszeni 13, 9987** - Travel time in the Sargasso. Specifically:
+>> - **Zuun 28, 9986 - Seleszeni 11, 9987** - Travel time in the Sargasso. Specifically:
 >> 	- Teen Goon Balloon Encounter - Air is Fouled
 
 ## Summary

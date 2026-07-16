@@ -23,9 +23,9 @@ recap_number: 153
 >> - [[Sargasso]]
 >> - [[The Ru]]
 >> ## Quests Mentioned
->> - None
+>> - [[Upgrade The Ru]]
 >> # Events Mentioned
->> - **Zuun 28, 9986 - Seleszeni 13, 9987** - Travel time in the Sargasso. Specifically:
+>> - **Zuun 28, 9986 - Seleszeni 11, 9987** - Travel time in the Sargasso. Specifically:
 >> 	- AHHHH the Asteroid Rescues Us from Anti-Magic Zone
 >> 	- Peri Befriends Moufy
 

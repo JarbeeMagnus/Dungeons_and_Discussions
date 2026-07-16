@@ -38,7 +38,7 @@ recap_number: 155
 >> ## Quests Mentioned
 >> - [[New Spell Focus for Peri]]
 >> # Events Mentioned
->> - **Zuun 28, 9986 - Seleszeni 13, 9987** - Travel time in the Sargasso. Specifically:
+>> - **Zuun 28, 9986 - Seleszeni 11, 9987** - Travel time in the Sargasso. Specifically:
 >> 	- Neogi Ship Encounter
 >> - (*Faerun Calendar*) **Flamerule 3, 1509** - First Shore Leave to Silverymoon
 

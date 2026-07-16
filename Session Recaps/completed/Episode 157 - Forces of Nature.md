@@ -29,7 +29,7 @@ recap_number: 157
 >> ## Quests Mentioned
 >> - [[New Spell Focus for Peri]]
 >> # Events Mentioned
->> - **Zuun 28, 9986 - Seleszeni 13, 9987** - Travel time in the Sargasso
+>> - **Zuun 28, 9986 - Seleszeni 11, 9987** - Travel time in the Sargasso
 >> - **Flamerule 8-9, 1509** - Second Shore Leave to Silverymoon
 
 ## Summary
