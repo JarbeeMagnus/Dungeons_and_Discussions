@@ -2,14 +2,14 @@
 aat-render-enabled: true
 timelines: [ravnica]
 fc-date: 9986-12-28
-fc-end: 9987-01-13
+fc-end: 9987-01-11
 fc-category: Event
 fc-calendar: Ravnican Calendar
 aat-event-picture: none
 ---
 ----
 
-**Zuun 28, 9986 - Seleszeni 13, 9987**
+**Zuun 28, 9986 - Seleszeni 11, 9987**
 
 ## During this time:
 [[Episode 153 - Space, the Fucking Frontier]]
@@ -30,6 +30,9 @@ aat-event-picture: none
 - 3 days of easy travel
 ----
 [[Episode 159 - Something Spicy This Way Comes]]
+- Gravity well & Grassteroids
+- Portal to the briar patch (Fey Wildspace) & the conundrum
+- **We leave the Sargasso on Seleszeni 11**, then reach the Flow Beacon on Seleszeni 13
 
 
 
