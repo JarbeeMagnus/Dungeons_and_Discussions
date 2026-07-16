@@ -37,6 +37,7 @@ SORT recap_number
 ----
 ## What We've Done So Far:
 - As an apology for offering Marge to M-ZOK, Mara decides to upgrade Marge's kitchen at the next port
+- **Seleszeni 11/Flamerule 10/Redmesa 9** - Orevana checks up on Marge after traveling through Fey Wildspace and out of the Sargasso. Marge lets her know that apparently the kitchen was knocked around so much it dented the pots & pans
 
 ----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]
