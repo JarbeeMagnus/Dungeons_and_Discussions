@@ -11,5 +11,5 @@ aat-event-picture: none
 **Flamerule 8-9, 9986**
 
 [[Episode 157 - Forces of Nature]]
-[[Episode 158 - Happy Happy Joy Joy]]
-[[Episode 159 - Something Spicy This Way Comes]]
+[[Episode 158 - Happy Happy Joy Joy]] - Hollia re-unites with Severil
+[[Episode 159 - Something Spicy This Way Comes]] - Hollia moves our teleportation destination to her bedroom

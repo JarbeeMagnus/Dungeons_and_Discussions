@@ -33,7 +33,7 @@ recap_number: 176
 >> ## Quests Mentioned
 >> - [[Un-Smudge Ellegorin's Memory]]
 >> - [[Upgrade Marge's Kitchen]]
->> - [[Install a Sextant onto The Ru]]
+>> - [[Upgrade The Ru]]
 >> # Events Mentioned
 >> - None
 

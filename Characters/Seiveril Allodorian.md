@@ -13,7 +13,7 @@ Aliases:
 >> # Organizations
 >>  - [[Planar Expedition Program]]
 >> # Location Info
->> - **First Encountered:** [[The Dancing Goat]], [[Silverymoon]]
+>> - **First Encountered:** [[The Dancing Goat]], [[Silverymoon]], [[Faerun]]
 >> - **Currently/Last Known Location:** [[Silverymoon]]
 >> # Related Quests
 >> - [[Follow up with Seiveril on Portal between Strixhaven & Silverymoon]]

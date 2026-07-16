@@ -11,26 +11,37 @@ recap_number: 159
 > > - [[Ealon Butterfield|Ealon]]
 > > - [[Della Butterfield|Della]]
 > > - [[Seiveril Allodorian|Seiveril]]
+> > - [[Winter]]
+> > - [[Magus Odizar]]
 > > - Graxor the Bulwark (Dean of Abjuration at the Lady's College)
 > > - [[Captain Zellhane|Zellhane]]
 > > - [[Algus Westerton]] (*as stars of light*)
+> > - [[Jilly Everproud|Jilly]]
+> > - Gomura
+> > - [[Belia Bushtail|Belia]]
+> > - [[Tallison Vos]] (*mentioned by Gomura as a "many-tailed fox"*)
 > > ## Organizations Mentioned
-> > - 
+> > - [[Ru Crew]]
+> > - [[Planar Expedition Program]]
 > 
 >>[!infobox]
 >>## Locations
->> - None
+>> - [[Silverymoon]], [[Faerun]]
+>> - [[The Ru]]
+>> - [[Strixhaven]] (*mentioned*)
+>> - [[Sargasso]] & Fey Wildspace
 >> ## Quests Mentioned
 >> - [[New Spell Focus for Peri]]
 >> - [[Follow up with Seiveril on Portal between Strixhaven & Silverymoon]]
 >> - [[Find Glindaroo Ru]]
 >> - [[Closure for Winter]]
 >> # Events Mentioned
->> - **Zuun 28, 9986 - Seleszeni 13, 9987** - Travel time in the Sargasso
->> - Flamerule 9, 1509 - 
+>> - **Zuun 28, 9986 - Seleszeni 11, 9987** - Travel time in the Sargasso
+>> - **Flamerule 9, 1509** - During the 2nd Shore leave, Hollia moves the teleportation to Faerun to her bedroom instead of the Vault of Sages
+>> - **Seleszeni 11, 9987/Flamerule 10** - OFFICIALLY out of the Sargasso
 
 ## Summary
-Quick summary of what happened
+We have a lovely morning with the Butterfields and Seiveril. We learn about a few things we want to follow-up on around Faerun including following-up on Winter being trapped in a gem and finding more information on Glindaroo Ru. Hollia BAMF's us back to the ship shortly after breakfast. We find the ship stuck in some kind of gravity well, surrounded by grassteroids. The motes of light beckon us to the center of a broken grassteroid/geode and we enter to teleport to Fey Wildspace. We help a giant turtle named Gomura get unstuck from a briar patch and he repays us with answering some questions for him as he headed to "the conundrum" to get annihilated. After traveling through a warm waterfall nearby, we find ourselves in NORMAL SPACE and out of the Sargasso!! The motes of light identify themselves as Mara's old (dead) friend named Algus Westerton.
 
 ----
 
@@ -44,7 +55,7 @@ Quick summary of what happened
 	- Michael returns and chats with Seiveril
 	- Orevana arrives at the Butterfield’s as Mara and Hollia are coming downstairs 
 - Orevana and Seiveril have quick introductions
-	- Seiveril describes what happened when Winter appeared from a portal 2 months ago - he yelled “send me back” and killed 3 wizards when they couldn’t do what he asked. They managed to trap him in a jewel by the Dean of Abjuration - Graxor the Bulwark (QUEST! Follow-up on Winter Being Trapped in a Jewel?)
+	- Seiveril describes what happened when Winter appeared from a portal 2 months ago - he yelled “send me back” and killed 3 wizards when they couldn’t do what he asked. They managed to trap him in a jewel by the Dean of Abjuration - Graxor the Bulwark (QUEST! Closure for Winter)
 	- Seiveril also mentions that someone back in Strixhaven mentioned Rakdos, but he didn’t have many details
 	- We ask to stay posted on the progress of the Strixhaven portal
 	- Ealon shows Peri what he’s thinking for the staff design
@@ -85,14 +96,10 @@ Quick summary of what happened
 	- We approach a waterfall and fly through it, following the lights. The water is warm
 	- On the other side, we are in normal space. Suddenly the lights become humanoid and start TALKING - it's Algus Westerton!
 	- He says he was ordered by his queen (Morwell) to not speak until he’s completed his task
-	- His name is Elgis Westerton and he’s a dead friend of Mara’s
+	- His name is Algus Westerton and he’s a dead friend of Mara’s
 	- He worked in the Izzit League with a goblin named Sai (Peri’s friend)
-	- He points us in a direction and says we’ll come up to a lighthouse in 2 days
+	- He points us in a direction and says we’ll come up to a lighthouse in 2 days (the flow beacon)
 	- He says if we end up in Arboria, we should find him and have tea. Orevana asks why he’s not in Argrym - he doesn’t know 
 
 ----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
-#### Open Tasks
-- [ ] Do the summary
-- [ ] Add high level stuff at the top
-- [ ] Create quests/events

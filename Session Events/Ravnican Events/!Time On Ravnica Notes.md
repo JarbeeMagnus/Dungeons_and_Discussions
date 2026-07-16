@@ -5,14 +5,14 @@
 | Day # | Location | Local Date |
 | --- | --- | --- |
 | 0 | On Ravnica | Golgar 18, 9986 |
-| 130 | Entered Ravnican Space | Zuun 17, 9986 |
-| 141 | Left Ravnican Sphere & Entered Sargasso | Zuun 28, 9986 |
-| 154 | Left Sargasso & Entered the Arcane Flow Sector | Seleszeni 13, 9987 |
+| 123 | Entered Ravnican Space | Zuun 17, 9986 |
+| 134 | Left Ravnican Sphere & Entered Sargasso | Zuun 28, 9986 |
+| 145 | Left Sargasso & Entered the Arcane Flow Sector | Seleszeni 11, 9987 |
 
 ### On Ravnica
 %%aat-inline-event
 fc-date: 0
-fc-end: 154
+fc-end: 123
 aat-event-picture: none
 timelines: [overall]
 aat-render-enabled: true
@@ -26,8 +26,8 @@ The party leaves the Ravnican planet on **Zuun 17, 9986**
 ### Time in Ravnica Space
 
 %%aat-inline-event
-fc-date: 62
-fc-end: 73
+fc-date: 123
+fc-end: 134
 aat-event-picture: none
 timelines: [overall]
 aat-render-enabled: true
@@ -40,14 +40,14 @@ In Ravnica Space between **Zuun 17, 9986** & **Zuun 28, 9986** (*local calendar*
 ### Time in Sargasso
 
 %%aat-inline-event
-fc-date: 74
-fc-end: 86
+fc-date: 134
+fc-end: 145
 aat-event-picture: none
 timelines: [overall]
 aat-render-enabled: true
 fc-display-name: Time in Sargasso
 %%
-In Sargasso between **Zuun 28, 9986** & **Seleszeni 13, 9987** (*local calendar*)
+In Sargasso between **Zuun 28, 9986** & **Seleszeni 11, 9987** (*local calendar*)
 
 %%aat-event-end-of-body%%
 

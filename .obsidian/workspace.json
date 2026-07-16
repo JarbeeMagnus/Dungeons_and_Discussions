@@ -8,67 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3b837ee62c04fd8",
+            "id": "850d1de27d2c26b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Events/Ravnican Events/Travel time in the Sargasso.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Travel time in the Sargasso"
-            }
-          },
-          {
-            "id": "53730941dd25096c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboards/CALENDAR SYNC.md",
+                "file": "Dashboards/Dashboard.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CALENDAR SYNC"
-            }
-          },
-          {
-            "id": "c3809a128ad9479b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Events/Faerun Events/Second Shore Leave to Silverymoon.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Second Shore Leave to Silverymoon"
-            }
-          },
-          {
-            "id": "1caaf5bf64aeaf42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Recaps/Episode 176 - Falling is a Free Action.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Episode 176 - Falling is a Free Action"
+              "title": "Dashboard"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boccob",
+                "query": "sextant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 228.5
   },
   "right": {
     "id": "7db4bb576673faee",
@@ -221,7 +175,7 @@
                 "calendar": "ID_6bf9f8a8a9eb",
                 "ephemeral": {
                   "viewing": {
-                    "day": 3,
+                    "day": 8,
                     "month": 6,
                     "year": 1509
                   },
@@ -244,23 +198,83 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "021b91290fa1e961",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_6bf9f8a8a9eb",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 10,
+                    "month": 7,
+                    "year": 1509
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_ba39da895898"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "5aeba587c59bfebd",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_6bf9f8a8a9eb",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 22,
+                    "month": 6,
+                    "year": 1509
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 10,
+                    "month": 6,
+                    "year": 1509
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_48585a88fa08",
+                "child": "ID_4aaa497a3918"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
-        "id": "e89ec357245778b8",
+        "id": "c15ce63d3b4299f0",
         "type": "tabs",
         "children": [
           {
-            "id": "fff75e7d1cdb6764",
+            "id": "7a1348855da0ac28",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_6bf9f8a8a9eb",
-                "id": "ID_1b19dbe9ab89",
-                "parent": "ID_9a7a5afa592a"
+                "id": "ID_4aaa497a3918",
+                "parent": "ID_48585a88fa08"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -283,46 +297,47 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1caaf5bf64aeaf42",
+  "active": "850d1de27d2c26b9",
   "lastOpenFiles": [
-    "Session Recaps/Episode 175 - Operation Felix Around and Find Out.md",
-    "Session Recaps/Episode 174 - The Favor.md",
-    "Session Recaps/Episode 159 - Something Spicy This Way Comes.md",
-    "z_Assets/Gomura.jpg",
-    "Dashboards/CALENDAR SYNC.md",
-    "Dashboards/Calendars/Thunder Junction Calendar.md",
-    "Session Events/Faerun Events/Second Shore Leave to Silverymoon.md",
-    "Session Recaps/completed/Episode 158 - Happy Happy Joy Joy.md",
-    "Session Recaps/completed/Episode 157 - Forces of Nature.md",
-    "Session Events/Faerun Events/First Shore Leave to Silverymoon.md",
-    "Session Events/Faerun Events/Mara and Hollia Start Going Steady.md",
-    "Locations/Vault of Sages.md",
-    "Characters/Seiveril Allodorian.md",
+    "Organizations/Elven Imperial Navy.md",
+    "Organizations/Fight Club.md",
+    "Organizations/Cult of Rakdos.md",
+    "Organizations/Cult of Dave.md",
     "Session Recaps/Episode 160 - Out of the...Sargasso Pan and into the...Not...Sargasso.md",
-    "Session Recaps/completed/Episode 154 - Surrounded by Assholes.md",
-    "Session Events/Ravnican Events/Travel time in the Sargasso.md",
-    "Locations/Silverymoon.md",
-    "Session Recaps/completed/Episode 155 - By the Light of the Silvery Moon.md",
-    "Session Recaps/completed/Episode 156 - Fart Ship vs Loveliest Magical City.md",
-    "Locations/The Dancing Goat.md",
-    "Characters/Hollia Butterfield.md",
-    "Characters/Mara Underhill.md",
-    "Locations/Strixhaven.md",
-    "Quests/Follow up with Seiveril on Portal between Strixhaven & Silverymoon.md",
-    "z_Templates/New Event Template.md",
-    "Session Events/Faerun Events/Michael Creates the Airball Spell.md",
+    "Organizations/Sindiath Line.md",
+    "Session Events/Space Events/Derelict Ship Encounter.md",
+    "Session Events/Space Events - Detailed.md",
+    "Organizations/Scro Empire.md",
+    "Quests/Upgrade The Ru.md",
+    "z_Assets/EIN placeholder.webp",
+    "Characters/Urn Nadiif.md",
+    "Quests/Completed/Fix The Ru.md",
+    "Session Recaps/completed/Episode 153 - Space, the Fucking Frontier.md",
+    "Session Events/Ravnican Events/!Time On Ravnica Notes.md",
+    "Session Events/!Overall Events (High-Level Locations).md",
+    "Session Recaps/Episode 176 - Falling is a Free Action.md",
+    "Characters/Mr. Brightspark.md",
+    "Organizations/Unknown Mafia.md",
+    "Characters/Morla.md",
+    "Session Events/Space Events/!Time in Space Notes.md",
+    "Session Events/Faerun Events/!Time On Faerun Notes.md",
+    "Session Events/Space Events/Aminatu Encounter & Fight.md",
+    "Dashboards/Calendars/Thunder Junction Calendar.md",
+    "Dashboards/Calendars/Ravnica Calendar.md",
+    "Dashboards/References.md",
+    "Dashboards/How dataview tables will be used.md",
+    "Session Events/Space Events",
+    "z_Assets/178.jpg",
+    "z_Assets/177.jpg",
+    "z_Assets/Gomura.jpg",
     "z_Assets/Strixhaven_placeholder.png",
-    "Session Recaps/Episode 164 - Thunderstruck!.md",
     "Quests/On Hold",
     "z_Assets/Dispater_Placeholder.png",
     "z_Assets/Boccob_Placeholder.jpg",
     "z_Assets/176.jpg",
     "z_Assets/scro_placeholder.jpg",
     "z_Assets/Magus Odisar.jpg",
-    "z_Assets/Adizar.jpg",
     "Locations/Ravnica",
-    "z_Assets/Vault_of_Sages.jpg",
-    "z_Assets/Sterling_Hound.jpg",
     "Session Events/Faerun Events",
     "Session Events/Space Events",
     "Dashboards/Calendars",
@@ -330,7 +345,6 @@
     "Session Events/Ravnican Events",
     "Untitled",
     "Session Recaps/completed",
-    "Quests/Completed",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -30,7 +30,7 @@ recap_number: 156
 >> ## Quests Mentioned
 >> - [[Upgrade Marge's Kitchen]]
 >> # Events Mentioned
->> - **Zuun 28, 9986 - Seleszeni 13, 9987** - Travel time in the Sargasso. Specifically: 
+>> - **Zuun 28, 9986 - Seleszeni 11, 9987** - Travel time in the Sargasso. Specifically: 
 >> 	- Seleszeni 5:
 >> 		- Neogi Ship Encounter
 >> 		- Encounter with M-ZOK
