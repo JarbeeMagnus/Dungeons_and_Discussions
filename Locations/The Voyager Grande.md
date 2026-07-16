@@ -42,7 +42,7 @@ SORT recap_number
 - [[Cactus Cowboy]]
 - [[Urn Nadiif|Nadiif]]
 - [[Jemzer Balladris]]
-- [[Tristimar Hawkins|Trist]]
+- [[Trystimar Hawkins|Tryst]]
 ----
 ## Events in The Voyager Grande
 - N/A
