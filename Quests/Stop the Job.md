@@ -15,7 +15,7 @@ aliases:
 >> # Related
 >>  - [[Sabaal]]
 >>  - [[Doc Adizar]]
->>  - [[Tristimar Hawkins|Tristimar]]
+>>  - [[Trystimar Hawkins|Trystimar]]
 >>  - [[Cactus Cowboy]]
 >>  - [[Felix Fiveboots]]
 >>  - [[Urn Nadiif|Nadiif]]
@@ -41,7 +41,7 @@ SORT recap_number
 There's some kind of job happening that we want to stop. The ??? Mob is behind it
 
 - **Highnoon 12, 1069**
-	- We first heard about it while Peri was a horse in the basement of The Voyager Grande. He overheard Tristimar and Boyd discuss some kind of "job" tomorrow
+	- We first heard about it while Peri was a horse in the basement of The Voyager Grande. He overheard Trystimar and Boyd discuss some kind of "job" tomorrow
 	- Later, after Orevana scried on Nadiif, we realized he was also a key part of the plan (even though Adizar isn't happy about it)
 	- We gathered information out of Tulgan after a botched "rescue" at Sapphire that the The Aminatu is involved somehow and that the group carrying out the job are leaving *before sunrise* on the 13th of Highnoon.
 
