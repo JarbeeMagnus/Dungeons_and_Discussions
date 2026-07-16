@@ -14,7 +14,7 @@ Aliases:
 >>  - [[Unknown Mafia]]
 >> # Location Info
 >> - **First Encountered:** [[Kinshala Sphere]]
->> - **Currently/Last Known Location:** [[Thunder Junction]]
+>> - **Currently/Last Known Location:** [[Prosperity]], [[Thunder Junction]]
 >> # Related Quests
 >> - [[Stop the Job]]
 > 
@@ -24,6 +24,8 @@ Aliases:
 ### Fun Facts
 - Used to own an undead crab named Crabitha
 - Can make spelljammer ships invisible as a result of "being a vampirate captain"
+- His first name is actually Nadiif - "Urn" was a joke name he picked up
+- Was the master of Mr. Brightspark for 22 years
 ----
 ## Appears in
 ```dataview
@@ -34,21 +36,21 @@ SORT recap_number
 ----
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
-N/A
+>[!column|4 no-title]
+>>[!kith|friend] **[[Mr. Brightspark|Brightspark]]** _previous thrall_
+>>![[Brightspark.jpg|profile p+t]]
 
 ### Party Member Thoughts on Nadiif
 
 >[!kith|antagonist] **[[Mara Underhill|Mara]]**
 
->[!kith|romantic] **[[Orevana Brix|Orevana]]**  *"Smash."*
+>[!kith|romantic] **[[Orevana Brix|Orevana]]**
 
->[!kith|bg-c-gray] **[[Michael Landon|Michael]]**  *"He wants to steal my jacket..."*
+>[!kith|antagonist] **[[Michael Landon|Michael]]**
 
+>[!kith|antagonist] **[[Hollia Butterfield|Hollia]]**
 
 ----
 ## Events
-- N/A
+- **Day 157** - Encounter the Aminatu (hammerhead ship)
 ----
-#### Open Tasks
-- [ ] Add Events
-- [ ] Add Brightspark & other NPC's

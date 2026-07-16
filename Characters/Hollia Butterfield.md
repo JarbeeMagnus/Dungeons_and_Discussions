@@ -78,3 +78,4 @@ Aliases:
 - **Flamerule 8, 1509**
 	- Hollia reunites with her lost mentor, Seiveril
 	- While at The Dancing Goat, Mara and Hollia start a relationship
+- **Flamerule 10** - After Mara had a shouting match with Peri in the Fey Wildspace, Hollia recommends to Mara that she start journaling so she can better control her emotions like Hollia does

@@ -68,3 +68,4 @@ Aliases:
 - **Flamerule 8, 1509**
 	- During the 2nd Shore Leave to Silverymoon, Mara notices in the datebook that the year is 1509. She left Faerun in 1489, so a whole 20 years have passed when, for her, it's only been about 2 years. Needless to say, she was pretty shaken by this information
 	- While at The Dancing Goat, Mara and Hollia start a relationship
+- **Flamerule 10** - After Mara had a shouting match with Peri in the Fey Wildspace, Hollia recommends to Mara that she start journaling so she can better control her emotions like Hollia does

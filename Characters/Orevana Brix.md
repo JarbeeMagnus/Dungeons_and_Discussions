@@ -49,6 +49,9 @@ Aliases:
 >>[!kith|antagonist] **[[Ljudo Pracovisku Jr. ☠︎︎|Ljudo Jr.]]** 
 >>![[Ljudo_Jr.jpg|profile p+t]]
 >
+>>[!kith|friend] **[[Marge]]** 
+>>![[Marge.jpg|profile p+t]]
+>
 >>[!kith|romantic] **[[Urn Nadiif|Nadiif]]** 
 >>![[Nadiif.jpg|profile p+t]]
 >
@@ -77,3 +80,4 @@ Aliases:
 - Afraid of space while in the Sargasso (**Zuun 28, 9986 - Seleszeni 9, 9987**). She spends most of her time in a little Ravnican plant sanctuary that Peri helped her build in the back of the cargo hold
 - **Seleszeni 9, 9987** (*Flamerule 7, 1509*) - Orevana pilots the ship for the first time
 - Sometime between **Flamerule 5-8, 1509** - Orevana releases the spirit of SOMEONE Mara had in her brooch. An old friend of hers
+- **Flamerule 11, 1509** - Orevana spends time in the kitchen with Marge, trying to befriend her. She seemed to make some progress
