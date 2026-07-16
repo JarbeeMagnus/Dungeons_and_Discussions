@@ -63,7 +63,7 @@ Faerun Date: Eleasias 8, 1509
 	- Mara thinks the mushrooms in the cave may have something to do with it?
 	- Orevana apologizes for abandoning the team and it goes really well (although Tally is not forgiven)
 	- We realize Belia is missing - Peri finds a note from her saying she’s left to find Focorum
-	- We decide to go to the Dock house to make sure we can take the Hammerhead - we find out someone is claiming ownership of it. A 7ft tall cactus (Cactus Cowboy) and a well-dressed (handsome) man (Tristimar Hawkins) take the ship!
+	- We decide to go to the Dock house to make sure we can take the Hammerhead - we find out someone is claiming ownership of it. A 7ft tall cactus (Cactus Cowboy) and a well-dressed (handsome) man (Trystimar Hawkins) take the ship!
 	- After Mara gets upset, Orevana gets information about the men and finds out they are high-ups in some kind of ??? Mob
 - We go to charter a ship out to Davetown
 	- We find a hummingbird ship (The Donglimmer) whose captain is Captain Curl - an eccentric halfling
