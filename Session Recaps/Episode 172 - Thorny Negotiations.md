@@ -10,7 +10,7 @@ recap_number: 172
 > > ## NPC's Mentioned
 > > - [[Doc Adizar]]
 > > - [[Urn Nadiif|Nadiif]]
-> > - [[Tristimar Hawkins|Tristimar]]
+> > - [[Trystimar Hawkins|Trystimar]]
 > > - [[Cactus Cowboy]]
 > > ## Organizations Mentioned
 > > - 
@@ -24,7 +24,7 @@ recap_number: 172
 >> - None
 
 ## Summary
-We pick up the cronies that Michael previously tossed off the Aminatu and continue negotiations with Adizar (aka Goth Mommy). She agrees to take Orevana to Sabaal to ask for ownership of the Aminatu in exchange for her freedom. While inside Zone of Truth, she also discloses that she is the 2nd in command of this "gang" and that she didn't know the contents of the shipment, just that it was coming from Prosperity and Sabaal wanted her to steal it. Michael drives us all back to the garage where Adizar takes Orevana inside the casino. They first try his apartment (2nd floor from the top!), then they go into some kind of art museum, then finally they find him eating sushi at a restaurant. Sabaal is a pretentious fish-man, but Orevana successfully gets on his good side. He agrees to give us ownership of the Aminatu in exchange for "helping him with something". He also mentions a gift he left Hollia at The Ru. We assume Adizar will be punished for failing the job. Meanwhile, the rest of the team chat with Tristimar, Boyle (cactus man), and Nadiif (and how much Mara dislikes him). Orevana returns and we all get a quick drink before separating from Tristimar & Boyle to return to The Ru. The "gift" Sabaal left us turned out to be Mr. Brightspark's head in a box. Hollia, distressed, commits to resurrecting him tomorrow. We all do our own separate acitvities for the day & meet up in the morning for the resurrection.
+We pick up the cronies that Michael previously tossed off the Aminatu and continue negotiations with Adizar (aka Goth Mommy). She agrees to take Orevana to Sabaal to ask for ownership of the Aminatu in exchange for her freedom. While inside Zone of Truth, she also discloses that she is the 2nd in command of this "gang" and that she didn't know the contents of the shipment, just that it was coming from Prosperity and Sabaal wanted her to steal it. Michael drives us all back to the garage where Adizar takes Orevana inside the casino. They first try his apartment (2nd floor from the top!), then they go into some kind of art museum, then finally they find him eating sushi at a restaurant. Sabaal is a pretentious fish-man, but Orevana successfully gets on his good side. He agrees to give us ownership of the Aminatu in exchange for "helping him with something". He also mentions a gift he left Hollia at The Ru. We assume Adizar will be punished for failing the job. Meanwhile, the rest of the team chat with Trystimar, Boyle (cactus man), and Nadiif (and how much Mara dislikes him). Orevana returns and we all get a quick drink before separating from Trystimar & Boyle to return to The Ru. The "gift" Sabaal left us turned out to be Mr. Brightspark's head in a box. Hollia, distressed, commits to resurrecting him tomorrow. We all do our own separate acitvities for the day & meet up in the morning for the resurrection.
 
 ----
 
@@ -41,7 +41,7 @@ We pick up the cronies that Michael previously tossed off the Aminatu and contin
 	- Mara steals a hair from Adizar
 	- Orevana re-ties Nadiif and ties Adizar to another chair at Michael’s request
 - We update the deal so that Orevana will go inside with Adizar to meet Sabaal
-	- We offer to go pick up Tristimar and Cactus Cowboy
+	- We offer to go pick up Trystimar and Cactus Cowboy
 	- Cactus Cowboy is named Bristlebill (Bill)
 	- Peri easily spots him walking below us and we pick him up too
 	- Curl comes by and asks if we’re okay - we tell him his job is done and he heads back into Prosperity
@@ -53,7 +53,7 @@ We pick up the cronies that Michael previously tossed off the Aminatu and contin
 	- She doesn’t know how big the organization is - and they don’t seem to have a name (she’s #2 in the org)
 	- If we find the shipment for her, she would be willing to ally with us
 	- Sabaal uses Sterling Hounds and Deputies
-	- Tristimar and Bill are below her in the hierarchy
+	- Trystimar and Bill are below her in the hierarchy
 	- She has “absolutely not been” romantically involved with Nadiif
 	- She has never seen this ship before
 	- Though she didn't know what was INSIDE the carriage, it was supposed to have come from Prosperity
@@ -64,12 +64,12 @@ We pick up the cronies that Michael previously tossed off the Aminatu and contin
 	- When we arrive, Sabaal isn’t there. His Sterling Deputy says that he went to the art gallery to meet with an associate. Orevana and Adizar chit-chat for a while before we head down to talk to him
 	- We learn that there are steam vents below the city
 - Back on the Aminatu
-	- Michael tells Trist what we’re doing - saving the universe from Nulviir
+	- Michael tells Tryst what we’re doing - saving the universe from Nulviir
 	- “There’s some being we accidentally freed from another dimension which lead to the Scro War"
 	- He also talks about Owuo and Orkus
 	- Mara asks about how Nadiif happened to get death god cultists onto his ship
 	- Mara also asks about how Nadiif got the ship. He mentions Spider and how “he didn’t seem to need it anymore” so he took it
-	- Trist asks about what our game plan is. Mara explains that we fought Nadiif and brought the ship back. He was locked up and then immediately freed. That’s unjust
+	- Tryst asks about what our game plan is. Mara explains that we fought Nadiif and brought the ship back. He was locked up and then immediately freed. That’s unjust
 	- Peri casts speak with plants to ask Bill if he’d like a translator - he declines but does say that the group calls him Bill when his name is actually Boyd
 - Back to Orevana and Adizar
 	- We go down a hallway and approach a shop called Vogue. It’s full of paintings and sculptures. There is no apparent door

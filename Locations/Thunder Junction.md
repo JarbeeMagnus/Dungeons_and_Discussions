@@ -37,7 +37,7 @@ SORT recap_number
 ## NPC's We Have Encountered in Thunder Junction
 - [[Daaa'v]]
 - [[Doc Adizar]]
-- [[Tristimar Hawkins]]
+- [[Trystimar Hawkins]]
 - [[Cactus Cowboy]]
 - [[Jemzer Balladris]]
 - [[Kiro Goldengleam|Kiro]]

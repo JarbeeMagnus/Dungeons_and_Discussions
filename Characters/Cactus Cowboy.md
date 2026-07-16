@@ -35,8 +35,8 @@ SORT recap_number
 ## Notable Relationships
 ### Perceived Relationships with other NPC's
 >[!column|4 no-title]
->>[!kith|friend] **[[Tristimar Hawkins|Tristimar]]** 
->>![[Tristimar Hawkins|Hot Unknown Cowboy]]
+>>[!kith|friend] **[[Trystimar Hawkins|Trystimar]]** 
+>>![[Trystimar Hawkins|Hot Unknown Cowboy]]
 >
 >>[!kith|bg-c-gray] **[[Doc Adizar]]** 
 >>![[Adizar.jpg|profile p+t]]

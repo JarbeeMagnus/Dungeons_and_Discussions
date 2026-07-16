@@ -5,7 +5,7 @@ Aliases:
 ---
 ----
 > [!quote|mark no-title]
-> Let's do a seance
+> Let's do a séance
 ----
 >[!column|2 no-title]
 >>[!infobox]
@@ -54,6 +54,9 @@ Aliases:
 >
 >>[!kith|romantic] **[[Urn Nadiif|Nadiif]]** 
 >>![[Nadiif.jpg|profile p+t]]
+>
+>>[!kith|romantic] **[[Trystimar Hawkins|Tryst]]** 
+>>![[Hot_Unknown_Cowboy.jpg|profile p+t]]
 >
 >>[!kith|romantic] **[[Tulgan]]** 
 >>![[Tulgan.jpg|profile p+t]]

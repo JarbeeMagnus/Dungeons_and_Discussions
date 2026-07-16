@@ -22,7 +22,7 @@ aliases:
 >> - [[Urn Nadiif|Nadiif]] *(kind of?)*
 >> - [[Tulgan]] ?
 >> - [[Cactus Cowboy]]
->> - [[Tristimar Hawkins|Tristimar]]
+>> - [[Trystimar Hawkins|Trystimar]]
 >> - [[Felix Fiveboots]]
 
 ----

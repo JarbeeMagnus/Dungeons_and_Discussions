@@ -41,7 +41,7 @@ SORT recap_number
 - [[Doc Adizar|Goth Mommy]]
 - [[Tulgan]]
 - [[Bilver Tasselwaddle]]
-- [[Tristimar Hawkins]]
+- [[Trystimar Hawkins]]
 - [[Cactus Cowboy]]
 - [[Sabaal]]
 - [[Captain Curl]]

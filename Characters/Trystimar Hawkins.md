@@ -2,8 +2,8 @@
 note_type: "NPC"
 Aliases:
   - "Hot Unknown Cowboy"
-  - "Tristimar"
-  - "Trist"
+  - "Trystimar"
+  - "Tryst"
 ---
 ----
 >[!column|2 no-title]
@@ -41,9 +41,7 @@ N/A
 
 ### Party Member Thoughts on Hot Unknown Cowboy
 
->[!kith|bg-c-gray] **[[Mara Underhill|Mara]]** _No thanks!_
-
->[!kith|bg-c-gray] **[[Orevana Brix|Orevana]]** _Smash_
+>[!kith|romantic] **[[Orevana Brix|Orevana]]**
 
 ----
 ## Events
