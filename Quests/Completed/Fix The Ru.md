@@ -46,4 +46,3 @@ SORT recap_number
 
 ---
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]] || [[Belia Bushtail|Belia]]
-#### Open Tasks
