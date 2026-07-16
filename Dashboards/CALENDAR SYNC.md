@@ -31,9 +31,9 @@ Flamerule 22 = Hammerhead fight (we've reached the flow lane, fought shortly aft
 
 
 Travel Time in the Sargasso:
-Zuun 28, 9986 - Seleszeni 13, 9987
-Thunderhoof 25 - Redmesa 11, 1069
-Kythorn 28 - Flamerule 12, 1509
+Zuun 28, 9986 - Seleszeni 11, 9987
+Thunderhoof 25 - Redmesa 9, 1069
+Kythorn 28 - Flamerule 10, 1509
 
 
 

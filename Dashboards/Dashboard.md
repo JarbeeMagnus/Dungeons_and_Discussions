@@ -54,6 +54,6 @@ Location: [[Thunder Junction]]
 TABLE file.mtime as "Last Modified"
 WHERE file.name != this.file.name
 SORT file.mtime DESC
-LIMIT 10
+LIMIT 50
 ```
 
