@@ -13,6 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Characters/Cactus Cowboy.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cactus Cowboy"
+            }
+          },
+          {
+            "id": "55b5af2c27c2739d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Dashboards/Dashboard.md",
                 "mode": "preview",
                 "source": true,
@@ -21,8 +36,24 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "d17f400345e8c7a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Orevana Brix.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Orevana Brix"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sextant",
+                "query": "trist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,8 +328,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "850d1de27d2c26b9",
+  "active": "55b5af2c27c2739d",
   "lastOpenFiles": [
+    "Session Recaps/Episode 178 - Showdown Adjacent to the Luxury Hand Bag Store.md",
+    "Characters/Orevana Brix.md",
+    "Characters/Trystimar Hawkins.md",
+    "Characters/Cactus Cowboy.md",
+    "Organizations/Unknown Mafia.md",
+    "Locations/The Voyager Grande.md",
+    "Quests/Stop the Job.md",
+    "Characters/Sabaal.md",
+    "Session Recaps/Episode 177 - Hurty Words Disguised As Huggy Words.md",
+    "Session Recaps/Episode 172 - Thorny Negotiations.md",
+    "Session Recaps/completed/Episode 124 - Rocket Science.md",
+    "Session Recaps/Episode 171 - You Had One Job.md",
+    "Session Recaps/Episode 167 - Thirst Trap.md",
+    "Session Recaps/completed/Episode 120 - Night at the Museum.md",
+    "Locations/Aminatu.md",
+    "Session Recaps/Episode 164 - Thunderstruck!.md",
+    "Dashboards/Dashboard.md",
     "Organizations/Elven Imperial Navy.md",
     "Organizations/Fight Club.md",
     "Organizations/Cult of Rakdos.md",
@@ -308,24 +356,7 @@
     "Session Events/Space Events/Derelict Ship Encounter.md",
     "Session Events/Space Events - Detailed.md",
     "Organizations/Scro Empire.md",
-    "Quests/Upgrade The Ru.md",
     "z_Assets/EIN placeholder.webp",
-    "Characters/Urn Nadiif.md",
-    "Quests/Completed/Fix The Ru.md",
-    "Session Recaps/completed/Episode 153 - Space, the Fucking Frontier.md",
-    "Session Events/Ravnican Events/!Time On Ravnica Notes.md",
-    "Session Events/!Overall Events (High-Level Locations).md",
-    "Session Recaps/Episode 176 - Falling is a Free Action.md",
-    "Characters/Mr. Brightspark.md",
-    "Organizations/Unknown Mafia.md",
-    "Characters/Morla.md",
-    "Session Events/Space Events/!Time in Space Notes.md",
-    "Session Events/Faerun Events/!Time On Faerun Notes.md",
-    "Session Events/Space Events/Aminatu Encounter & Fight.md",
-    "Dashboards/Calendars/Thunder Junction Calendar.md",
-    "Dashboards/Calendars/Ravnica Calendar.md",
-    "Dashboards/References.md",
-    "Dashboards/How dataview tables will be used.md",
     "Session Events/Space Events",
     "z_Assets/178.jpg",
     "z_Assets/177.jpg",
