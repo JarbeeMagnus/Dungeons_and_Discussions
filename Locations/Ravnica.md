@@ -86,4 +86,30 @@ WHERE contains(file.outlinks,link(this.file.name))
 - **Griev 20, 9986** - Arrive at Luka; Pannikin Goods Trade
 - **Griev 21, 9986** - Bad Food at The Glass House
 - **Griev 24, 9986** - Teleport to Koren by Divine Intervention; Reconnect with The Ru Crew!
+- **Griev 25, 9986** - Powerplant Encounter
+- **Griev 26, 9986** - Found The Ru Crash Site
+- **Griev 27, 9986** - Helped Tandy's Ghost Pass On
+- **Griev 29, 9986** - Ru Repairs; Rakcha Dies
+- **Zuun 2, 9986** - Orevana Arm Operation
+- **Zuun 3, 9986** - Rescued Gruul Prisoners
+- **Zuun 4, 9986** - Rescued Caravan Prisoners
+- **Zuun 6, 9986** - Recon into the Eye of the Storm
+- **Zuun 7, 9986** - We Get Inside Koren
+- **Zuun 8, 9986** - Hollia Lets her Hair Down
+- **Zuun 10, 9986** - Rite of Obligation at Nadvlada Cathedral
+- **Zuun 11, 9986**
+	- Enter the Operations & Logistics Building; Enter Requiem Site
+	- Grizzut has been Captured
+-  **Zuun 12, 9986** - Find TONS of Info on Project Firmament & Project Requiem
+-  **Zuun 13, 9986**
+	- Dinner Surprise from Yunaska & Carodejnik (thwarted)
+	- Yunaska is Killed by Donwec
+	- Freed Vianka from Stained Glass Window
+	- Donwec is Kidnapped & Intermediary Device is Installed
+	- Ljudo Jr Dies
+	- Furniture & Ghost Fights
+-  **Zuun 14, 9986**
+	- Rescue Grizzut
+	- Djinn Fight
+	- Left Koren
 ----
