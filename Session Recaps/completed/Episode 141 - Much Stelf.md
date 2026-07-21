@@ -29,13 +29,13 @@ recap_number: 141
 >> - (*upcoming*) **Zuun 15, 9986** - Ljudo St. Coming to Project Site
 
 ## Summary
-We awake the next morning to a frantic Hollia scribbling glyphs in her underwear. She and Orevana speak privately in the bathroom about Hollia being able to fix her tentacle arm. On our way back, we find Mara speaking to a living statue who is informing us to write-up a full report on the "white substance" investigation, to which Hollia complies. When heading into the staircase to go upstairs and gather more information on Project Firmament, Michael pushes Jeff down the tube and the chicken is COMPLETELY vaporized. On our way up, we notice runes and consoles on the 9th floor that appear to be teleportation magic, according to Hollia. After insisting on talking with Yunaska, she recognizes Donwec and we convince her we are obfuscators accompanying Donwec. She seems to believe us and reveals she's trying to get promoted within the company and she wants us to remain in the building for the next 2 days while she determines the best way to use us in "mutually beneficial arrangements".
+We awake the next morning to a frantic Hollia scribbling glyphs in her underwear. She and Orevana speak privately in the bathroom about Hollia being able to fix her tentacle arm. On our way back, we find Mara speaking to a living statue who is informing us to write-up a full report on the "white substance" investigation, to which Hollia complies. When heading into the staircase to go upstairs and gather more information on Project Firmament, Michael pushes Geoff down the tube and the chicken is COMPLETELY vaporized. On our way up, we notice runes and consoles on the 9th floor that appear to be teleportation magic, according to Hollia. After insisting on talking with Yunaska, she recognizes Donwec and we convince her we are obfuscators accompanying Donwec. She seems to believe us and reveals she's trying to get promoted within the company and she wants us to remain in the building for the next 2 days while she determines the best way to use us in "mutually beneficial arrangements".
 
 ----
 
 ## Detailed Notes
 - We get ready for bed
-	- Mara summons Jeff to assist with watches. Orevana’s raven joins Jeff in keeping watch. Peri summons a baby faerie dragon to join the familiar crew
+	- Mara summons Geoff to assist with watches. Orevana’s raven joins Geoff in keeping watch. Peri summons a baby faerie dragon to join the familiar crew
 	- Hollia wards the door. She also invokes legend lore on Neogi. She learns they are a violent society that relies heavily on slavery. The young fight for survival by consuming each other
 	- We are awoken a few times throughout the night as the familiars establish their territories, but we still get a full long rest
 - We awake to see Hollia nervously (and furiously) drawing glyphs all over the room, hair messy, eyes wild, only in her underwear. Mara finds her like that but doesn’t get anywhere regarding why she was in that state
@@ -46,7 +46,7 @@ We awake the next morning to a frantic Hollia scribbling glyphs in her underwear
 	- Mara tells Michael she is out of snack packs and he was devastated
 - We need an hour to finalize a report
 	- Belia starts exercising in the corner
-	- Jeff approaches her and makes cooing noises. Mara communicates telepathically “Furry”. She tells Belia that he likes her fur and that he wants to look at it. Belia says it’s creepy and Mara calls him into the corner, away from her
+	- Geoff approaches her and makes cooing noises. Mara communicates telepathically “Furry”. She tells Belia that he likes her fur and that he wants to look at it. Belia says it’s creepy and Mara calls him into the corner, away from her
 	- Orevana braids her hair, Mara’s hair, and Hollia’s hair while Hollia works on the report
 	- Once she’s done, Hollia bestows 120 temporary HP to Mara
 - *NOTE: Zuun 15th is when Ljudo Sr. will be in town*
@@ -54,8 +54,8 @@ We awake the next morning to a frantic Hollia scribbling glyphs in her underwear
 	- Hask is sitting by the statue, looking timid. Belia is instructed to hand the report to Hask. He takes it up to the records room
 	- Strazca asks us to step before him. He says we have the gratitude of Orzhov and Pracovisku Development before stepping back into the wall
 - We go into the staircase
-	- Michael wants us to push him into the tube - Orevana fails and asks Peri to try. In the meantime, Mara pushes Jeff into the tube. He falls about 10ft down before…
-	- Peri knocks Michael into the tube with his butt under the guise of picking up a penny. Michael hamster balls up as he starts to fall. He pushes Jeff down the tube and he passes a green disk and is absolutely obliterated. Michael comes out of the tube in the basement level. He flashes his jacket to flowers quick before trying to run up the stairs in a bubble. He fails and then dispels the bubble and comes up the stairs. He steals an apple from one of the workers
+	- Michael wants us to push him into the tube - Orevana fails and asks Peri to try. In the meantime, Mara pushes Geoff into the tube. He falls about 10ft down before…
+	- Peri knocks Michael into the tube with his butt under the guise of picking up a penny. Michael hamster balls up as he starts to fall. He pushes Geoff down the tube and he passes a green disk and is absolutely obliterated. Michael comes out of the tube in the basement level. He flashes his jacket to flowers quick before trying to run up the stairs in a bubble. He fails and then dispels the bubble and comes up the stairs. He steals an apple from one of the workers
 	- Peri creates good berries and gives them to everyone. Michael drops the apple down the hole before we go upstairs
 - We go up to the 5th floor and smell/hear cafeteria sounds. We also see a laundry cart brought into the tube via an indentured spirit. Donwec is hungry and wants food so we pause to let him eat
 - RETCON - when we went upstairs last time, the Guild Mage gave us Zinos to leave in an offering bowl for each of us
