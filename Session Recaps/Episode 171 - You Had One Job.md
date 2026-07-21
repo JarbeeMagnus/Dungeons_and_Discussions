@@ -76,15 +76,15 @@ What will the party do next?!
     - [[Doc Adizar|Goth Mommy]] comes up the stairs and tells [[Trystimar Hawkins|Trystimar]] to "*stop fucking around and go to sleep*". Trystimar calls her "doc" (just like Tulgan did)
     - [[Doc Adizar|Goth Mommy]] pushes past and pulls [[Trystimar Hawkins|Trystimar]] toward the elevator. [[Mara Underhill|Mara]] asks about parking her ship and how she's been struggling to find parking. [[Trystimar Hawkins|Trystimar]] said there's high-roller parking out back. [[Doc Adizar|Goth Mommy]] yells for [[Trystimar Hawkins|Trystimar]] to get into the elevator
     - As he walks away, [[Mara Underhill|Mara]] tries to get a beard hair from him for scrying later. He grabs her hand lightning-fast and kisses her hand. But she successfully gets a hair!
-    - [[Mara Underhill|Mara]] heads back to the ship and summons an imp to watch us sleep (that she named "Jeff"). She asks him to wake her after 4 hours
+    - [[Mara Underhill|Mara]] heads back to the ship and summons an imp to watch us sleep (that she named "Geoff"). She asks him to wake her after 4 hours
 
 **THE NEXT DAY: Highnoon 13 / Eleasias 11**
 
-- Jeff wakes [[Mara Underhill|Mara]] and she goes to [[Captain Curl|Curl]] to go over the NEW plan - we'll watch for the [[Aminatu]] to leave and then follow them at a safe distance. [[Captain Curl|Curl]] is on board with "doing adventuring things"
+- Geoff wakes [[Mara Underhill|Mara]] and she goes to [[Captain Curl|Curl]] to go over the NEW plan - we'll watch for the [[Aminatu]] to leave and then follow them at a safe distance. [[Captain Curl|Curl]] is on board with "doing adventuring things"
     - We take off and [[Captain Curl|Curl]] sets us up behind a building so we have eyes on the back of the casino
-    - [[Mara Underhill|Mara]] plans to send Jeff out ahead to scout for us and check on the ship because he has dark vision
+    - [[Mara Underhill|Mara]] plans to send Geoff out ahead to scout for us and check on the ship because he has dark vision
     - He comes back and describes seeing Trystimar, Cactus Cowboy, Doc Adizar, and Nadiif
-    - [[Mara Underhill|Mara]] sends Jeff off a second time and she and [[Captain Curl|Curl]] see the [[Aminatu]] leave the ramp
+    - [[Mara Underhill|Mara]] sends Geoff off a second time and she and [[Captain Curl|Curl]] see the [[Aminatu]] leave the ramp
     - [[Captain Curl|Curl]] follows at a safe distance and [[Mara Underhill|Mara]] goes to wake everyone
 - We follow for another hour or so out of the city and to the North
     - [[Orevana Brix|Orevana]] pulls a tarot card for [[Captain Curl|Curl]] to pilot effectively
@@ -105,7 +105,7 @@ What will the party do next?!
     - Trystimar says maybe they're running late (from the helm)
     - Nadiif looks bored from his chair, still restrained
 - [[Orevana Brix|Orevana]], [[Periwinkle|Peri]], and [[Hollia Butterfield|Hollia]] play a few rounds of Drakes
-- Jeff, on watch, says he sees a couple of horses coming down the road with people riding them
+- Geoff, on watch, says he sees a couple of horses coming down the road with people riding them
     - [[Periwinkle|Peri]] goes off to scout invisibly. He goes to the horses and sees they're being ridden by people - one older man and a teenage girl
     - [[Periwinkle|Peri]] isn't able to hide well and alerts the man, who seems to be armed. [[Periwinkle|Peri]] teleports away in time to not be noticed
     - Once safe to follow, he goes onto the road and follows them at a safe distance (3 wagons)
