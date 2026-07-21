@@ -19,7 +19,7 @@ Aliases:
 >> - N/A
 > 
 >>[!infobox]
->>![[Magus Odisar.jpg|portrait p+t]]
+>>![[Magus Odizar.jpg|portrait p+t]]
 
 ### Fun Facts
 - A real tool

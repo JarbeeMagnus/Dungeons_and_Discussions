@@ -43,6 +43,9 @@ Aliases:
 
 ### Thoughts NPC's
 >[!column|4 no-title]
+>>[!kith|friend] **[[Raven Queen]]** _patron_
+>>![[Raven_Queen_Placeholder.jpg|profile p+t]]
+>
 >>[!kith|romantic] **[[Donwec Pracovisku|Donwec]]** 
 >>![[Donwec.jpg|profile p+t]]
 >
@@ -84,3 +87,4 @@ Aliases:
 - **Seleszeni 9, 9987** (*Flamerule 7, 1509*) - Orevana pilots the ship for the first time
 - Sometime between **Flamerule 5-8, 1509** - Orevana releases the spirit of SOMEONE Mara had in her brooch. An old friend of hers
 - **Flamerule 11, 1509** - Orevana spends time in the kitchen with Marge, trying to befriend her. She seemed to make some progress
+- **Day 157** - Owuo kills Orevana during the battle with the Aminatu (hammerhead ship)

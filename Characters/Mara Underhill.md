@@ -26,7 +26,7 @@ Aliases:
 ### Fun Facts
 - Is filthy stinking RICH
 - Has a dagger tattoo that allows her to "disguise self" and a cloak that lets her sprout wings temporarily
-- All of Mara's familiars are named "Jeff". She especially likes to summon an abyssal chicken (who develops a crush on Belia)
+- All of Mara's familiars are named "Geoff". She especially likes to summon an abyssal chicken (who develops a crush on Belia)
 - (*more of a note*) Mara saw Jozica Volenco speak through a portal on Sigil
 - Knows a game called “Fast hands” that she learned while she was an urchin in Waterdeep
 ----
