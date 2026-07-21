@@ -1,7 +1,7 @@
 ---
 note_type: "Organization"
 aliases:
-  - "EIN"
+  - "Sindiath"
 ---
 ----
 ![[EIN placeholder.webp| banner p+t]]
@@ -9,7 +9,7 @@ aliases:
 >[!column|2 no-title]
 >>[!infobox]
 >> ## Overview
->> - **Type:** Army
+>> - **Type:** Merchant Line
 >> - **Located in:** TBD
 >> # Related Quests
 >>  - N/A
@@ -20,9 +20,9 @@ aliases:
 >> # Members
 >> - Unknown
 ----
-The Elven Imperial Navy are the "good guys" in the big war against the [[Scro Empire]].
+The Sindiath Line is a passenger service that has ties with the [[Elven Imperial Navy]].
 
-Has ties with a passenger service called the [[Sindiath Line]].
+Their emblem is a gold S atop a white field.
 
 ----
 
@@ -34,7 +34,7 @@ SORT recap_number
 ```
 
 ----
-## Events Involving Elven Imperial Navy
+## Events Involving Sindiath Line
 - **Day 151** - Derelict Ship Encounter had elves with the uniforms of the Sindiath Line
 - **Day 157** - Encounter the Aminatu (hammerhead ship) - Nadiif was posing as a ship from the Sindiath Line
 ----

@@ -31,6 +31,7 @@ Aliases:
 - May have signed a contract in his sleep with Morla
 - Loves snack packs
 - While in the Reclamation Zone on Ravnica, he encountered an air elemental in the elevator of one of the magic domes - he named it Sam
+- Called a "Child of Chaos" by Owuo
 ----
 ## Notable Relationships
 ### Thoughts on the Party
@@ -53,6 +54,9 @@ Aliases:
 >
 >>[!kith|antagonist] **[[Carodejnik]]** 
 >>![[Carodejnik.jpg|profile p+t]]
+>
+>>[!kith|antagonist] **[[Owuo]]** 
+>>![[Owuo.jpg|profile p+t]]
 
 ----
 ## Events Involving  Michael

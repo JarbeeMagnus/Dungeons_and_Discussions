@@ -42,7 +42,7 @@ SORT recap_number
 >>![[Professor_Ellegorin_Omavius.jpg|profile p+t]]
 >
 >>[!kith|bg-c-gray] **[[Magus Odizar]]** _boss_
->>![[Magus Odisar.jpg|profile p+t]]
+>>![[Magus Odizar.jpg|profile p+t]]
 
 ### Party Member Thoughts on Befallor
 >[!kith|friend] **[[Hollia Butterfield|Hollia]]** 

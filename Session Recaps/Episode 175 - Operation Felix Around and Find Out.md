@@ -3,7 +3,7 @@ note_type: "Recap"
 recap_number: 175
 ---
 ----
-![[175.png]]
+![[175.png|sban]]
 
 >[!column|2 no-title]
 >>[!infobox]

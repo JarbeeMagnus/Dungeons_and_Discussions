@@ -3,25 +3,31 @@ note_type: "Recap"
 recap_number: 161
 ---
 ----
-![[161.jpg]]
+![[161.jpg|sban]]
 
 >[!column|2 no-title]
 >>[!infobox]
 > > ## NPC's Mentioned
-> > - 
+> > - [[Marge]]
+> > - [[Captain Zellhane|Zellhane]]
+> > - [[Jilly Everproud|Jilly]]
+> > - [[Urn Nadiif]]
+> > - [[Mr. Brightspark]]
+> > - [[Owuo]]
 > > ## Organizations Mentioned
-> > - 
+> > - [[Ru Crew]]
 > 
 >>[!infobox]
 >>## Locations
->> - None
+>> - [[Kinshala Sphere]]
+>> - [[The Ru]]
 >> ## Quests Mentioned
->> - None
+>> - N/A
 >> # Events Mentioned
->> - 
+>> - **Day 157** - Encounter the Aminatu (hammerhead ship)
 
 ## Summary
-Quick summary of what happened
+We send the Aminatu on its way and then take off on our own. About 10 minutes later, we're pulled out of top speed. Orevana uses See Invisibility and points out the Aminatu above us and upside down. We have a big fight and learn that the Aminatu has an anti-magic weapon. The Aminatu crew were trying to kidnap Michael in the name of "Owuo". During the fight, Zellhane almost gets one-shot by a blob monster, but Hollia is able to heal her enough to be conscious, but she's super burned now.
 
 ----
 
@@ -44,7 +50,3 @@ Quick summary of what happened
 
 ----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]
-#### Open Tasks
-- [ ] Do the summary
-- [ ] Add high level stuff at the top
-- [ ] Create quests/events

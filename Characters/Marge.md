@@ -58,4 +58,5 @@ SORT recap_number
 - **Griev 24, 9986** - Reconnect with The Ru Crew!
 - **Flamerule 3, 1509** - Mara offers Marge to M-ZOK, the Void Lord, for trespassing. The rest of the crew do not agree and they end up fleeing (and all in one piece). Mara offers to upgrade Marge's kitchen as an apology
 - **Flamerule 11, 1509** - Orevana spends time in the kitchen with Marge, trying to befriend her. She seemed to make some progress
+- On **Day 157**, during the fight with the Aminatu (hammerhead ship), Marge somehow seemed to know that the blob creature that attacked Captain Zellhane was vulnerable to ice damage
 ----

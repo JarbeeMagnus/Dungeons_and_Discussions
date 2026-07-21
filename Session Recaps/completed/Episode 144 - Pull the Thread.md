@@ -83,15 +83,15 @@ The team gathers intel from Vianka, Yunaska's dead body, and Carodejnik. We lear
 - Michael stabs Carodejnik and swaps him and Vianka 
 	- Vianka starts walking away and Orevana casts blindness 
 	- We find out she wants a drink, a cigarette, and to kill her husband 
-	- We try to convince her to be nicer (and fail). Mara summons Jeff to intimidate her 
+	- We try to convince her to be nicer (and fail). Mara summons Geoff to intimidate her 
 	- Someone knocks on the door and Orevana imitates Yunaska to get him to bring Ljudo Jr. He comes back and tells us that Ljudo is in his chambers, indisposed. “Yunaska” tells him to come back in an hour 
 - Mara pokes her head out the door after a few minutes and sees some staircases that she believes leads to bedrooms 
 	- Peri uses his jug of alchemy to give Vianka wine. She drinks some and complains 
-	- We go up the stairs with Donwec, Vianka, and Jeff. Michael is carrying the stained glass window 
+	- We go up the stairs with Donwec, Vianka, and Geoff. Michael is carrying the stained glass window 
 	- Hollia takes a couple of books from the library - one Orzhov history book and one Orzhov economics book 
 	- Vianka goes to a beverage cart and parks herself. Michael steals her vodka. We leave her there 
 	- Donwec has Weal for the next hour 
-- We had a fight with a high-level knight at the T shaped hallway, it was quite hard but we're okay. RIP Jeff
+- We had a fight with a high-level knight at the T shaped hallway, it was quite hard but we're okay. RIP Geoff
 
 ----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Belia Bushtail|Belia]] || [[Gatewatch]]

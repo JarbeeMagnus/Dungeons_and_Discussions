@@ -3,27 +3,21 @@ note_type: "Recap"
 recap_number: 160
 ---
 ----
-![[160.jpg]]
+![[160.jpg|sban]]
 
 >[!column|2 no-title]
 >>[!infobox]
-> > ## NPC's Mentioned
-> > - [[Marge]]
-> > - [[Captain Zellhane|Zellhane]]
-> > - [[Jilly Everproud|Jilly]]
-> > - [[Algus Westerton|Algus]] (*mentioned*)
-> > - [[Ellegorin Omavius|Ellegorin]]
-> > - [[Belia Bushtail|Belia]]
-> > - [[Magus Odizar]]
-> > - [[Tallison Vos|Tallison]] (*as a many-tailed fox*)
-> > - [[Urn Nadiif]]
-> > - [[Mr. Brightspark]]
-> > ## Organizations Mentioned
-> > - [[Ru Crew]]
-> > - [[Elven Imperial Navy]], [[Sindiath Line]]
-> > - [[Scro Empire]]
-> 
->>[!infobox]
+>> ## NPC's Mentioned
+>> - [[Marge]]
+>> - [[Captain Zellhane|Zellhane]]
+>> - [[Jilly Everproud|Jilly]]
+>> - [[Algus Westerton|Algus]] (*mentioned*)
+>> - [[Ellegorin Omavius|Ellegorin]]
+>> - [[Belia Bushtail|Belia]]
+>> - [[Magus Odizar]]
+>> - [[Tallison Vos|Tallison]] (*as a many-tailed fox*)
+>> - [[Urn Nadiif]]
+>> - [[Mr. Brightspark]]
 >>## Locations
 >> - [[The Ru]]
 >> - [[Kinshala Sphere|Kinshala]]
@@ -31,13 +25,20 @@ recap_number: 160
 >> - [[Silverymoon]]
 >> - Witchlight Sphere (*mentioned*)
 >> - [[Aminatu]]
->> ## Quests Mentioned
->> - [[New Spell Focus for Peri]] (*complete*)
->> - [[Upgrade The Ru]]
+> 
+>>[!infobox]
 >> # Events Mentioned
 >> - **Flamerule 14-15, 9986** - Third Shore Leave to Silverymoon (Hollia/Peri return the 14th, but the crew stay the night)
 >> - **Day 151** - Derelict Ship Encounter and met Tally
 >> - **Day 157** - Encounter the Aminatu (hammerhead ship)
+>> ## Quests Mentioned
+>> - [[New Spell Focus for Peri]] (*complete*)
+>> - [[Upgrade The Ru]]
+>> ## Organizations Mentioned
+>> - [[Ru Crew]]
+>> - [[Elven Imperial Navy]], [[Sindiath Line]]
+>> - [[Scro Empire]]
+
 
 ## Summary
 We navigate the ship toward the "lighthouse" AKA the flow beacon from Zellhane's map. During this time, Mara and Hollia decide to "behave" in front of the crew, Orevana builds some trust with Marge, and Mara and Peri reconcile about the heated discussion they had in the Fey Wildspace. After a few days of easy travel, Hollia and Peri take the rest of the crew to Silverymoon for some shore leave. Peri gets his finished staff from Ealon and he is VERY happy with it. The two return to The Ru and Hollia picks up the crew the next day with Mara. The next day, we stumble across a derelict ship that appears to belong to the Elven Imperial Navy. We investigate the ship, which is frozen with dead elves aboard. An orange and red light flashes to get our attention and some invisible being puppets the dead bodies to get Peri's attention. Once Peri responds, the lights turn green and a kitsune appears on The Ru and says they will "see us later". Orevana gives the dead elves their last rites with the help of a fireball from Michael. A few days later, we see Kinshala Sphere in the distance and start closing the gap (it's HUGE, so it takes a while). Another few days pass by when we are approached by a hammerhead ship. They signal to talk and we meet Urn Nadiif, Mr.Brightspark, and some of their crew. They claim to be part of the EIN and review our papers. Orevana and Peri pick up on some weird vibes when Nadiif tries to get us to come aboard his ship first to get various items that would help with air fouling and then later to look at their map. We decline and go on our way.

@@ -23,6 +23,7 @@ Aliases:
 
 ### Fun Facts
 - Very level-headed
+- Apprehension of blob creatures after our encounter with the Aminatu
 ----
 ## Appears in
 ```dataview
@@ -48,6 +49,5 @@ SORT recap_number
 ----
 ## Events
 - **Griev 24, 9986** - Reconnect with The Ru Crew!
+- On **Day 157**, during the fight with the Aminatu (hammerhead ship), Zellhane gets massively damaged and burned by a blob creature
 ----
-#### Open Tasks
-- [ ] Add Events

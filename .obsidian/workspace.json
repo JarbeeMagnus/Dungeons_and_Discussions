@@ -8,52 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "850d1de27d2c26b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Cactus Cowboy.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Cactus Cowboy"
-            }
-          },
-          {
             "id": "55b5af2c27c2739d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboards/Dashboard.md",
+                "file": "Session Recaps/completed/Episode 162 - The Hunt for Red Hammerheadtober.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "d17f400345e8c7a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Orevana Brix.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Orevana Brix"
+              "title": "Episode 162 - The Hunt for Red Hammerheadtober"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trist",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -330,32 +299,35 @@
   },
   "active": "55b5af2c27c2739d",
   "lastOpenFiles": [
-    "Session Recaps/Episode 178 - Showdown Adjacent to the Luxury Hand Bag Store.md",
-    "Characters/Orevana Brix.md",
-    "Characters/Trystimar Hawkins.md",
-    "Characters/Cactus Cowboy.md",
-    "Organizations/Unknown Mafia.md",
-    "Locations/The Voyager Grande.md",
-    "Quests/Stop the Job.md",
-    "Characters/Sabaal.md",
-    "Session Recaps/Episode 177 - Hurty Words Disguised As Huggy Words.md",
+    "Session Recaps/Episode 163 - Fuck This Shit, I'm Outta Here! (AGAIN).md",
+    "Session Recaps/completed/Episode 162 - The Hunt for Red Hammerheadtober.md",
+    "Characters/Tallison Vos.md",
+    "Locations/Mechanus.md",
+    "Locations/Kinshala Sphere.md",
+    "Session Recaps/completed/Episode 161 - Encounter at Kinshala's Edge.md",
+    "Session Recaps/completed/Episode 151 - Skidaddle Skidoodle.md",
+    "Session Recaps/Episode 170 - Can't Stop, Won't Stop the Shenans.md",
     "Session Recaps/Episode 172 - Thorny Negotiations.md",
-    "Session Recaps/completed/Episode 124 - Rocket Science.md",
+    "Session Recaps/Episode 173 - Regifted.md",
+    "Session Recaps/Episode 174 - The Favor.md",
+    "Session Recaps/Episode 175 - Operation Felix Around and Find Out.md",
+    "Session Recaps/Episode 179 - Shelf Fish Intentions.md",
+    "Session Recaps/Episode 178 - Showdown Adjacent to the Luxury Hand Bag Store.md",
+    "Session Recaps/Episode 177 - Hurty Words Disguised As Huggy Words.md",
+    "Session Recaps/Episode 176 - Falling is a Free Action.md",
     "Session Recaps/Episode 171 - You Had One Job.md",
+    "Session Recaps/Episode 169 - That's Some Mighty NICE Cowpokin' Around, Y'all.md",
+    "Session Recaps/Episode 168 - A Big Ol' Showdown in Davetown.md",
     "Session Recaps/Episode 167 - Thirst Trap.md",
-    "Session Recaps/completed/Episode 120 - Night at the Museum.md",
-    "Locations/Aminatu.md",
+    "Session Recaps/Episode 166 - Davetown.md",
+    "Session Recaps/Episode 165 - Rootin' and Tootin'.md",
     "Session Recaps/Episode 164 - Thunderstruck!.md",
-    "Dashboards/Dashboard.md",
-    "Organizations/Elven Imperial Navy.md",
-    "Organizations/Fight Club.md",
-    "Organizations/Cult of Rakdos.md",
-    "Organizations/Cult of Dave.md",
-    "Session Recaps/Episode 160 - Out of the...Sargasso Pan and into the...Not...Sargasso.md",
-    "Organizations/Sindiath Line.md",
-    "Session Events/Space Events/Derelict Ship Encounter.md",
-    "Session Events/Space Events - Detailed.md",
-    "Organizations/Scro Empire.md",
+    "Session Recaps/completed/Episode 160 - Out of the...Sargasso Pan and into the...Not...Sargasso.md",
+    "Session Recaps/completed/Episode 159 - Something Spicy This Way Comes.md",
+    "Session Recaps/completed/Episode 158 - Happy Happy Joy Joy.md",
+    "z_Assets/Magus Odizar.jpg",
+    "z_Assets/Raven_Queen_Placeholder.jpg",
+    "z_Assets/179.jpg",
     "z_Assets/EIN placeholder.webp",
     "Session Events/Space Events",
     "z_Assets/178.jpg",
@@ -365,9 +337,6 @@
     "Quests/On Hold",
     "z_Assets/Dispater_Placeholder.png",
     "z_Assets/Boccob_Placeholder.jpg",
-    "z_Assets/176.jpg",
-    "z_Assets/scro_placeholder.jpg",
-    "z_Assets/Magus Odisar.jpg",
     "Locations/Ravnica",
     "Session Events/Faerun Events",
     "Session Events/Space Events",
