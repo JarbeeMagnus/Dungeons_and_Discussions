@@ -95,6 +95,89 @@ What we know...
 - The shipment of weapons that Sabaal tried to intercept was headed for Fort Harmony. Bertram (the head of Sterling Company) has a vault there and often ships valuables hidden in sealed caches among other shipments. Sabaal wanted to intercept and steal the valuables within that particular weapons shipment - but it never arrived. When burst open, we find out the contents of the inner cache include gems, a dagger (non-magical), an animal skull, and the key piece
 - Sabaal was planning on selling the contents of the inner cache to someone (Nectis). Felix was going to double-cross Sabaal and sell the goods instead
 
+- Orevana spins a tale telling the officers of our good deeds in Prosperity and they leave to deliberate
+- After about 10 minutes, Sgt Springbeam returns and sets a box on the table in the middle of the room
+	- She tells us she can return everything to how it was yesterday if we put the key fragment into the box and leave Thunder Junction immediately
+	- Michael drows trou and pulls the fragment out of his butt
+	- Michael deposits the key fragment into the box
+	- Springbeam immediately leaves and leaves the door open. She tells us the ship 
+	- We leave the office and Orevana inquires about our crew and the front desk tells us where to wait (it takes about an hour)
+- After an hour, Zellhane, Felix, Martine, and Kiro are released. Kiro had a black eye that Hollia heals immediately
+- We talk through our options moving forward
+	- We can't decide if we want to go to Adizar, Trystimar, or Captain Tuldac
+	- We think through disguises but Peri strongly feels that we shouldn't use magic inside the constabulary so that we remain trustful
+	- We check on our crew at the inn and some of them go to wait on The Ru at the docks
+	- Michael feels strongly that we should wait until we have The Ru before we act
+- Michael spots a bunch of Giff at a nearby bar and convinces us to go to it
+	- Orevana purchases a strong beverage (called the Ass Knocker) and downs it at the bar. Peri also goes to the bar but gets water
+	- Mara and Hollia stay outside so they're not "implicated" if something goes awry
+	- Michael goes to the group of Giff and spots Brightspark
+	- Michael talks to Brightspark and tells him that the Giff sold us out to the guy that killed him. He offers him a spot on our ship
+	- Orevana tells Brightspark that Nadiif is dead and Brightspark seems to be sad about it (much to her surprise) and he leaves the bar
+	- Hollia, noticing Brightspark seems sad, goes in for a hug (which he awkwardly returns) and then he goes on a walk
+	- Michael and Orevana leave the saloon shortly after
+- We decide to go to the docks to wait with Jilly, Kiro, Zellhane, and Marge are at the docks (and a few of the others) for The Ru to be returned
+- Michael suddenly remembers that he can project his image to the Aminatu. He asks Mara to disguise him to look different (Orevana gives her advantage) - she makes him look like Nadiif and he projects himself into the helm of the Aminatu
+	- He yells, "I'm Nadiif! I heard you needed a vampirate!"
+	- He finds Adizar piloting with Sabaal and Trystimar in the room - they are all baffled
+	- Michael/Nadiif walks around them to go to the back room and insisting he's going to "the cage"
+	- Sabaal commands him to get off the ship and, when Michael plays dumb, Sabaal swings his trident at the projection which dispells it
+- Orevana, realizing the jig is up, runs to the constabulary to talk to Tuldac. It takes about 10 minutes to get there, so we cut to the others
+- Peri starts to follow Orevana and then decides to instead head toward the Topaz Pillar
+	- Peri is the first to arrive and see the Sky Fish alongside the Aminatu
+	- He manages to duck into the clouds and then lands on the pillar to try to look like a normal dinosaur (but does not do it convincingly)
+- Michael casts Fly on himself, Hollia, and Mara
+	- Hollia starts to panic once they get to a certain height
+	- Mara grabs Hollia by the shirt to calm her and says "Hollia, I love you, you've got this"
+	- Michael shoots out into an opening in the clouds and sees the Nectis and Aminatu; Hollia and Mara follow shortly after. They all go toward the Aminatu
+	- Peri follows them toward the ships
+- A beautiful elf appears and  the party stops. An automated "message" plays that says Welcome to the Airspace of the Alcyone - how can I help you?
+	- Hollia asks about the Aminatu and she says she can't allow them to approach
+	- Mara and Michael say they would like to enter the negotiations and she says "hold on for one moment" and they wait
+- Orevana makes it to the constabulary
+	- She frantically asks the front desk to take her to Tuldac because she has urgent news
+	- He meets her at the front desk and she asks to speak with him privately
+	- She explains everything that's going on - that Sterling is compromised, Springbeam is working with the crime lord (and she names Sabaal). He believes her and takes her back to the griffin riders
+	- Unfortunately it will take 10 minutes to get the griffins ready and leave
+- The flying party decide to sprint toward the Aminatu and land on the deck
+	- They march toward the helm where the door is thrown open unexpectedly
+	- ROLL INITIATIVE
+	- The team manages to knock out Trystimar and tie him up and gag and blindfold him
+	- Adizar asks them not to kill Trystimar and that she won't go down with the ship
+	- When they go into the room, they see Adizar surrounded by skeletons guarding her
+	- Hollia takes the helm of the Aminatu
+	- Michael mentions her helping us and Adizar claims she doesn't know what he's talking about (Peri knows she's lying)
+	- Michael makes her an offer to take her away after all of this - it's unknown if she'll take the offer
+- Suddenly the elven woman appears on the ship. She invites the party onto the Alcyone
+	- She tells the party that Nectis has invited them onto the ship to "ease tensions" (which Peri knows she's not lying)
+	- Adizar says she'll watch over the ship (truth) and that she won't untie Trystimar because he was an idiot that allowed himself to get knocked out
+	- The elven woman says that Nectis will not allow any fighting on his ship
+	- Mara says "we accept" and then the elven woman disappears and the party is standing in a white marble room
+- In the marble room, they see an irritated Sabaal holding the key fragment
+	- Above on a throne is a 12ft tall skinny man that they presume is Nectis
+	- Mara says "Hey, Sabaal - did you miss us?" with a smirk
+	- Nectis asks about who the rightful owner of the key is - he doesn't seem to have worked with Sabaal previously
+	- Hollia starts talking to try to bide time (Nectis interrupts)
+	- Michael mentions that they key probably has fecal matter from his butt (Sabaal looks disgusted by this)
+	- Hollia tells Nectis about what happened with the key. Nectis is troubled that there is a dispute on who owns the key
+	- Nectis seems surprised that Sabaal went against Greywater (Sterling Company owner) and says he wouldn't have gone against Greywater himself
+	- Nectis communicates with Michael in his mind and says he doesn't quite like Sabaal. Previously Sabaal tried to make a deal with him in the past but never had anything worthwhile. He also mentions how he normally doesn't work with Reigar because they tend to have violent streaks. They go back and forth about who the rightful key owner is (not Bertrum, nor Nectis but Nectis has the other fragments)
+		- It's an ancient key from Morganda
+		- Michael mentions that if Sabaal was dead, Nectis wouldn't need to pay anyone for the key. Or he could trade it with Sterling Company
+		- Michael asks what Sabaal was trading for it and he says it was a fine piece of armor made out of Tarrasque hide
+	- Sabaal starts to get frustrated that there's no forward progress toward making the deal and has an outburst. Nectis re-iterates that there will be no spellcasting or fighting on his ship
+	- Nectis goes back to his throne and says the fairest way to proceed is to proceed with the trade with Sabaal. Sabaal approaches the throne and hands the key to Nectis
+	- A pair of servants come out from a sudden door carrying the armor and they hand it to Sabaal
+	- Nectis immediately dispels Sabaal with the armor
+- Orevana comes forth through the clouds riding a griffin with Tuldac in the lead
+	- An elven woman appears in front of Tuldac and he gestures for Orevana to come join him after he has a quick conversation with her
+	- He and Orevana disappear with the woman and they both appear on the Nectis with the rest of the party
+	- Nectis says that Tuldac has business with Sabaal, who has been provoking us
+	- Tuldac asks if he can be sent outside to arrest Sabaal and Nectis obliges
+	- Nectis opens a window and we see Tuldac and his griffin riders board the Aminatu
+	- After some lightning, we see Sabaal, Adizar, and Trystimar get arrested
+- We get introductions with Nectis and end the session with the prospect of making a deal
+
 ----
 **The Party:** [[Orevana Brix|Orevana]] || [[Periwinkle|Peri]] || [[Mara Underhill|Mara]] || [[Hollia Butterfield|Hollia]] || [[Michael Landon|Michael]] || [[Gatewatch]]
 #### Open Tasks
