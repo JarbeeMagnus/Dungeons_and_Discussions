@@ -123,7 +123,7 @@ What we know...
 	- Michael/Nadiif walks around them to go to the back room and insisting he's going to "the cage"
 	- Sabaal commands him to get off the ship and, when Michael plays dumb, Sabaal swings his trident at the projection which dispells it
 - Orevana, realizing the jig is up, runs to the constabulary to talk to Tuldac. It takes about 10 minutes to get there, so we cut to the others
-- Peri starts to follow Orevana and then decides to instead head toward the Topaz Pillar
+- Peri starts to follow Orevana and then decides to instead head toward the Topaz Pillar. Peri turns into a quetzalcoatl
 	- Peri is the first to arrive and see the Sky Fish alongside the Aminatu
 	- He manages to duck into the clouds and then lands on the pillar to try to look like a normal dinosaur (but does not do it convincingly)
 - Michael casts Fly on himself, Hollia, and Mara
@@ -162,7 +162,7 @@ What we know...
 	- Hollia tells Nectis about what happened with the key. Nectis is troubled that there is a dispute on who owns the key
 	- Nectis seems surprised that Sabaal went against Greywater (Sterling Company owner) and says he wouldn't have gone against Greywater himself
 	- Nectis communicates with Michael in his mind and says he doesn't quite like Sabaal. Previously Sabaal tried to make a deal with him in the past but never had anything worthwhile. He also mentions how he normally doesn't work with Reigar because they tend to have violent streaks. They go back and forth about who the rightful key owner is (not Bertrum, nor Nectis but Nectis has the other fragments)
-		- It's an ancient key from Morganda
+		- It's an ancient key from Muraganda (the next sphere)
 		- Michael mentions that if Sabaal was dead, Nectis wouldn't need to pay anyone for the key. Or he could trade it with Sterling Company
 		- Michael asks what Sabaal was trading for it and he says it was a fine piece of armor made out of Tarrasque hide
 	- Sabaal starts to get frustrated that there's no forward progress toward making the deal and has an outburst. Nectis re-iterates that there will be no spellcasting or fighting on his ship
